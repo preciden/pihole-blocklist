@@ -13,6 +13,7 @@ ads1.msn.com
 aidps.atdmt.com
 aka-cdn-ns.adtech.de
 alpha.telemetry.microsoft.com
+amer.ng.msg.teams.microsoft.com
 apac1.notify.windows.com.akadns.net
 api.cortana.ai
 api.diagnostics.office.com
@@ -190,6 +191,7 @@ cs1.wpc.v0cdn.net
 ctldl.windowsupdate.com
 cxcs.microsoft.net
 cy2.vortex.data.microsoft.com.akadns.net
+dual-a-0001.a-msedge.net
 db5.settings.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
@@ -372,3 +374,5 @@ win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
 www.msedge.net
+www.tm.lg.prod.aadmsa.trafficmanager.net
+www.tm.a.prd.aadg.akadns.net
