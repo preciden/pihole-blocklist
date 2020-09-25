@@ -187,6 +187,7 @@ continuum.dds.microsoft.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cs1.wpc.v0cdn.net
+cxcs.microsoft.net
 cy2.vortex.data.microsoft.com.akadns.net
 db5.settings.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
@@ -296,6 +297,7 @@ i-sn2-cor002.api.p001.1drv.com
 i-sn3p-cor001.api.p001.1drv.com
 lb1.www.ms.akadns.net
 live.rads.msn.com
+l-ring.msedge.net
 m.adnxs.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
