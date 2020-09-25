@@ -346,6 +346,7 @@ telemetry.urs.microsoft.com
 teredo.ipv6.microsoft.com
 test.activity.windows.com
 umwatsonc.events.data.microsoft.com
+us-api.asm.skype.com
 us-v10.events.data.microsoft.com
 us-v20.events.data.microsoft.com
 us.vortex-win.data.microsoft.com
