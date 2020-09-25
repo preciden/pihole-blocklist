@@ -15,6 +15,8 @@ aka-cdn-ns.adtech.de
 alpha.telemetry.microsoft.com
 apac1.notify.windows.com.akadns.net
 api.cortana.ai
+api.diagnostics.office.com
+arc.msn.com
 asimov-win.settings.data.microsoft.com.akadns.net
 b.ads1.msn.com
 b.ads2.msads.net
@@ -193,6 +195,7 @@ db5-eap.settings-win.data.microsoft.com.akadns.net
 df.telemetry.microsoft.com
 diagnostics.support.microsoft.com
 ec.atdmt.com
+ecs.office.com
 eu.vortex.data.microsoft.com
 eu.vortex-win.data.microsoft.com
 eu-v10.events.data.microsoft.com
