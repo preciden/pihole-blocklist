@@ -1,0 +1,8 @@
+api.naea1.uds.lenovo.com
+chifsr.lenovomm.com
+download.lenovo.com
+filedownload.lenovo.com
+luda.dxp.lenovo.com
+sso.lenovo.com
+supportapi.lenovo.com
+vantage.csw.lenovo.com
