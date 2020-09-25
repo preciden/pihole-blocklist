@@ -299,6 +299,7 @@ i-sn3p-cor001.api.p001.1drv.com
 lb1.www.ms.akadns.net
 live.rads.msn.com
 l-ring.msedge.net
+l-0005.l-msedge.net
 m.adnxs.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
