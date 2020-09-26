@@ -372,6 +372,7 @@ watson.live.com
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
+wd-prod-ss-as-east-2-fe.eastasia.cloudapp.azure.com
 web.vortex.data.microsoft.com
 wes.df.telemetry.microsoft.com
 win10.ipv6.microsoft.com
