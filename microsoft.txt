@@ -14,6 +14,7 @@ aidps.atdmt.com
 aka-cdn-ns.adtech.de
 alpha.telemetry.microsoft.com
 amer.ng.msg.teams.microsoft.com
+analytics-collector-28944298.us-east-1.elb.amazonaws.com
 apac1.notify.windows.com.akadns.net
 api.cortana.ai
 api.diagnostics.office.com
