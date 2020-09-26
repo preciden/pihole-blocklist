@@ -1,1 +1,1 @@
-
+collector.githubapp.com
