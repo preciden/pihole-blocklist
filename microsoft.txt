@@ -321,6 +321,7 @@ rad.live.com
 rad.msn.com
 redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
+s-0005.s-msedge.net
 schemas.microsoft.akadns.net
 secure.adnxs.com
 secure.flashtalking.com
