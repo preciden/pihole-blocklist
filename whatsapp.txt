@@ -69,6 +69,7 @@ w7.web.whatsapp.com
 w8.web.whatsapp.com
 w9.web.whatsapp.com
 whatsapp-cdn-shv-01-atl1.fbcdn.net
+whatsapp-cdn-shv-01-bom1.fbcdn.net
 whatsapp-cdn-shv-01-dfw1.fbcdn.net
 whatsapp-cdn-shv-01-iad3.fbcdn.net
 whatsapp-cdn-shv-01-lax1.fbcdn.net
@@ -78,6 +79,11 @@ whatsapp-cdn-shv-01-mia1.fbcdn.net
 whatsapp-cdn-shv-01-ord1.fbcdn.net
 whatsapp-cdn-shv-01-sea1.fbcdn.net
 whatsapp-cdn-shv-01-sjc2.fbcdn.net
+whatsapp-chatd-edge-shv-01-atl3.facebook.com
+whatsapp-chatd-edge-shv-01-mia3.facebook.com
+whatsapp-chatd-edge-shv-01-bom1.facebook.com
+whatsapp-chatd-edge-shv-02-lga3.facebook.com
+whatsapp-chatd-edge-shv-02-mia3.facebook.com
 www-cdn.whatsapp.net
 (^|\.)whatsapp\.com$
 whatsapp.com
