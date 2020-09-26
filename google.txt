@@ -13,6 +13,7 @@ ocsp.pki.goog
 pagead2.googlesyndication.com
 pki-goog.l.google.com
 play.googleapis.com
+safebrowsing.googleapis.com
 tpc.googlesyndication.com
 www.google-analytics.com
 www.googletagservices.com
