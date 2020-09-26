@@ -1,1 +1,9 @@
 c.go-mpulse.net
+e8736.e7.akamaiedge.net
+global.px.quantserve.com
+pixel.quantserve.com
+rules.quantcount.com
+secure.quantserve.com
+sb.scorecardresearch.com
+tls13.taboola.map.fastly.net
+trc.taboola.com
