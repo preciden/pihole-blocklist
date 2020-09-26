@@ -200,6 +200,7 @@ ctldl.windowsupdate.com
 cxcs.microsoft.net
 cy2.vortex.data.microsoft.com.akadns.net
 displaycatalog.mp.microsoft.com
+dc.services.visualstudio.com
 dual-a-0001.a-msedge.net
 db5.settings.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
