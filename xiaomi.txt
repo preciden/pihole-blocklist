@@ -2,5 +2,8 @@ idmb.app.chat.global.xiaomi.net
 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
 resolver.msg.global.xiaomi.net
