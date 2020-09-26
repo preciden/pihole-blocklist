@@ -1,12 +1,12 @@
-account-us2.huami.com
-account.huami.com
-api-mifit-us2.huami.com
-api-watch-us2.huami.com
-api-user.huami.com
-api-user-us2.huami.com
+# account-us2.huami.com
+# account.huami.com
+# api-mifit-us2.huami.com
+# api-watch-us2.huami.com
+# api-user.huami.com
+# api-user-us2.huami.com
 api-analytics-us.huami.com
 app-analytics-us.huami.com
-auth-us2.huami.com
+# auth-us2.huami.com
 fe-static.huami.com
 idmb.app.chat.global.xiaomi.net
 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
