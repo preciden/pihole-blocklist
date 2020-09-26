@@ -351,6 +351,7 @@ telemetry.remoteapp.windowsazure.com
 telemetry.urs.microsoft.com
 teredo.ipv6.microsoft.com
 test.activity.windows.com
+uif.microsoft.com
 umwatsonc.events.data.microsoft.com
 us-api.asm.skype.com
 us-v10.events.data.microsoft.com
