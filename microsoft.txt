@@ -17,7 +17,9 @@ amer.ng.msg.teams.microsoft.com
 apac1.notify.windows.com.akadns.net
 api.cortana.ai
 api.diagnostics.office.com
+api.cdp.dsp.mp.microsoft.com.nsatc.net
 arc.msn.com
+arc.msn.com.nsatc.net
 asimov-win.settings.data.microsoft.com.akadns.net
 b.ads1.msn.com
 b.ads2.msads.net
