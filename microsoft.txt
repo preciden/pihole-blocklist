@@ -217,6 +217,7 @@ g.msn.com
 geo.settings.data.microsoft.com.akadns.net
 geo.settings-win.data.microsoft.com.akadns.net
 geo.vortex.data.microsoft.com.akadns.net
+graph.microsoft.com
 h1.msn.com
 h2.msn.com
 hk2.settings.data.microsoft.com.akadns.net
