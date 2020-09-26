@@ -195,6 +195,7 @@ continuum.dds.microsoft.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cs1.wpc.v0cdn.net
+cs.dds.microsoft.com
 ctldl.windowsupdate.com
 cxcs.microsoft.net
 cy2.vortex.data.microsoft.com.akadns.net
