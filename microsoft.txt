@@ -310,6 +310,7 @@ i-ch1-cor002.api.p001.1drv.com
 i-sn2-cor001.api.p001.1drv.com
 i-sn2-cor002.api.p001.1drv.com
 i-sn3p-cor001.api.p001.1drv.com
+identity.osi.office.net
 lb1.www.ms.akadns.net
 live.rads.msn.com
 l-ring.msedge.net
@@ -328,12 +329,14 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 oca.telemetry.microsoft.com
 onecollector.cloudapp.aria.akadns.net
+odc.officeapps.live.com
 pre.footprintpredict.com
 preview.msn.com
 rad.live.com
 rad.msn.com
 redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
+roaming.officeapps.live.com
 s-0005.s-msedge.net
 schemas.microsoft.akadns.net
 secure.adnxs.com
