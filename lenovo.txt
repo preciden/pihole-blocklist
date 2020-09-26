@@ -4,6 +4,7 @@ download.lenovo.com
 e1805.g.akamaiedge.net
 filedownload.lenovo.com
 luda.dxp.lenovo.com
+msg.dxp.lenovo.com
 sso.lenovo.com
 supportapi.lenovo.com
 vantage.csw.lenovo.com
