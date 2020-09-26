@@ -1,0 +1,3 @@
+dialercallinfolookup-pa.googleapis.com
+(\.|^)https://www\.youtube\.com$
+(\.|^)youtube\.com$
