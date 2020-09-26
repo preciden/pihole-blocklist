@@ -330,6 +330,7 @@ nexusrules.officeapps.live.com
 oca.telemetry.microsoft.com
 onecollector.cloudapp.aria.akadns.net
 odc.officeapps.live.com
+ocws.officeapps.live.com
 pre.footprintpredict.com
 preview.msn.com
 rad.live.com
