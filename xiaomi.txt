@@ -1,0 +1,2 @@
+idmb.app.chat.global.xiaomi.net
+resolver.msg.global.xiaomi.net
