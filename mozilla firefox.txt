@@ -1,4 +1,7 @@
+# api.accounts.firefox.com
+# 	detectportal.firefox.com
 prod-tp.sumo.mozit.cloud
+#  firefox.settings.services.mozilla.com
 incoming.telemetry.mozilla.org
 token.services.mozilla.com
 token.r53-2.services.mozilla.com
