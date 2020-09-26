@@ -1,2 +1,4 @@
 prod-tp.sumo.mozit.cloud
 incoming.telemetry.mozilla.org
+token.services.mozilla.com
+token.r53-2.services.mozilla.com
