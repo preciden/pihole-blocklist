@@ -1,0 +1,2 @@
+in.airtel.rcs.telephony.goog
+_sips._tcp.in.airtel.rcs.telephony.goog
