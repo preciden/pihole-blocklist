@@ -1,1 +1,4 @@
+external-content.duckduckgo.com
+improving.duckduckgo.com
 links.duckduckgo.com
+
