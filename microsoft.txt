@@ -308,6 +308,7 @@ live.rads.msn.com
 l-ring.msedge.net
 l-0003.l-msedge.net
 l-0005.l-msedge.net
+# 	livetileedge.dsx.mp.microsoft.com
 licensing.mp.microsoft.com
 m.adnxs.com
 mobile.events.data.microsoft.com
@@ -349,6 +350,8 @@ sqm.telemetry.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
 ssw.live.com
 # store-images.microsoft.com
+# store-images.s-microsoft.com
+# storeedgefd.dsx.mp.microsoft.com
 survey.watson.microsoft.com
 tele.trafficmanager.net
 telecommand.telemetry.microsoft.com
