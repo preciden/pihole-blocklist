@@ -18,6 +18,9 @@ apac1.notify.windows.com.akadns.net
 api.cortana.ai
 api.diagnostics.office.com
 api.cdp.dsp.mp.microsoft.com.nsatc.net
+array811.prod.do.dsp.mp.microsoft.com
+array813.prod.do.dsp.mp.microsoft.com
+array804.prod.do.dsp.mp.microsoft.com
 arc.msn.com
 arc.msn.com.nsatc.net
 asimov-win.settings.data.microsoft.com.akadns.net
