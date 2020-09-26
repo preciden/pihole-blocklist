@@ -210,6 +210,7 @@ eu-v20.events.data.microsoft.com
 events.data.microsoft.com
 flex.msn.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+fe3cr.delivery.mp.microsoft.com
 fp.msedge.net
 g.msn.com
 geo.settings.data.microsoft.com.akadns.net
