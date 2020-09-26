@@ -1,5 +1,5 @@
-# account-us2.huami.com
 # account.huami.com
+# account-us2.huami.com
 # api-mifit-us2.huami.com
 # api-watch-us2.huami.com
 # api-user.huami.com
@@ -7,6 +7,7 @@
 api-analytics-us.huami.com
 app-analytics-us.huami.com
 # auth-us2.huami.com
+cgi.connect.qq.com
 fe-static.huami.com
 idmb.app.chat.global.xiaomi.net
 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
@@ -16,4 +17,10 @@ idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
+logs.amap.com
+login.sina.com
+login.sina.com.cn
+mpsapi.amap.com
 resolver.msg.global.xiaomi.net
+restapi.amap.com
+wprd02.is.autonavi.com
