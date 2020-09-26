@@ -1,1 +1,2 @@
 prod-tp.sumo.mozit.cloud
+incoming.telemetry.mozilla.org
