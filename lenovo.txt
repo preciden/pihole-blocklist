@@ -1,6 +1,7 @@
 api.naea1.uds.lenovo.com
 chifsr.lenovomm.com
 download.lenovo.com
+e1805.g.akamaiedge.net
 filedownload.lenovo.com
 luda.dxp.lenovo.com
 sso.lenovo.com
