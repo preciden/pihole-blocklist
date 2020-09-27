@@ -28,6 +28,7 @@ www3.l.google.com
 www.gstatic.com
 www.google-analytics.com
 www-googletagmanager.l.google.com
+www-google-analytics.l.google.com
 www.google.com
 www.google.co.in
 
