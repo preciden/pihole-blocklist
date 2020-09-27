@@ -35,4 +35,5 @@ tls13.taboola.map.fastly.net
 tps20808.doubleverify.com
 tps20801.doubleverify.com
 trc.taboola.com
+www.onetrust.com
 x.bidswitch.net
