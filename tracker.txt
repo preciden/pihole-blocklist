@@ -1,5 +1,6 @@
 684d0d3e.akstat.io
 ads.servenobid.com
+as-sec.casalemedia.com
 api.permutive.com
 api.leanplum.com
 app.adjust.com
@@ -21,6 +22,7 @@ e8736.e7.akamaiedge.net
 e8937.dscb.akamaiedge.net
 embed-ssl.wistia.com
 events.evie.com
+eus.rubiconproject.com
 forms.hubspot.com
 global.px.quantserve.com
 g2.gumgum.com
@@ -30,14 +32,18 @@ onesignal.com
 ocsp.sectigo.com
 ocsp.digicert.com
 pixel.quantserve.com
-p.adsymptotic.com	
+p.adsymptotic.com
+prebid-server.rubiconproject.com	
 privacyportal.onetrust.com
 pixel.rubiconproject.com
 pixel.rubiconproject.net.akadns.net
 ping.chartbeat.net
+pixel.33across.com
 rlv.zcache.com
 rules.quantcount.com
 sectigo.com
+ssum-sec.casalemedia.com
+srv.buysellads.com
 secure.trust-provider.com
 sofia.trustx.org
 secure.sectigo.com
@@ -52,5 +58,6 @@ tps20808.doubleverify.com
 tps20801.doubleverify.com
 trc.taboola.com
 www.onetrust.com
+web.hb.ad.cpe.dotomi.com
 wzrkt.com
 x.bidswitch.net
