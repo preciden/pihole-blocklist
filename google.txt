@@ -9,6 +9,7 @@ dialercallinfolookup-pa.googleapis.com #phoneapp
 fonts.googleapis.com
 fonts.gstatic.com
 in.airtel.rcs.telephony.goog
+imasdk.googleapis.com
 googletagservices.com
 gstaticadssl.l.google.com
 g.cn
@@ -22,6 +23,8 @@ pki-goog.l.google.com
 play.googleapis.com
 safebrowsing.googleapis.com
 ssl.gstatic.com
+s0-2mdn-net.l.google.com
+s0.2mdn.net
 time.android.com
 tpc.googlesyndication.com
 www3.l.google.com
@@ -31,4 +34,3 @@ www-googletagmanager.l.google.com
 www-google-analytics.l.google.com
 www.google.com
 www.google.co.in
-
