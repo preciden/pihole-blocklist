@@ -6,6 +6,7 @@ app-measurement.com
 connectivitycheck.gstatic.com
 clients.l.google.com
 clients3.google.com
+cse.google.com
 dialercallinfolookup-pa.googleapis.com #phoneapp
 fonts.googleapis.com
 fonts.gstatic.com
