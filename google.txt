@@ -20,6 +20,7 @@ photos-ugc.l.googleusercontent.com
 pki-goog.l.google.com
 play.googleapis.com
 safebrowsing.googleapis.com
+ssl.gstatic.com
 time.android.com
 tpc.googlesyndication.com
 www.gstatic.com
