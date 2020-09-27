@@ -20,6 +20,8 @@ ocsp.sectigo.com
 pixel.quantserve.com
 p.adsymptotic.com	
 privacyportal.onetrust.com
+pixel.rubiconproject.com
+pixel.rubiconproject.net.akadns.net
 rules.quantcount.com
 secure.quantserve.com
 sb.scorecardresearch.com
