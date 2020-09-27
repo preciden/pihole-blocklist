@@ -18,6 +18,7 @@ e8937.dscb.akamaiedge.net
 embed-ssl.wistia.com
 forms.hubspot.com
 global.px.quantserve.com
+g2.gumgum.com
 img.onesignal.com
 onesignal.com
 ocsp.sectigo.com
