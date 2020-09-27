@@ -2,6 +2,7 @@ _sips._tcp.in.airtel.rcs.telephony.goog
 ajax.googleapis.com
 adservice.google.co.in
 android.clients.google.com
+app-measurement.com
 connectivitycheck.gstatic.com
 clients.l.google.com
 clients3.google.com
