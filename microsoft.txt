@@ -20,6 +20,7 @@ apdc4n-log-public-webservice.westindia.cloudapp.azure.com
 api.cortana.ai
 api.diagnostics.office.com
 api.cdp.dsp.mp.microsoft.com.nsatc.net
+array609.prod.do.dsp.mp.microsoft.com
 array811.prod.do.dsp.mp.microsoft.com
 array813.prod.do.dsp.mp.microsoft.com
 array804.prod.do.dsp.mp.microsoft.com
