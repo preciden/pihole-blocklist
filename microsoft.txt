@@ -212,6 +212,7 @@ db5.vortex.data.microsoft.com.akadns.net
 db5-eap.settings-win.data.microsoft.com.akadns.net
 df.telemetry.microsoft.com
 diagnostics.support.microsoft.com
+download.windowsupdate.com
 ec.atdmt.com
 ecs.office.com
 eu.vortex.data.microsoft.com
