@@ -16,6 +16,7 @@ d228z91au11ukj.cloudfront.net
 e8736.e7.akamaiedge.net
 e8937.dscb.akamaiedge.net
 embed-ssl.wistia.com
+events.evie.com
 forms.hubspot.com
 global.px.quantserve.com
 g2.gumgum.com
