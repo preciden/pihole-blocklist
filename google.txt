@@ -32,6 +32,7 @@ s0-2mdn-net.l.google.com
 s0.2mdn.net
 time.android.com
 tpc.googlesyndication.com
+telephonyspamprotect-pa.googleapis.com
 www3.l.google.com
 www.gstatic.com
 www.google-analytics.com
