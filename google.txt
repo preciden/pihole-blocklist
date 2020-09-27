@@ -15,6 +15,7 @@ fonts.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.gstatic.com
 in.airtel.rcs.telephony.goog
+instantmessaging-pa-ap.googleapis.com
 imasdk.googleapis.com
 googletagservices.com
 gstaticadssl.l.google.com
@@ -31,6 +32,7 @@ photos-ugc.l.googleusercontent.com
 pki-goog.l.google.com
 play-lh.googleusercontent.com
 play.googleapis.com
+rcs-acs-airtel-india.jibe.google.com
 safebrowsing.googleapis.com
 ssl.gstatic.com
 s0-2mdn-net.l.google.com
