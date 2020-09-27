@@ -1,5 +1,6 @@
 _sips._tcp.in.airtel.rcs.telephony.goog
 ajax.googleapis.com
+alt4-mtalk.google.com
 adservice.google.co.in
 android.clients.google.com
 android.googleapis.com
@@ -9,12 +10,15 @@ clients.l.google.com
 clients3.google.com
 cse.google.com
 dialercallinfolookup-pa.googleapis.com #phoneapp
+dns.google
 fonts.googleapis.com
+firebaseremoteconfig.googleapis.com
 fonts.gstatic.com
 in.airtel.rcs.telephony.goog
 imasdk.googleapis.com
 googletagservices.com
 gstaticadssl.l.google.com
+googleads.g.doubleclick.net
 g.cn
 maa03s28-in-f10.1e100.net #messageapp
 maa05s12-in-f10.1e100.net #messageapp
@@ -25,10 +29,12 @@ phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
 photos-ugc.l.googleusercontent.com
 pki-goog.l.google.com
+play-lh.googleusercontent.com
 play.googleapis.com
 safebrowsing.googleapis.com
 ssl.gstatic.com
 s0-2mdn-net.l.google.com
+suggestqueries.google.com
 s0.2mdn.net
 time.android.com
 tpc.googlesyndication.com
@@ -41,3 +47,4 @@ www-google-analytics.l.google.com
 www.google.com
 www.google.co.in
 www.googleapis.com
+www.google.ru
