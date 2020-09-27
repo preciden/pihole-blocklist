@@ -25,6 +25,7 @@ forms.hubspot.com
 global.px.quantserve.com
 g2.gumgum.com
 img.onesignal.com
+ib.adnxs.com
 onesignal.com
 ocsp.sectigo.com
 ocsp.digicert.com
@@ -33,10 +34,12 @@ p.adsymptotic.com
 privacyportal.onetrust.com
 pixel.rubiconproject.com
 pixel.rubiconproject.net.akadns.net
+ping.chartbeat.net
 rlv.zcache.com
 rules.quantcount.com
 sectigo.com
 secure.trust-provider.com
+sofia.trustx.org
 secure.sectigo.com
 secure.quantserve.com
 sb.scorecardresearch.com
@@ -49,4 +52,5 @@ tps20808.doubleverify.com
 tps20801.doubleverify.com
 trc.taboola.com
 www.onetrust.com
+wzrkt.com
 x.bidswitch.net
