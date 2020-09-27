@@ -5,6 +5,7 @@ a1089.dscd.akamai.net
 a1916.dscr.akamai.net
 # a1991.dscr.akamai.net
 c.go-mpulse.net
+c.mgid.com
 cdn.doubleverify.com
 de.tynt.com
 d228z91au11ukj.cloudfront.net
@@ -16,7 +17,8 @@ img.onesignal.com
 onesignal.com
 ocsp.sectigo.com
 pixel.quantserve.com
-p.adsymptotic.com
+p.adsymptotic.com	
+privacyportal.onetrust.com
 rules.quantcount.com
 secure.quantserve.com
 sb.scorecardresearch.com
