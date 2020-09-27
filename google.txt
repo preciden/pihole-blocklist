@@ -23,6 +23,7 @@ safebrowsing.googleapis.com
 ssl.gstatic.com
 time.android.com
 tpc.googlesyndication.com
+www3.l.google.com
 www.gstatic.com
 www.google-analytics.com
 www-googletagmanager.l.google.com
