@@ -323,6 +323,7 @@ l-0003.l-msedge.net
 l-0005.l-msedge.net
 livetileedge.dsx.mp.microsoft.com
 licensing.mp.microsoft.com
+login.windows.net
 m.adnxs.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
