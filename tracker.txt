@@ -28,8 +28,11 @@ p.adsymptotic.com
 privacyportal.onetrust.com
 pixel.rubiconproject.com
 pixel.rubiconproject.net.akadns.net
+rlv.zcache.com
 rules.quantcount.com
 sectigo.com
+secure.trust-provider.com
+secure.sectigo.com
 secure.quantserve.com
 sb.scorecardresearch.com
 shops.myshopify.com
