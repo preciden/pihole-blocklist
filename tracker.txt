@@ -5,6 +5,7 @@ api.hubapi.com
 a1089.dscd.akamai.net
 a1916.dscr.akamai.net
 # a1991.dscr.akamai.net
+better.fyi
 c.go-mpulse.net
 c.mgid.com
 cdn.doubleverify.com
@@ -23,8 +24,10 @@ privacyportal.onetrust.com
 pixel.rubiconproject.com
 pixel.rubiconproject.net.akadns.net
 rules.quantcount.com
+sectigo.com
 secure.quantserve.com
 sb.scorecardresearch.com
+shops.myshopify.com
 sgcp-hlb.dvgtm.akadns.net
 ssc-cms.33across.com
 track.hubspot.com
