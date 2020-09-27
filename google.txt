@@ -11,9 +11,9 @@ clients3.google.com
 cse.google.com
 dialercallinfolookup-pa.googleapis.com #phoneapp
 dns.google
-fonts.googleapis.com
+# fonts.googleapis.com
 firebaseremoteconfig.googleapis.com
-fonts.gstatic.com
+# fonts.gstatic.com
 in.airtel.rcs.telephony.goog
 instantmessaging-pa-ap.googleapis.com
 imasdk.googleapis.com
