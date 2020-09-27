@@ -3,6 +3,7 @@ api.permutive.com
 api.hubapi.com
 a1089.dscd.akamai.net
 a1916.dscr.akamai.net
+a1991.dscr.akamai.net
 c.go-mpulse.net
 cdn.doubleverify.com
 de.tynt.com
