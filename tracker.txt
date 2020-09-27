@@ -1,6 +1,8 @@
 684d0d3e.akstat.io
 ads.servenobid.com
 api.permutive.com
+api.leanplum.com
+app.adjust.com
 api.hubapi.com
 #a1089.dscd.akamai.net
 a1916.dscr.akamai.net
@@ -9,6 +11,7 @@ better.fyi
 c.go-mpulse.net
 c.mgid.com
 cdn.doubleverify.com
+captive.apple.com
 d.sni.global.fastly.net
 de.tynt.com
 distillery.wistia.com
