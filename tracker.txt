@@ -9,10 +9,13 @@ better.fyi
 c.go-mpulse.net
 c.mgid.com
 cdn.doubleverify.com
+d.sni.global.fastly.net
 de.tynt.com
+distillery.wistia.com
 d228z91au11ukj.cloudfront.net
 e8736.e7.akamaiedge.net
 e8937.dscb.akamaiedge.net
+embed-ssl.wistia.com
 forms.hubspot.com
 global.px.quantserve.com
 img.onesignal.com
