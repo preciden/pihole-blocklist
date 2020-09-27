@@ -18,7 +18,7 @@ in.airtel.rcs.telephony.goog
 instantmessaging-pa-ap.googleapis.com
 imasdk.googleapis.com
 googletagservices.com
-gstaticadssl.l.google.com
+# gstaticadssl.l.google.com
 googleads.g.doubleclick.net
 g.cn
 maa03s28-in-f10.1e100.net #messageapp
