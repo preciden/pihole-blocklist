@@ -12,6 +12,7 @@ c.go-mpulse.net
 c.mgid.com
 cdn.doubleverify.com
 captive.apple.com
+cs9.wac.phicdn.net
 d.sni.global.fastly.net
 de.tynt.com
 distillery.wistia.com
@@ -26,6 +27,7 @@ g2.gumgum.com
 img.onesignal.com
 onesignal.com
 ocsp.sectigo.com
+ocsp.digicert.com
 pixel.quantserve.com
 p.adsymptotic.com	
 privacyportal.onetrust.com
