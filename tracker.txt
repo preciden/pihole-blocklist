@@ -14,6 +14,7 @@ forms.hubspot.com
 global.px.quantserve.com
 img.onesignal.com
 onesignal.com
+ocsp.sectigo.com
 pixel.quantserve.com
 p.adsymptotic.com
 rules.quantcount.com
