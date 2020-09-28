@@ -1,3 +1,7 @@
+aax-eu.amazon-adsystem.com
 c.amazon-adsystem.com
+c.media-amazon.com
 fls-na.amazon.com
+m.media-amazon.com
+ocsp.sca1b.amazontrust.com
 s.amazon-adsystem.com
