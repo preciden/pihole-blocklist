@@ -10,6 +10,8 @@ ads.us.e-planning.net
 #a1089.dscd.akamai.net
 a1916.dscr.akamai.net
 # a1991.dscr.akamai.net
+beacon-apac-hkg1.rubiconproject.com
+beacon-perf-hkg1.rubiconproject.net.akadns.net
 better.fyi
 c.go-mpulse.net
 c.mgid.com
@@ -38,13 +40,16 @@ ocsp.digicert.com
 pixel.quantserve.com
 p.adsymptotic.com
 prebid-server.rubiconproject.com	
+prebid-server-perf.rubiconproject.net.akadns.net
 privacyportal.onetrust.com
 pixel.rubiconproject.com
+pixel-eu.rubiconproject.net.akadns.net
 pixel.rubiconproject.net.akadns.net
 ping.chartbeat.net
 pixel.33across.com
 rlv.zcache.com
 rules.quantcount.com
+rubiconcm.digitaleast.mobi
 sectigo.com
 ssum-sec.casalemedia.com
 srv.buysellads.com
@@ -52,11 +57,14 @@ secure.trust-provider.com
 sofia.trustx.org
 secure.sectigo.com
 secure.quantserve.com
+secure-assets.rubiconproject.com
 sb.scorecardresearch.com
 shops.myshopify.com
 sgcp-hlb.dvgtm.akadns.net
 ssc-cms.33across.com
 tag.1rx.io
+tagged-by.rubiconproject.net.akadns.net
+token.rubiconproject.com
 track.hubspot.com
 tls13.taboola.map.fastly.net
 tps20808.doubleverify.com
