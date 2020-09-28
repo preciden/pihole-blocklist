@@ -10,6 +10,8 @@ ads.us.e-planning.net
 #a1089.dscd.akamai.net
 a1916.dscr.akamai.net
 # a1991.dscr.akamai.net
+bam.nr-data.netv
+b.gemini.yahoo.com
 beacon-apac-hkg1.rubiconproject.com
 beacon-perf-hkg1.rubiconproject.net.akadns.net
 better.fyi
@@ -17,6 +19,7 @@ c.go-mpulse.net
 c.mgid.com
 cdn.doubleverify.com
 captive.apple.com
+cs.emxdgt.com
 cs9.wac.phicdn.net
 d.sni.global.fastly.net
 de.tynt.com
@@ -30,14 +33,17 @@ eus.rubiconproject.com
 fastlane.rubiconproject.com
 forms.hubspot.com
 global.px.quantserve.com
+geo.yahoo.com
 g2.gumgum.com
 img.onesignal.com
+ipac.ctnsnet.com
 ib.adnxs.com
+js-agent.newrelic.com
 onesignal.com
 ocsp.sectigo.com
 ocsp.int-x3.letsencrypt.org
 # ocsp.digicert.com
-pixel.quantserve.com
+pr-bh.ybp.yahoo.com
 p.adsymptotic.com
 prebid-server.rubiconproject.com	
 prebid-server-perf.rubiconproject.net.akadns.net
@@ -47,9 +53,18 @@ pixel-eu.rubiconproject.net.akadns.net
 pixel.rubiconproject.net.akadns.net
 ping.chartbeat.net
 pixel.33across.com
+pixel.tapad.com
+pixel.quantserve.com
+pixel-origin.mathtag.com
+pippio.com
+pr-bh.ybp.yahoo.com
 rlv.zcache.com
+rc-ext-geo.rlcdn.com
+rtb.gumgum.com
+rc.rlcdn.com
 rules.quantcount.com
 rubiconcm.digitaleast.mobi
+simage4.pubmatic.com
 sectigo.com
 ssum-sec.casalemedia.com
 srv.buysellads.com
@@ -61,8 +76,10 @@ secure.quantserve.com
 secure-assets.rubiconproject.com
 sb.scorecardresearch.com
 shops.myshopify.com
+subscription.omnithrottle.com
 sgcp-hlb.dvgtm.akadns.net
 ssc-cms.33across.com
+sync.mathtag.com
 tag.1rx.io
 tagged-by.rubiconproject.net.akadns.net
 token.rubiconproject.com
@@ -71,6 +88,7 @@ tls13.taboola.map.fastly.net
 tps20808.doubleverify.com
 tps20801.doubleverify.com
 trc.taboola.com
+uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
 www.onetrust.com
 web.hb.ad.cpe.dotomi.com
 wzrkt.com
