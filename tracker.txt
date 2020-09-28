@@ -45,7 +45,6 @@ onesignal.com
 ocsp.sectigo.com
 ocsp.int-x3.letsencrypt.org
 # ocsp.digicert.com
-pr-bh.ybp.yahoo.com
 p.adsymptotic.com
 prebid-server.rubiconproject.com	
 prebid-server-perf.rubiconproject.net.akadns.net
