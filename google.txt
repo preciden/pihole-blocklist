@@ -54,5 +54,5 @@ www-googletagmanager.l.google.com
 www-google-analytics.l.google.com
 www.google.com
 www.google.co.in
-www.googleapis.com
+# www.googleapis.com
 www.google.ru
