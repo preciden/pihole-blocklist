@@ -5,6 +5,8 @@ api.permutive.com
 api.leanplum.com
 app.adjust.com
 api.hubapi.com
+ap.lijit.com
+ads.us.e-planning.net	
 #a1089.dscd.akamai.net
 a1916.dscr.akamai.net
 # a1991.dscr.akamai.net
@@ -23,6 +25,7 @@ e8937.dscb.akamaiedge.net
 embed-ssl.wistia.com
 events.evie.com
 eus.rubiconproject.com
+fastlane.rubiconproject.com
 forms.hubspot.com
 global.px.quantserve.com
 g2.gumgum.com
@@ -30,6 +33,7 @@ img.onesignal.com
 ib.adnxs.com
 onesignal.com
 ocsp.sectigo.com
+ocsp.int-x3.letsencrypt.org
 ocsp.digicert.com
 pixel.quantserve.com
 p.adsymptotic.com
@@ -52,6 +56,7 @@ sb.scorecardresearch.com
 shops.myshopify.com
 sgcp-hlb.dvgtm.akadns.net
 ssc-cms.33across.com
+tag.1rx.io
 track.hubspot.com
 tls13.taboola.map.fastly.net
 tps20808.doubleverify.com
