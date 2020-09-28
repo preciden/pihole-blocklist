@@ -35,6 +35,8 @@ play.googleapis.com
 rcs-acs-airtel-india.jibe.google.com
 safebrowsing.googleapis.com
 ssl.gstatic.com
+ssl.google-analytics.com
+ssl-google-analytics.l.google.com
 s0-2mdn-net.l.google.com
 suggestqueries.google.com
 s0.2mdn.net
