@@ -28,12 +28,14 @@ d228z91au11ukj.cloudfront.net
 e8736.e7.akamaiedge.net
 e8937.dscb.akamaiedge.net
 embed-ssl.wistia.com
+engineering.tapad.com
 events.evie.com
 eus.rubiconproject.com
 fastlane.rubiconproject.com
 forms.hubspot.com
 global.px.quantserve.com
 geo.yahoo.com
+geo-atsv2.media.g03.yahoodns.net
 g2.gumgum.com
 img.onesignal.com
 ipac.ctnsnet.com
