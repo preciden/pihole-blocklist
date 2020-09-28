@@ -54,6 +54,7 @@ sectigo.com
 ssum-sec.casalemedia.com
 srv.buysellads.com
 secure.trust-provider.com
+settingsfd-geo.trafficmanager.net
 sofia.trustx.org
 secure.sectigo.com
 secure.quantserve.com
