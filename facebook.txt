@@ -1,3 +1,8 @@
-
+atlas.c10r.facebook.com
+connect.facebook.net
+graph.facebook.com
+instagram.c10r.facebook.com
+m.facebook.com
 star-mini.c10r.facebook.com
 www.facebook.com
+z-p42-instagram.c10r.facebook.com
