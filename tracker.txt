@@ -36,7 +36,7 @@ ib.adnxs.com
 onesignal.com
 ocsp.sectigo.com
 ocsp.int-x3.letsencrypt.org
-ocsp.digicert.com
+# ocsp.digicert.com
 pixel.quantserve.com
 p.adsymptotic.com
 prebid-server.rubiconproject.com	
