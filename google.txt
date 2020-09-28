@@ -26,6 +26,7 @@ maa05s12-in-f10.1e100.net #messageapp
 mtalk.google.com
 ocsp.pki.goog
 pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
 phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
 photos-ugc.l.googleusercontent.com
@@ -34,6 +35,7 @@ play-lh.googleusercontent.com
 play.googleapis.com
 rcs-acs-airtel-india.jibe.google.com
 safebrowsing.googleapis.com
+static.doubleclick.net
 static-doubleclick-net.l.google.com
 ssl.gstatic.com
 ssl.google-analytics.com
