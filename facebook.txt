@@ -1,8 +1,12 @@
 atlas.c10r.facebook.com
 connect.facebook.net
 graph.facebook.com
+graph.instagram.com
 instagram.c10r.facebook.com
+instagram.frpr1-1.fna.fbcdn.net
+instagram.flis8-2.fna.fbcdn.net
 m.facebook.com
 star-mini.c10r.facebook.com
 www.facebook.com
+www.instagram.com
 z-p42-instagram.c10r.facebook.com
