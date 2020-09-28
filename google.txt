@@ -34,6 +34,7 @@ play-lh.googleusercontent.com
 play.googleapis.com
 rcs-acs-airtel-india.jibe.google.com
 safebrowsing.googleapis.com
+static-doubleclick-net.l.google.com
 ssl.gstatic.com
 ssl.google-analytics.com
 ssl-google-analytics.l.google.com
@@ -43,6 +44,7 @@ s0.2mdn.net
 time.android.com
 tpc.googlesyndication.com
 telephonyspamprotect-pa.googleapis.com
+update.googleapis.com
 www3.l.google.com
 www.gstatic.com
 www.google-analytics.com
