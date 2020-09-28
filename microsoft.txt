@@ -413,4 +413,4 @@ win8.ipv6.microsoft.com
 www.msedge.net
 # www.tm.lg.prod.aadmsa.trafficmanager.net
 www.tm.a.prd.aadg.akadns.net
-www.msftconnecttest.com
+# www.msftconnecttest.com
