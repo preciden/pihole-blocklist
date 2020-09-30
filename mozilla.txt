@@ -3,6 +3,9 @@
 prod-tp.sumo.mozit.cloud
 #  firefox.settings.services.mozilla.com
 incoming.telemetry.mozilla.org
+incoming-telemetry.thunderbird.net
 pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
+prod-classifyclient.normandy.prod.cloudops.mozgcp.net
+shavar.services.mozilla.com
 token.services.mozilla.com
 token.r53-2.services.mozilla.com
