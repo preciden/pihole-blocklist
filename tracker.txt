@@ -16,6 +16,8 @@ b.gemini.yahoo.com
 beacon-apac-hkg1.rubiconproject.com
 beacon-perf-hkg1.rubiconproject.net.akadns.net
 better.fyi
+branch.io
+cdn.branch.io
 c.go-mpulse.net
 c.mgid.com
 cdn.doubleverify.com
