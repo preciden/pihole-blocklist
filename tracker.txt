@@ -7,6 +7,7 @@ app.adjust.com
 api.hubapi.com
 ap.lijit.com
 ads.us.e-planning.net	
+assets.moat.com
 #a1089.dscd.akamai.net
 a1916.dscr.akamai.net
 # a1991.dscr.akamai.net
@@ -41,6 +42,7 @@ img.onesignal.com
 ipac.ctnsnet.com
 ib.adnxs.com
 js-agent.newrelic.com
+moat.com
 onesignal.com
 ocsp.sectigo.com
 ocsp.int-x3.letsencrypt.org
@@ -91,6 +93,9 @@ tps20801.doubleverify.com
 trc.taboola.com
 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
 www.onetrust.com
+www.moat.com
+www.moatads.com
 web.hb.ad.cpe.dotomi.com
 wzrkt.com
 x.bidswitch.net
+z.moatads.com
