@@ -35,6 +35,7 @@ d228z91au11ukj.cloudfront.net
 e8736.e7.akamaiedge.net
 e8937.dscb.akamaiedge.net
 embed-ssl.wistia.com
+embed.tawk.to
 emupdate.avcdn.net
 engineering.tapad.com
 events.evie.com
@@ -87,12 +88,14 @@ secure.quantserve.com
 secure-assets.rubiconproject.com
 sb.scorecardresearch.com
 shops.myshopify.com
+static-v.tawk.to
 subscription.omnithrottle.com
 sgcp-hlb.dvgtm.akadns.net
 ssc-cms.33across.com
 sync.mathtag.com
 tag.1rx.io
 tagged-by.rubiconproject.net.akadns.net
+tawk.to
 token.rubiconproject.com
 track.hubspot.com
 tls13.taboola.map.fastly.net
@@ -100,6 +103,8 @@ tps20808.doubleverify.com
 tps20801.doubleverify.com
 trc.taboola.com
 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
+va.tawk.to
+vsb115.tawk.to
 www.onetrust.com
 www.moat.com
 www.moatads.com
