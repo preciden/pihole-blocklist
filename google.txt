@@ -1,6 +1,9 @@
 _sips._tcp.in.airtel.rcs.telephony.goog
 ajax.googleapis.com
+alt2-mtalk.google.com
 alt4-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
 adservice.google.co.in
 android.clients.google.com
 android.googleapis.com
@@ -55,4 +58,5 @@ www-google-analytics.l.google.com
 www.google.com
 www.google.co.in
 # www.googleapis.com
+www.googletagmanager.com
 www.google.ru
