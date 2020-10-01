@@ -1,0 +1,2 @@
+	a.thumbs.redditmedia.com
+  gql.reddit.com
