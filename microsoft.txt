@@ -19,6 +19,7 @@ apac1.notify.windows.com.akadns.net
 apdc4n-log-public-webservice.westindia.cloudapp.azure.com
 api.cortana.ai
 api.diagnostics.office.com
+app.measurement.com
 api.cdp.dsp.mp.microsoft.com.nsatc.net
 array609.prod.do.dsp.mp.microsoft.com
 array811.prod.do.dsp.mp.microsoft.com
@@ -320,6 +321,7 @@ i-sn2-cor001.api.p001.1drv.com
 i-sn2-cor002.api.p001.1drv.com
 i-sn3p-cor001.api.p001.1drv.com
 # identity.osi.office.net
+in.appcenter.ms
 lb1.www.ms.akadns.net
 live.rads.msn.com
 l-ring.msedge.net
