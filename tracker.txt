@@ -53,6 +53,7 @@ ip-info.ff.avast.com
 ib.adnxs.com
 js-agent.newrelic.com
 moat.com
+marketing-909352363.us-west-2.elb.amazonaws.com
 onesignal.com
 ocsp.sectigo.com
 ocsp.int-x3.letsencrypt.org
