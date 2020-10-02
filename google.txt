@@ -1,3 +1,4 @@
+0.client-channel.google.com
 _sips._tcp.in.airtel.rcs.telephony.goog
 ajax.googleapis.com
 alt1-mtalk.google.com
@@ -12,12 +13,15 @@ adservice.google.co.in
 android.clients.google.com
 android.googleapis.com
 app-measurement.com
+appswaldo-pa.clients6.google.com
 connectivitycheck.gstatic.com
 clients.l.google.com
 clients3.google.com
+contacts.google.com
 cse.google.com
 dialercallinfolookup-pa.googleapis.com #phoneapp
 dns.google
+drive.google.com
 # fonts.googleapis.com
 firebaseremoteconfig.googleapis.com
 footprints-pa.googleapis.com
@@ -40,15 +44,17 @@ ocsp.pki.goog
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 people-pa.googleapis.com
+people-pa.clients6.google.com
 phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
-photos-ugc.l.googleusercontent.com
+# photos-ugc.l.googleusercontent.com
 pki-goog.l.google.com
 play-lh.googleusercontent.com
 play.googleapis.com
 playatoms-pa.googleapis.com
 rcs-acs-airtel-india.jibe.google.com
 safebrowsing.googleapis.com
+signaler-pa.clients6.google.com
 static.doubleclick.net
 static-doubleclick-net.l.google.com
 #ssl.gstatic.com
@@ -57,6 +63,7 @@ ssl-google-analytics.l.google.com
 s0-2mdn-net.l.google.com
 suggestqueries.google.com
 s0.2mdn.net
+taskassist-pa.clients6.google.com
 time.android.com
 tpc.googlesyndication.com
 telephonyspamprotect-pa.googleapis.com
