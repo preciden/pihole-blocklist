@@ -1,5 +1,6 @@
 0.client-channel.google.com
 _sips._tcp.in.airtel.rcs.telephony.goog
+aa.google.com
 ajax.googleapis.com
 alt1-mtalk.google.com
 alt2-mtalk.google.com
@@ -14,6 +15,7 @@ android.clients.google.com
 android.googleapis.com
 app-measurement.com
 appswaldo-pa.clients6.google.com
+chat-pa.clients6.google.com
 connectivitycheck.gstatic.com
 clients.l.google.com
 clients3.google.com
@@ -27,6 +29,7 @@ firebaseremoteconfig.googleapis.com
 footprints-pa.googleapis.com
 # fonts.gstatic.com
 googletagservices.com
+googlehosted.l.googleusercontent.com
 # gstaticadssl.l.google.com
 googleads.g.doubleclick.net
 g.cn
@@ -41,10 +44,12 @@ maa05s12-in-f10.1e100.net #messageapp
 manifest.googlevideo.com
 mtalk.google.com
 ocsp.pki.goog
+ogs.google.com
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 people-pa.googleapis.com
 people-pa.clients6.google.com
+peoplestackwebexperiments-pa.clients6.google.com
 phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
 # photos-ugc.l.googleusercontent.com
