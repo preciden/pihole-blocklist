@@ -1,16 +1,1 @@
-ads-api.twitter.com
-abs.twimg.com
-api.twitter.com
-cdn.cms-twdigitalassets.com
-developers.twitter.com
-fonts.twitter.com
-help.twitter.com
-pbs.twimg.com
-platform.twitter.com
-proxsee.pscp.tv
-prod-fastly-us-west-2.video.pscp.tv
-syndication.twitter.com
-twitter.com
-tpop-api.twitter.com
-www.twitter.com
-video.pscp.tv.map.fastly.net
+
