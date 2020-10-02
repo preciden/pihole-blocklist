@@ -26,6 +26,7 @@ cdn.doubleverify.com
 cdn.amplitude.com
 cdn.contentful.com
 # captive.apple.com
+consentcdn.cookiebot.com
 cs.emxdgt.com
 # cs9.wac.phicdn.net
 d.sni.global.fastly.net
