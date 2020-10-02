@@ -1,6 +1,4 @@
 ads-api.twitter.com
-app.link
-api2.branch.io
 abs.twimg.com
 api.twitter.com
 cdn.cms-twdigitalassets.com
