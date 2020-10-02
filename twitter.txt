@@ -1,2 +1,2 @@
-	platform.twitter.com
-  syndication.twitter.com
+platform.twitter.com
+syndication.twitter.com
