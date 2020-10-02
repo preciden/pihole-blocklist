@@ -18,6 +18,7 @@ dns.google
 firebaseremoteconfig.googleapis.com
 # fonts.gstatic.com
 in.airtel.rcs.telephony.goog
+infinitedata-pa.googleapis.com
 instantmessaging-pa-ap.googleapis.com
 instantmessaging-pa.googleapis.com
 imasdk.googleapis.com
