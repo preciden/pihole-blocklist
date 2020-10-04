@@ -1,4 +1,5 @@
 0.client-channel.google.com
+6478929.fls.doubleclick.net
 _sips._tcp.in.airtel.rcs.telephony.goog
 aa.google.com
 ajax.googleapis.com
@@ -59,6 +60,7 @@ play.googleapis.com
 playatoms-pa.googleapis.com
 rcs-acs-airtel-india.jibe.google.com
 safebrowsing.googleapis.com
+securepubads.g.doubleclick.net
 signaler-pa.clients6.google.com
 static.doubleclick.net
 static-doubleclick-net.l.google.com
@@ -76,6 +78,7 @@ update.googleapis.com
 verifiedsms-pa.googleapis.com
 www3.l.google.com
 www.gstatic.com
+www.googleadservices.com
 www.google-analytics.com
 www-googletagmanager.l.google.com
 www-google-analytics.l.google.com
