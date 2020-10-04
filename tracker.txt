@@ -1,5 +1,6 @@
 684d0d3e.akstat.io
 ads.servenobid.com
+ads.yieldmo.com
 as-sec.casalemedia.com
 api.permutive.com
 api.leanplum.com
