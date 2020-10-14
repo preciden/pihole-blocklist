@@ -23,4 +23,5 @@ login.sina.com.cn
 mpsapi.amap.com
 resolver.msg.global.xiaomi.net
 restapi.amap.com
+sdkconfig.ad.intl.xiaomi.com
 wprd02.is.autonavi.com
