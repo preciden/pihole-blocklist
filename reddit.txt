@@ -1,3 +1,4 @@
 a.thumbs.redditmedia.com
+b.thumbs.redditmedia.com
 gql.reddit.com
 reddit.map.fastly.net
