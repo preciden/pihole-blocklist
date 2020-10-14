@@ -49,6 +49,7 @@ geo.yahoo.com
 geo-atsv2.media.g03.yahoodns.net
 g2.gumgum.com
 img.onesignal.com
+inapps.appsflyer.com
 ipac.ctnsnet.com
 ip-info.ff.avast.com
 ib.adnxs.com
