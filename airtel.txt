@@ -1,0 +1,3 @@
+app.airtelbank.com
+digianalytics.airtel.in
+events.airtel.tv
