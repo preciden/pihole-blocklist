@@ -1,2 +1,4 @@
+analytics.twitter.com
 platform.twitter.com
+static.ads-twitter.com
 syndication.twitter.com
