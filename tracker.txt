@@ -1,8 +1,10 @@
+1078430-30.chat.api.drift.com
 684d0d3e.akstat.io
 ads.servenobid.com
 ads.yieldmo.com
 as-sec.casalemedia.com
 api.permutive.com
+api.drift.com
 api.leanplum.com
 app.adjust.com
 api.hubapi.com
@@ -21,6 +23,7 @@ better.fyi
 branch.io
 ccleaner.tools.avcdn.net
 cdn.branch.io
+chat.api.drift.com
 c.go-mpulse.net
 c.mgid.com
 cdn.doubleverify.com
@@ -61,7 +64,8 @@ ocsp.sectigo.com
 ocsp.int-x3.letsencrypt.org
 # ocsp.digicert.com
 p.adsymptotic.com
-prebid-server.rubiconproject.com	
+prebid-server.rubiconproject.com
+presence.api.drift.com 
 prebid-server-perf.rubiconproject.net.akadns.net
 privacyportal.onetrust.com
 pixel.rubiconproject.com
