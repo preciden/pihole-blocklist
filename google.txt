@@ -36,6 +36,7 @@ googlehosted.l.googleusercontent.com
 # gstaticadssl.l.google.com
 googleads.g.doubleclick.net
 g.cn
+growth-pa.googleapis.com
 in.airtel.rcs.telephony.goog
 infinitedata-pa.googleapis.com
 instantmessaging-pa-ap.googleapis.com
@@ -45,6 +46,7 @@ lamssettings-pa.googleapis.com
 maa03s28-in-f10.1e100.net #messageapp
 maa05s12-in-f10.1e100.net #messageapp
 manifest.googlevideo.com
+mdh-pa.googleapis.com
 mtalk.google.com
 ocsp.pki.goog
 ogs.google.com
