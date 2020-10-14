@@ -86,6 +86,7 @@ rules.quantcount.com
 rubiconcm.digitaleast.mobi
 simage4.pubmatic.com
 sectigo.com
+server.apxor.com
 ssum-sec.casalemedia.com
 srv.buysellads.com
 secure.trust-provider.com
