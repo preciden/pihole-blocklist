@@ -72,6 +72,7 @@ ssl.google-analytics.com
 ssl-google-analytics.l.google.com
 s0-2mdn-net.l.google.com
 suggestqueries.google.com
+support.google.com
 s0.2mdn.net
 taskassist-pa.clients6.google.com
 time.android.com
