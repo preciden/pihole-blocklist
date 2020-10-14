@@ -1,3 +1,4 @@
 appmetrica.yandex.net
 mc.yandex.ru
+report.appmetrica.yandex.net
 rosenberg.appmetrica.yandex.net
