@@ -35,6 +35,7 @@ cs.emxdgt.com
 # cs9.wac.phicdn.net
 d.sni.global.fastly.net
 de.tynt.com
+df231.infusionsoft.com
 distillery.wistia.com
 d228z91au11ukj.cloudfront.net
 e8736.e7.akamaiedge.net
@@ -53,10 +54,12 @@ geo-atsv2.media.g03.yahoodns.net
 g2.gumgum.com
 img.onesignal.com
 inapps.appsflyer.com
+infusionsoft.com
 ipac.ctnsnet.com
 ip-info.ff.avast.com
 ib.adnxs.com
 js-agent.newrelic.com
+keap.com
 moat.com
 marketing-909352363.us-west-2.elb.amazonaws.com
 onesignal.com
