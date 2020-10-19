@@ -223,6 +223,7 @@ eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 events.data.microsoft.com
 flex.msn.com
+fe2cr.update.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3cr.delivery.mp.microsoft.com
 fp.msedge.net
@@ -323,6 +324,7 @@ i-sn2-cor002.api.p001.1drv.com
 i-sn3p-cor001.api.p001.1drv.com
 # identity.osi.office.net
 in.appcenter.ms
+kv601.prod.do.dsp.mp.microsoft.com
 lb1.www.ms.akadns.net
 live.rads.msn.com
 l-ring.msedge.net
@@ -362,6 +364,7 @@ settings-win.data.microsoft.com
 settings-win-ppe.data.microsoft.com
 settings.data.glbdns2.microsoft.com
 sg2p.wns.windows.com
+slscr.update.microsoft.com
 smartscreen-prod.microsoft.com
 sn3301-c.1drv.com
 sn3301-e.1drv.com
