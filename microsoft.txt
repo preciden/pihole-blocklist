@@ -357,6 +357,7 @@ secure.flashtalking.com
 self.events.data.microsoft.com
 services.wes.df.telemetry.microsoft.com
 settings-sandbox.data.microsoft.com
+settings-win.data.microsoft.com
 settings-win-ppe.data.microsoft.com
 settings.data.glbdns2.microsoft.com
 sg2p.wns.windows.com
