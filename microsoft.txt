@@ -22,6 +22,7 @@ api.diagnostics.office.com
 app.measurement.com
 api.cdp.dsp.mp.microsoft.com.nsatc.net
 array609.prod.do.dsp.mp.microsoft.com
+array613.prod.do.dsp.mp.microsoft.com
 array811.prod.do.dsp.mp.microsoft.com
 array813.prod.do.dsp.mp.microsoft.com
 array804.prod.do.dsp.mp.microsoft.com
