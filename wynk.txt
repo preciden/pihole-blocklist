@@ -1,7 +1,5 @@
 ad.wynk.in
-apiv2.moengage.com
 graph.wynk.in
 events.wynk.in
-launches.appsflyer.com
 location.wynk.in
 stats.wynk.in
