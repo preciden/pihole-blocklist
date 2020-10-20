@@ -12,5 +12,6 @@ s.reddit.com
 strapi.reddit.com
 styles.redditmedia.com
 v.redd.it
+www.reddit.com
 www.redditmedia.com
 www.redditstatic.com
