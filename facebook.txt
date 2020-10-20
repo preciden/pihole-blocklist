@@ -12,10 +12,12 @@ instagram.flis8-2.fna.fbcdn.net
 m.facebook.com
 star.c10r.facebook.com
 star-mini.c10r.facebook.com
+scontent.frpr1-1.fna.fbcdn.net
 scontent-gru1-1.cdninstagram.com
 scontent-gig2-1.cdninstagram.com
 scontent-vie1-1.cdninstagram.com
 scontent-ssn1-1.cdninstagram.com
+scontent.xx.fbcdn.net
 www.facebook.com
 www.instagram.com
 z-p42-instagram.c10r.facebook.com
