@@ -1,13 +1,16 @@
 a.thumbs.redditmedia.com
 b.thumbs.redditmedia.com
+e.reddit.com
 emoji.redditmedia.com
 gateway.reddit.com
 gql.reddit.com
+i.redd.it
 oauth.reddit.com
 reddit.com
 reddit.map.fastly.net
 s.reddit.com
 strapi.reddit.com
 styles.redditmedia.com
+v.redd.it
 www.redditmedia.com
 www.redditstatic.com
