@@ -1,4 +1,7 @@
+airtel.editorji.com
 app.airtelbank.com
+api.airtel.tv
+assets.airtel.in
 content.airtel.tv
 digianalytics.airtel.in
 events.airtel.tv
