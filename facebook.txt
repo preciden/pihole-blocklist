@@ -1,6 +1,8 @@
 atlas.c10r.facebook.com
 connect.facebook.net
+edge-chat.facebook.com
 edge-chat.instagram.com
+facebook.com
 graph.facebook.com
 graph.instagram.com
 i.instagram.com
@@ -8,6 +10,7 @@ instagram.c10r.facebook.com
 instagram.frpr1-1.fna.fbcdn.net
 instagram.flis8-2.fna.fbcdn.net
 m.facebook.com
+star.c10r.facebook.com
 star-mini.c10r.facebook.com
 scontent-gru1-1.cdninstagram.com
 scontent-gig2-1.cdninstagram.com
