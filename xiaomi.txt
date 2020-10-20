@@ -9,6 +9,8 @@ app-analytics-us.huami.com
 # auth-us2.huami.com
 cgi.connect.qq.com
 fe-static.huami.com
+fe-cdn.huami.com
+hm.baidu.com
 idmb.app.chat.global.xiaomi.net
 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
 idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
@@ -24,4 +26,7 @@ mpsapi.amap.com
 resolver.msg.global.xiaomi.net
 restapi.amap.com
 sdkconfig.ad.intl.xiaomi.com
+user.huami.com
+upload-cdn.huami.com
+web-analytics-cn.huami.com
 wprd02.is.autonavi.com
