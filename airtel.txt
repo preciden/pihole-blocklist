@@ -1,5 +1,7 @@
 app.airtelbank.com
+content.airtel.tv
 digianalytics.airtel.in
 events.airtel.tv
 image.airtel.tv
-myairtelapp.bsbportal.com
+layout.airtel.tv
+# myairtelapp.bsbportal.com
