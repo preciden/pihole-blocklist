@@ -17,6 +17,7 @@ android.clients.google.com
 android.googleapis.com
 app-measurement.com
 appswaldo-pa.clients6.google.com
+blogger.l.google.com
 businesscalls.googleapis.com
 chat-pa.clients6.google.com
 connectivitycheck.gstatic.com
@@ -32,6 +33,7 @@ drive.google.com
 firebaseremoteconfig.googleapis.com
 footprints-pa.googleapis.com
 # fonts.gstatic.com
+ghs.google.com
 googletagservices.com
 googlehosted.l.googleusercontent.com
 # gstaticadssl.l.google.com
