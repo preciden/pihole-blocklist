@@ -1,4 +1,8 @@
 analytics.twitter.com
+api.twitter.com
 platform.twitter.com
 static.ads-twitter.com
 syndication.twitter.com
+tpop-api.twitter.com
+twitter.com
+upload.twitter.com
