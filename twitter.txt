@@ -1,4 +1,5 @@
 abs-0.twimg.com
+abs.twimg.com
 abs-zero.twimg.com
 analytics.twitter.com
 api.twitter.com
