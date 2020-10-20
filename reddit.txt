@@ -5,7 +5,9 @@ emoji.redditmedia.com
 gateway.reddit.com
 gql.reddit.com
 i.redd.it
+i.reddit.com
 oauth.reddit.com
+redd.it
 reddit.com
 reddit.map.fastly.net
 s.reddit.com
@@ -15,3 +17,5 @@ v.redd.it
 www.reddit.com
 www.redditmedia.com
 www.redditstatic.com
+
+
