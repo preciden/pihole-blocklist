@@ -4,6 +4,7 @@ ads.servenobid.com
 ads.yieldmo.com
 as-sec.casalemedia.com
 api.permutive.com
+apiv2.moengage.com
 api.drift.com
 api.leanplum.com
 app.adjust.com
@@ -60,6 +61,7 @@ ip-info.ff.avast.com
 ib.adnxs.com
 js-agent.newrelic.com
 keap.com
+launches.appsflyer.com
 moat.com
 marketing-909352363.us-west-2.elb.amazonaws.com
 onesignal.com
@@ -88,6 +90,7 @@ rc.rlcdn.com
 rules.quantcount.com
 rubiconcm.digitaleast.mobi
 simage4.pubmatic.com
+script.hotjar.com
 sectigo.com
 server.apxor.com
 ssum-sec.casalemedia.com
@@ -100,6 +103,7 @@ secure.quantserve.com
 secure-assets.rubiconproject.com
 sb.scorecardresearch.com
 shops.myshopify.com
+static.hotjar.com
 static-v.tawk.to
 subscription.omnithrottle.com
 sgcp-hlb.dvgtm.akadns.net
@@ -116,6 +120,7 @@ tps20801.doubleverify.com
 trc.taboola.com
 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
 va.tawk.to
+vars.hotjar.com
 vsb115.tawk.to
 www.onetrust.com
 www.moat.com
