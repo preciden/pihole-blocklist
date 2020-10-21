@@ -19,6 +19,7 @@ app-measurement.com
 appswaldo-pa.clients6.google.com
 blogger.l.google.com
 businesscalls.googleapis.com
+click.google-analytics.com
 chat-pa.clients6.google.com
 connectivitycheck.gstatic.com
 clients.l.google.com
@@ -34,6 +35,9 @@ firebaseremoteconfig.googleapis.com
 footprints-pa.googleapis.com
 # fonts.gstatic.com
 ghs.google.com
+google-analytics.com
+googleanalytics.com
+googletagmanager.com
 googletagservices.com
 googlehosted.l.googleusercontent.com
 # gstaticadssl.l.google.com
