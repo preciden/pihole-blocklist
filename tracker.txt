@@ -4,6 +4,7 @@ ads.servenobid.com
 ads.yieldmo.com
 as-sec.casalemedia.com
 api.permutive.com
+api2.branch.io
 apiv2.moengage.com
 api.drift.com
 api.leanplum.com
