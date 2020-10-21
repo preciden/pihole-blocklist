@@ -8,6 +8,7 @@ pbs.twimg.com
 platform.twitter.com
 static.ads-twitter.com
 syndication.twitter.com
+twimg.com
 tpop-api.twitter.com
 twitter.com
 upload.twitter.com
