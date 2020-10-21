@@ -12,3 +12,4 @@ tpop-api.twitter.com
 twitter.com
 upload.twitter.com
 video.twimg.com
+www.twitter.com
