@@ -50,4 +50,6 @@ twitter.com
 upload.twitter.com
 video.twimg.com
 video.pscp.tv.map.fastly.net
+web.pscp.tv
 www.twitter.com
+www.pscp.tv
