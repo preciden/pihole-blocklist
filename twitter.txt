@@ -37,6 +37,8 @@ caps.twitter.com
 dc-api.twitter.com
 api.twitter.com
 pbs.twimg.com
+prod-fastly-eu-central-1.video.pscp.tv
+prod-ec-eu-central-1.video.pscp.tv
 platform.twitter.com
 probe.twitter.com
 s.twitter.com
@@ -47,4 +49,5 @@ tpop-api.twitter.com
 twitter.com
 upload.twitter.com
 video.twimg.com
+video.pscp.tv.map.fastly.net
 www.twitter.com
