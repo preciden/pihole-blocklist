@@ -1,4 +1,5 @@
 1078430-30.chat.api.drift.com
+1-1.chat.api.drift.com
 684d0d3e.akstat.io
 ads.servenobid.com
 ads.yieldmo.com
@@ -45,9 +46,11 @@ e8736.e7.akamaiedge.net
 e8937.dscb.akamaiedge.net
 embed-ssl.wistia.com
 embed.tawk.to
+embeds.driftcdn.com
 emupdate.avcdn.net
 engineering.tapad.com
 events.evie.com
+events.split.io
 eus.rubiconproject.com
 fastlane.rubiconproject.com
 forms.hubspot.com
@@ -115,6 +118,7 @@ ssc-cms.33across.com
 sync.mathtag.com
 tag.1rx.io
 tagged-by.rubiconproject.net.akadns.net
+targeting.api.drift.com
 tawk.to
 token.rubiconproject.com
 track.hubspot.com
