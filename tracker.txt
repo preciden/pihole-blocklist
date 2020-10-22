@@ -23,6 +23,7 @@ beacon-apac-hkg1.rubiconproject.com
 beacon-perf-hkg1.rubiconproject.net.akadns.net
 better.fyi
 branch.io
+bugsnag.com
 ccleaner.tools.avcdn.net
 cdn.branch.io
 chat.api.drift.com
@@ -65,6 +66,7 @@ keap.com
 launches.appsflyer.com
 moat.com
 marketing-909352363.us-west-2.elb.amazonaws.com
+notify.bugsnag.com
 onesignal.com
 ocsp.sectigo.com
 ocsp.int-x3.letsencrypt.org
@@ -102,6 +104,7 @@ sofia.trustx.org
 secure.sectigo.com
 secure.quantserve.com
 secure-assets.rubiconproject.com
+sessions.bugsnag.com
 sb.scorecardresearch.com
 shops.myshopify.com
 static.hotjar.com
