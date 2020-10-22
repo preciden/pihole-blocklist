@@ -35,6 +35,7 @@ firebaseremoteconfig.googleapis.com
 footprints-pa.googleapis.com
 # fonts.gstatic.com
 ghs.google.com
+gstaticadssl.l.google.com
 google-analytics.com
 googleanalytics.com
 googletagmanager.com
@@ -73,6 +74,7 @@ playatoms-pa.googleapis.com
 rcs-acs-airtel-india.jibe.google.com
 realtimesupport.clients6.google.com
 safebrowsing.googleapis.com
+sb-ssl.google.com
 securepubads.g.doubleclick.net
 signaler-pa.clients6.google.com
 static.doubleclick.net
