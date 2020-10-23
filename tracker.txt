@@ -64,6 +64,7 @@ g2.gumgum.com
 img.onesignal.com
 inapps.appsflyer.com
 infusionsoft.com
+0.0.0.0 inshotmaterial.oss-cn-shanghai.aliyuncs.com
 ipac.ctnsnet.com
 ip-info.ff.avast.com
 ib.adnxs.com
