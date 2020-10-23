@@ -3,6 +3,8 @@
 684d0d3e.akstat.io
 ads.servenobid.com
 ads.yieldmo.com
+0.0.0.0 ad.myinstashot.com
+0.0.0.p ads.mopub.com 
 as-sec.casalemedia.com
 api.permutive.com
 api2.branch.io
