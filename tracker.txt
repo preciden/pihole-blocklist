@@ -6,6 +6,7 @@ ads.yieldmo.com
 0.0.0.0 ad.myinstashot.com
 0.0.0.p ads.mopub.com 
 as-sec.casalemedia.com
+api.daznfeeds.com
 api.permutive.com
 api2.branch.io
 apiv2.moengage.com
