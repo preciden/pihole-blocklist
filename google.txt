@@ -27,6 +27,7 @@ clients3.google.com
 contacts.google.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
+csi.gstatic.com
 dialercallinfolookup-pa.googleapis.com #phoneapp
 dns.google
 drive.google.com
@@ -39,6 +40,7 @@ footprints-pa.googleapis.com
 # fonts.gstatic.com
 ghs.google.com
 gstaticadssl.l.google.com
+googleadservices.com
 google-analytics.com
 googleanalytics.com
 googletagmanager.com
@@ -61,6 +63,7 @@ mdh-pa.googleapis.com
 mtalk.google.com
 ocsp.pki.goog
 ogs.google.com
+pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 people-pa.googleapis.com
