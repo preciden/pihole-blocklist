@@ -32,6 +32,7 @@ dns.google
 drive.google.com
 # fonts.googleapis.com
 firebaseremoteconfig.googleapis.com
+firebase-settings.crashlytics.com
 footprints-pa.googleapis.com
 # fonts.gstatic.com
 ghs.google.com
