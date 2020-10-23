@@ -31,6 +31,7 @@ csi.gstatic.com
 dialercallinfolookup-pa.googleapis.com #phoneapp
 dns.google
 drive.google.com
+0.0.0.0 docs.google.com
 # fonts.googleapis.com
 firebase.google.com
 firebaseinstallations.googleapis.com
