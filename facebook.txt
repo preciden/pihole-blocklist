@@ -9,6 +9,7 @@ i.instagram.com
 instagram.c10r.facebook.com
 instagram.frpr1-1.fna.fbcdn.net
 instagram.flis8-2.fna.fbcdn.net
+0.0.0.0 lookaside.facebook.com
 m.facebook.com
 star.c10r.facebook.com
 star-mini.c10r.facebook.com
