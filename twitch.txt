@@ -1,1 +1,2 @@
-
+	0.0.0.0 spade.twitch.tv
+  0.0.0.0 twitch.amazon.com
