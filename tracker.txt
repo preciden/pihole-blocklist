@@ -56,6 +56,7 @@ fastlane.rubiconproject.com
 forms.hubspot.com
 global.px.quantserve.com
 geo.yahoo.com
+geolocation.daznservices.com
 geo-atsv2.media.g03.yahoodns.net
 g2.gumgum.com
 img.onesignal.com
