@@ -1,5 +1,5 @@
-abs-0.twimg.com
-abs.twimg.com
+0.0.0.0 abs-0.twimg.com
+0.0.0.0 abs.twimg.com
 abs-zero.twimg.com
 ads-api.twitter.com
 analytics.twitter.com
@@ -33,23 +33,27 @@ api-45-0-0.twitter.com
 api-46-0-0.twitter.com
 api-21-0-0.twitter.com
 api-stream.twitter.com
+0.0.0.0 api.twitter.com
 caps.twitter.com
+0.0.0.0 cdn.cms-twdigitalassets.com
+0.0.0.0 developers.twitter.com
 dc-api.twitter.com
-api.twitter.com
+0.0.0.0 fonts.twitter.com
+0.0.0.0 help.twitter.com
 pbs.twimg.com
 prod-fastly-eu-central-1.video.pscp.tv
 prod-ec-eu-central-1.video.pscp.tv
-platform.twitter.com
+0.0.0.0 platform.twitter.com
 probe.twitter.com
 s.twitter.com
 static.ads-twitter.com
-syndication.twitter.com
+0.0.0.0 syndication.twitter.com
 twimg.com
 tpop-api.twitter.com
-twitter.com
+0.0.0.0 twitter.com
 upload.twitter.com
 video.twimg.com
 video.pscp.tv.map.fastly.net
 web.pscp.tv
-www.twitter.com
+0.0.0.0 www.twitter.com
 www.pscp.tv
