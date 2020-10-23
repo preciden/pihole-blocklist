@@ -35,6 +35,7 @@ api-21-0-0.twitter.com
 api-stream.twitter.com
 0.0.0.0 api.twitter.com
 caps.twitter.com
+cs510.wpc.edgecastcdn.net
 0.0.0.0 cdn.cms-twdigitalassets.com
 0.0.0.0 developers.twitter.com
 dc-api.twitter.com
