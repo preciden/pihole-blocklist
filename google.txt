@@ -24,6 +24,7 @@ chat-pa.clients6.google.com
 connectivitycheck.gstatic.com
 clients.l.google.com
 clients3.google.com
+clients6.google.com
 contacts.google.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
@@ -51,6 +52,7 @@ googlehosted.l.googleusercontent.com
 googleads.g.doubleclick.net
 g.cn
 growth-pa.googleapis.com
+0.0.0.0 hangouts.google.com
 in.airtel.rcs.telephony.goog
 infinitedata-pa.googleapis.com
 instantmessaging-pa-ap.googleapis.com
