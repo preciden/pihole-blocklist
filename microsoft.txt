@@ -317,6 +317,7 @@ i-bl6p-cor002.api.p001.1drv.com
 i-bn3p-cor001.api.p001.1drv.com
 i-by3p-cor001.api.p001.1drv.com
 i-by3p-cor002.api.p001.1drv.com
+ic3.events.data.microsoft.com
 i-ch1-cor001.api.p001.1drv.com
 i-ch1-cor002.api.p001.1drv.com
 i-sn2-cor001.api.p001.1drv.com
@@ -381,6 +382,7 @@ ssw.live.com
 # store-images.s-microsoft.com
 # storeedgefd.dsx.mp.microsoft.com
 survey.watson.microsoft.com
+teams.events.data.microsoft.com
 tele.trafficmanager.net
 telecommand.telemetry.microsoft.com
 telemetry.appex.bing.net
