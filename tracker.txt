@@ -120,6 +120,7 @@ tag.1rx.io
 tagged-by.rubiconproject.net.akadns.net
 targeting.api.drift.com
 tawk.to
+telemetry.sdk.inmobi.com
 token.rubiconproject.com
 track.hubspot.com
 tls13.taboola.map.fastly.net
