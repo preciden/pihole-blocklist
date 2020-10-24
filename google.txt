@@ -71,6 +71,7 @@ ogs.google.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
 people-pa.googleapis.com
 people-pa.clients6.google.com
 peoplestackwebexperiments-pa.clients6.google.com
