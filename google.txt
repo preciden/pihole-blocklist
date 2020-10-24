@@ -96,6 +96,7 @@ static-doubleclick-net.l.google.com
 ssl.google-analytics.com
 ssl-google-analytics.l.google.com
 s0-2mdn-net.l.google.com
+0.0.0.0 stats.l.doubleclick.net
 suggestqueries.google.com
 support.google.com
 s0.2mdn.net
