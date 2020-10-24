@@ -1,0 +1,3 @@
+0.0.0.0 bibo.api.swiftkey.com
+0.0.0.0 jenson.api.swiftkey.com
+0.0.0.0 telemetry.api.swiftkey.com
