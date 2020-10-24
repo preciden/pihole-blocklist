@@ -1,24 +1,32 @@
-atlas.c10r.facebook.com
-connect.facebook.net
-edge-chat.facebook.com
-edge-chat.instagram.com
-facebook.com
-graph.facebook.com
-graph.instagram.com
-i.instagram.com
-instagram.c10r.facebook.com
-instagram.frpr1-1.fna.fbcdn.net
-instagram.flis8-2.fna.fbcdn.net
+0.0.0.0 atlas.c10r.facebook.com
+0.0.0.0 b.i.instagram.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 edge-chat.facebook.com
+0.0.0.0 edge-chat.instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 instagram.fbeg7-1.fna.fbcdn.net
+0.0.0.0 instagram.fbom3-2.fna.fbcdn.net
+0.0.0.0 instagram.fiev22-2.fna.fbcdn.net
+0.0.0.0 instagram.fist1-3.fna.fbcdn.net
+0.0.0.0 instagram.frpr1-1.fna.fbcdn.net
+0.0.0.0 instagram.fruh6-2.fna.fbcdn.net
+0.0.0.0 instagram.flis8-2.fna.fbcdn.net
+0.0.0.0 instagram.fstu1-1.fna.fbcdn.net
 0.0.0.0 lookaside.facebook.com
-m.facebook.com
-star.c10r.facebook.com
-star-mini.c10r.facebook.com
-scontent.frpr1-1.fna.fbcdn.net
-scontent-gru1-1.cdninstagram.com
-scontent-gig2-1.cdninstagram.com
-scontent-vie1-1.cdninstagram.com
-scontent-ssn1-1.cdninstagram.com
-scontent.xx.fbcdn.net
-www.facebook.com
-www.instagram.com
-z-p42-instagram.c10r.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 scontent-amt2-1.cdninstagram.com
+0.0.0.0 scontent.frpr1-1.fna.fbcdn.net
+0.0.0.0 scontent-gru1-1.cdninstagram.com
+0.0.0.0 scontent-gig2-1.cdninstagram.com
+0.0.0.0 scontent-vie1-1.cdninstagram.com
+0.0.0.0 scontent-ssn1-1.cdninstagram.com
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 www.facebook.com
+0.0.0.0 www.instagram.com
+0.0.0.0 z-p42-instagram.c10r.facebook.com
