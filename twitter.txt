@@ -36,6 +36,7 @@
 0.0.0.0 api.twitter.com
 0.0.0.0 caps.twitter.com
 0.0.0.0 cs510.wpc.edgecastcdn.net
+0.0.0.0 cs531.wpc.edgecastcdn.net
 0.0.0.0 cs491.wac.edgecastcdn.net
 0.0.0.0 cs672.wac.edgecastcdn.net
 0.0.0.0 cdn.cms-twdigitalassets.com
@@ -52,6 +53,7 @@
 0.0.0.0 platform.twitter.com
 0.0.0.0 platform.twitter.map.fastly.net
 0.0.0.0 probe.twitter.com
+0.0.0.0 proxsee.pscp.tv
 0.0.0.0 s.twitter.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 syndication.twitter.com
