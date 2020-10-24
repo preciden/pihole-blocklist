@@ -64,6 +64,7 @@
 0.0.0.0 upload.twitter.com
 0.0.0.0 video.twimg.com
 0.0.0.0 video.pscp.tv.map.fastly.net
+0.0.0.0 wpad.domain.name
 0.0.0.0 web.pscp.tv
 0.0.0.0 www.twitter.com
 0.0.0.0 www.twitter.co.in
