@@ -17,6 +17,7 @@ api.hubapi.com
 ap.lijit.com
 ads.us.e-planning.net	
 analytics.ff.avast.com
+0.0.0.0 app.link
 assets.moat.com
 #a1089.dscd.akamai.net
 a1916.dscr.akamai.net
