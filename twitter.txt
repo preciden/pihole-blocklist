@@ -58,3 +58,4 @@
 0.0.0.0 web.pscp.tv
 0.0.0.0 www.twitter.com
 0.0.0.0 www.pscp.tv
+(^|\.)twitter\.com$
