@@ -57,5 +57,7 @@
 0.0.0.0 video.pscp.tv.map.fastly.net
 0.0.0.0 web.pscp.tv
 0.0.0.0 www.twitter.com
+0.0.0.0 www.twitter.co.in
+0.0.0.0 www.twitter.in
 0.0.0.0 www.pscp.tv
 (^|\.)twitter\.com$
