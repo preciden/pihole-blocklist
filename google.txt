@@ -110,6 +110,7 @@ verifiedsms-pa.googleapis.com
 www3.l.google.com
 www.gstatic.com
 www.googleadservices.com
+0.0.0.0 www.googleapis.com
 www.google-analytics.com
 www-googletagmanager.l.google.com
 www-google-analytics.l.google.com
