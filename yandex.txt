@@ -6,4 +6,5 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 sba.yandex.net 
 0.0.0.0 storage.ape.yandex.net
+0.0.0.0 yandex.com
 0.0.0.0 yandex.ru 
