@@ -2,6 +2,9 @@
 1-1.chat.api.drift.com
 684d0d3e.akstat.io
 ads.servenobid.com
+0.0.0.0 ads.stickyadstv.com
+0.0.0.0 ads-ap.v.ssp.yahoo.com
+0.0.0.0 ads.adaptv.advertising.com 
 ads.yieldmo.com
 0.0.0.0 ad.myinstashot.com
 0.0.0.p ads.mopub.com 
@@ -81,6 +84,7 @@ onesignal.com
 ocsp.sectigo.com
 ocsp.int-x3.letsencrypt.org
 # ocsp.digicert.com
+0.0.0.0 optimized-by.rubiconproject.com
 p.adsymptotic.com
 prebid-server.rubiconproject.com
 presence.api.drift.com 
@@ -129,15 +133,19 @@ targeting.api.drift.com
 tawk.to
 telemetry.sdk.inmobi.com
 token.rubiconproject.com
-track.hubspot.com
 tls13.taboola.map.fastly.net
 tps20808.doubleverify.com
 tps20801.doubleverify.com
+0.0.0.0 track.hubspot.com
+0.0.0.0 track.venatusmedia.com
 trc.taboola.com
 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
 va.tawk.to
 vars.hotjar.com
+0.0.0.0 vid-io-iad.springserve.com 
+0.0.0.0 video-ads.rubiconproject.com
 vsb115.tawk.to
+0.0.0.0 www14.smartadserver.com
 www.onetrust.com
 www.moat.com
 www.moatads.com
