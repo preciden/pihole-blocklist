@@ -1,4 +1,8 @@
-appmetrica.yandex.net
-mc.yandex.ru
-report.appmetrica.yandex.net
-rosenberg.appmetrica.yandex.net
+0.0.0.0 api.browser.yandex.ru
+0.0.0.0 appmetrica.yandex.net
+0.0.0.0 favicon.yandex.net
+0.0.0.0 mc.yandex.ru
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 rosenberg.appmetrica.yandex.net
+0.0.0.0 sba.yandex.net 
+0.0.0.0 yandex.ru 
