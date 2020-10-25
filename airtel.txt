@@ -3,6 +3,7 @@ app.airtelbank.com
 # api.airtel.tv
 # assets.airtel.in
 # content.airtel.tv
+# digi-api.airtel.in 
 digianalytics.airtel.in
 events.airtel.tv
 #image.airtel.tv
