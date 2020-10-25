@@ -1,10 +1,11 @@
 airtel.editorji.com
 app.airtelbank.com
-api.airtel.tv
+# api.airtel.tv
 assets.airtel.in
-content.airtel.tv
+#content.airtel.tv
 digianalytics.airtel.in
 events.airtel.tv
-image.airtel.tv
-layout.airtel.tv
+#image.airtel.tv
+#layout.airtel.tv
 # myairtelapp.bsbportal.com
+# www.airtel.in
