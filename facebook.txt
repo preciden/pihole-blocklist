@@ -27,7 +27,7 @@
 0.0.0.0 scontent-vie1-1.cdninstagram.com
 0.0.0.0 scontent-ssn1-1.cdninstagram.com
 0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 web.facebook.com 
+0.0.0.0 web.facebook.com
 0.0.0.0 www.facebook.com
 0.0.0.0 www.instagram.com
 0.0.0.0 z-p42-instagram.c10r.facebook.com
