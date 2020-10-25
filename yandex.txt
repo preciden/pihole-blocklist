@@ -7,5 +7,6 @@
 0.0.0.0 sba.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 storage.ape.yandex.net
+0.0.0.0 www.yandex.ru
 0.0.0.0 yandex.com
 0.0.0.0 yandex.ru
