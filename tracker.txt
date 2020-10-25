@@ -41,6 +41,7 @@ cdn.contentful.com
 consentcdn.cookiebot.com
 cs.emxdgt.com
 # cs9.wac.phicdn.net
+0.0.0.0 data.flurry.com
 d.sni.global.fastly.net
 de.tynt.com
 df231.infusionsoft.com
