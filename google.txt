@@ -80,22 +80,21 @@ peoplestackwebexperiments-pa.clients6.google.com
 phonedeviceverification-pa.googleapis.com
 photosdata-pa.googleapis.com
 # photos-ugc.l.googleusercontent.com
-pki-goog.l.google.com
-play.google.com
+0.0.0.0 pki-goog.l.google.com
+0.0.0.0 play.google.com
 0.0.0.0 playatoms-pa.googleapis.com
-play-lh.googleusercontent.com
-play.googleapis.com
-playatoms-pa.googleapis.com
-pubads.g.doubleclick.net
-rcs-acs-airtel-india.jibe.google.com
-realtimesupport.clients6.google.com
-safebrowsing.googleapis.com
-sb-ssl.google.com
-securepubads.g.doubleclick.net
+0.0.0.0 play-lh.googleusercontent.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 rcs-acs-airtel-india.jibe.google.com
+0.0.0.0 realtimesupport.clients6.google.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 sb-ssl.google.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 settings.crashlytics.com
-signaler-pa.clients6.google.com
-static.doubleclick.net
-static-doubleclick-net.l.google.com
+0.0.0.0 signaler-pa.clients6.google.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 static-doubleclick-net.l.google.com
 #ssl.gstatic.com
 ssl.google-analytics.com
 ssl-google-analytics.l.google.com
