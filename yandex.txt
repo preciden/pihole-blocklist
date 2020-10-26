@@ -6,6 +6,7 @@
 0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 browser.yandex.ru
 0.0.0.0 dr.yandex.net
+0.0.0.0 dr2.yandex.net
 0.0.0.0 favicon.yandex.net
 0.0.0.0 mc.yandex.ru
 0.0.0.0 report.appmetrica.yandex.net
