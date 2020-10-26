@@ -9,4 +9,5 @@
 0.0.0.0 hbrcv.adobe.com
 0.0.0.0 ims-na1.adobelogin.com
 0.0.0.0 mboxedge31.tt.omtrdc.net
+0.0.0.0 senseis.adobe.io
 0.0.0.0 www.adobe.com
