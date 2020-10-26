@@ -16,6 +16,7 @@ adservice.google.co.in
 ad.doubleclick.net
 android.clients.google.com
 android.googleapis.com
+0.0.0.0 apis.google.com
 app-measurement.com
 appswaldo-pa.clients6.google.com
 blogger.l.google.com
