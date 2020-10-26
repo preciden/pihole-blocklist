@@ -28,6 +28,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+0.0.0.0 clientservices.googleapis.com
 contacts.google.com
 crashlyticsreports-pa.googleapis.com
 cse.google.com
