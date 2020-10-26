@@ -47,6 +47,7 @@
 0.0.0.0 e14372.cj.akamaiedge.net
 0.0.0.0 fonts.twitter.com
 0.0.0.0 help.twitter.com
+0.0.0.0 mobile.twitter.com
 0.0.0.0 pbs.twimg.com
 0.0.0.0 prod-fastly-eu-central-1.video.pscp.tv
 0.0.0.0 prod-ec-eu-central-1.video.pscp.tv
