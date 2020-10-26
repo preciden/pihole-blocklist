@@ -1,4 +1,5 @@
-aax-eu.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
 amazoncustomerservice.d2.sc.omtrdc.net
 assoc-eu.associates-amazon.com
 completion.amazon.in
