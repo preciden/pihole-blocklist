@@ -195,6 +195,7 @@ ch3301-g.1drv.com
 ch3302-c.1drv.com
 ch3302-e.1drv.com
 checkappexec.microsoft.com
+0.0.0.0 client.wns.windows.com
 compatexchange1.trafficmanager.net
 continuum.dds.microsoft.com
 corp.sts.microsoft.com
@@ -333,7 +334,9 @@ l-0003.l-msedge.net
 l-0005.l-msedge.net
 livetileedge.dsx.mp.microsoft.com
 licensing.mp.microsoft.com
-login.windows.net
+0.0.0.0 login.live.com
+0.0.0.0 login.windows.net
+0.0.0.0 maps.windows.com
 m.adnxs.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
@@ -391,6 +394,7 @@ telemetry.remoteapp.windowsazure.com
 telemetry.urs.microsoft.com
 teredo.ipv6.microsoft.com
 test.activity.windows.com
+0.0.0.0 time.windows.com
 uif.microsoft.com
 umwatsonc.events.data.microsoft.com
 us-api.asm.skype.com
