@@ -1,5 +1,7 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon.in
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 assoc-eu.associates-amazon.com
 0.0.0.0 cloudfront-labs.amazonaws.com
