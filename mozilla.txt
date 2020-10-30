@@ -1,4 +1,5 @@
 #0.0.0.0 api.accounts.firefox.com
+0.0.0.0 content-signature-2.cdn.mozilla.net
 #0.0.0.0 detectportal.firefox.com
 0.0.0.0 prod-tp.sumo.mozit.cloud
 0.0.0.0 prod.data-ingestion.prod.dataops.mozgcp.net
