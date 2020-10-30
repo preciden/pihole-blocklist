@@ -1,25 +1,26 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
-amazoncustomerservice.d2.sc.omtrdc.net
-assoc-eu.associates-amazon.com
-completion.amazon.in
-completion.amazon.com
+0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
+0.0.0.0 assoc-eu.associates-amazon.com
+0.0.0.0 cloudfront-labs.amazonaws.com
+0.0.0.0 completion.amazon.in
+0.0.0.0 completion.amazon.com
 0.0.0.0 c.amazon-adsystem.com
-c.media-amazon.com
+0.0.0.0 c.media-amazon.com
 0.0.0.0 cdn-a.amazon-adsystem.com
-endpoint.prod.eu-west-1.forester.a2z.com
-fls-na.amazon.com
+0.0.0.0 endpoint.prod.eu-west-1.forester.a2z.com
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls-eu.amazon-adsystem.com
-fls-fe.amazon.co.jp
-fls-eu.amazon.in
-m.media-amazon.com
-ocsp.sca1b.amazontrust.com
-s.amazon-adsystem.com
-unagi-eu.amazon.com
-unagi-fe.amazon.com
-unagi.amazon.co.jp
-unagi.amazon.in
+0.0.0.0 fls-fe.amazon.co.jp
+0.0.0.0 fls-eu.amazon.in
+0.0.0.0 m.media-amazon.com
+0.0.0.0 ocsp.sca1b.amazontrust.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 unagi-eu.amazon.com
+0.0.0.0 unagi-fe.amazon.com
+0.0.0.0 unagi.amazon.co.jp
+0.0.0.0 unagi.amazon.in
 0.0.0.0	vaes.amazon-adsystem.com
-www.amazon.in
-www.amazon.co.jp
-www.amazon.com
+0.0.0.0 www.amazon.in
+0.0.0.0 www.amazon.co.jp
+0.0.0.0 www.amazon.com
