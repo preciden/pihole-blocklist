@@ -68,6 +68,7 @@ geo.yahoo.com
 geolocation.daznservices.com
 geo-atsv2.media.g03.yahoodns.net
 g2.gumgum.com
+0.0.0.0 hbopenbid.pubmatic.com
 img.onesignal.com
 inapps.appsflyer.com
 infusionsoft.com
