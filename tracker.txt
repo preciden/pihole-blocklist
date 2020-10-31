@@ -50,6 +50,7 @@ de.tynt.com
 df231.infusionsoft.com
 distillery.wistia.com
 d228z91au11ukj.cloudfront.net
+0.0.0.0 e3.adpushup.com
 e8736.e7.akamaiedge.net
 e8937.dscb.akamaiedge.net
 embed-ssl.wistia.com
