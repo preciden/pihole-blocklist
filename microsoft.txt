@@ -424,7 +424,8 @@ wes.df.telemetry.microsoft.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
-www.msedge.net
+0.0.0.0 www.bing.com
+0.0.0.0 www.msedge.net
 # www.tm.lg.prod.aadmsa.trafficmanager.net
-www.tm.a.prd.aadg.akadns.net
+0.0.0.0 www.tm.a.prd.aadg.akadns.net
 # www.msftconnecttest.com
