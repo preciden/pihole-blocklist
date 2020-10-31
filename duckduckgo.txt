@@ -1,4 +1,6 @@
-external-content.duckduckgo.com
-improving.duckduckgo.com
-links.duckduckgo.com
+0.0.0.0 ac.duckduckgo.com
+# 0.0.0.0 duckduckgo.com
+# 0.0.0.0 external-content.duckduckgo.com
+0.0.0.0 improving.duckduckgo.com
+0.0.0.0 links.duckduckgo.com
 
