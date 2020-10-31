@@ -126,6 +126,7 @@ static-v.tawk.to
 subscription.omnithrottle.com
 sgcp-hlb.dvgtm.akadns.net
 ssc-cms.33across.com
+0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 sync.mathtag.com
 tag.1rx.io
 tagged-by.rubiconproject.net.akadns.net
