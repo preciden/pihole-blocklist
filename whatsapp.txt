@@ -1,91 +1,91 @@
-api.whatsapp.com
-blog.whatsapp.com
-chat.cdn.whatsapp.net
-crashlogs.whatsapp.net
-faq.whatsapp.com
-e1.whatsapp.net
-e2.whatsapp.net
-e3.whatsapp.net
-e4.whatsapp.net
-e5.whatsapp.net
-e6.whatsapp.net
-e7.whatsapp.net
-e8.whatsapp.net
-e9.whatsapp.net
-e10.whatsapp.net
-e11.whatsapp.net
-e12.whatsapp.net
-e13.whatsapp.net
-e14.whatsapp.net
-e15.whatsapp.net
-e16.whatsapp.net
-e17.whatsapp.net
-e18.whatsapp.net
-e19.whatsapp.net
-e20.whatsapp.net
-e21.whatsapp.net
-e22.whatsapp.net
-e23.whatsapp.net
-e1.web.whatsapp.com
-e2.web.whatsapp.com
-e3.web.whatsapp.com
-e4.web.whatsapp.com
-e5.web.whatsapp.com
-e6.web.whatsapp.com
-e7.web.whatsapp.com
-e8.web.whatsapp.com
-e9.web.whatsapp.com
-e10.web.whatsapp.com
-e11.web.whatsapp.com
-e12.web.whatsapp.com
-e13.web.whatsapp.com
-e14.web.whatsapp.com
-e15.web.whatsapp.com
-e16.web.whatsapp.com
-e17.web.whatsapp.com
-e18.web.whatsapp.com
-e19.web.whatsapp.com
-e20.web.whatsapp.com
-e21.web.whatsapp.com
-e22.web.whatsapp.com
-e23.web.whatsapp.com
-g.whatsapp.net
-media-msp1-1.cdn.whatsapp.net
-mmg.whatsapp.net
-mmg-fna.whatsapp.net
-mmx-ds.cdn.whatsapp.net
-mmx-fb.cdn.whatsapp.net
-pps.whatsapp.net
-scontent.whatsapp.net
-static.whatsapp.net
-translate.whatsapp.com
-w1.web.whatsapp.com
-w2.web.whatsapp.com
-w3.web.whatsapp.com
-w4.web.whatsapp.com
-w5.web.whatsapp.com
-w6.web.whatsapp.com
-w7.web.whatsapp.com
-w8.web.whatsapp.com
-w9.web.whatsapp.com
-whatsapp-cdn-shv-01-atl1.fbcdn.net
-whatsapp-cdn-shv-01-bom1.fbcdn.net
-whatsapp-cdn-shv-01-dfw1.fbcdn.net
-whatsapp-cdn-shv-01-iad3.fbcdn.net
-whatsapp-cdn-shv-01-lax1.fbcdn.net
-whatsapp-cdn-shv-01-lax3.fbcdn.net
-whatsapp-cdn-shv-01-lga1.fbcdn.net
-whatsapp-cdn-shv-01-mia1.fbcdn.net
-whatsapp-cdn-shv-01-ord1.fbcdn.net
-whatsapp-cdn-shv-01-sea1.fbcdn.net
-whatsapp-cdn-shv-01-sjc2.fbcdn.net
-whatsapp-chatd-edge-shv-01-atl3.facebook.com
-whatsapp-chatd-edge-shv-01-mia3.facebook.com
-whatsapp-chatd-edge-shv-01-bom1.facebook.com
-whatsapp-chatd-edge-shv-02-lga3.facebook.com
-whatsapp-chatd-edge-shv-02-mia3.facebook.com
-www-cdn.whatsapp.net
-(^|\.)whatsapp\.com$
-whatsapp.com
-www.whatsapp.com
-web.whatsapp.com
+0.0.0.0 api.whatsapp.com
+0.0.0.0 blog.whatsapp.com
+0.0.0.0 chat.cdn.whatsapp.net
+0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 faq.whatsapp.com
+0.0.0.0 e1.whatsapp.net
+0.0.0.0 e2.whatsapp.net
+0.0.0.0 e3.whatsapp.net
+0.0.0.0 e4.whatsapp.net
+0.0.0.0 e5.whatsapp.net
+0.0.0.0 e6.whatsapp.net
+0.0.0.0 e7.whatsapp.net
+0.0.0.0 e8.whatsapp.net
+0.0.0.0 e9.whatsapp.net
+0.0.0.0 e10.whatsapp.net
+0.0.0.0 e11.whatsapp.net
+0.0.0.0 e12.whatsapp.net
+0.0.0.0 e13.whatsapp.net
+0.0.0.0 e14.whatsapp.net
+0.0.0.0 e15.whatsapp.net
+0.0.0.0 e16.whatsapp.net
+0.0.0.0 e17.whatsapp.net
+0.0.0.0 e18.whatsapp.net
+0.0.0.0 e19.whatsapp.net
+0.0.0.0 e20.whatsapp.net
+0.0.0.0 e21.whatsapp.net
+0.0.0.0 e22.whatsapp.net
+0.0.0.0 e23.whatsapp.net
+0.0.0.0 e1.web.whatsapp.com
+0.0.0.0 e2.web.whatsapp.com
+0.0.0.0 e3.web.whatsapp.com
+0.0.0.0 e4.web.whatsapp.com
+0.0.0.0 e5.web.whatsapp.com
+0.0.0.0 e6.web.whatsapp.com
+0.0.0.0 e7.web.whatsapp.com
+0.0.0.0 e8.web.whatsapp.com
+0.0.0.0 e9.web.whatsapp.com
+0.0.0.0 e10.web.whatsapp.com
+0.0.0.0 e11.web.whatsapp.com
+0.0.0.0 e12.web.whatsapp.com
+0.0.0.0 e13.web.whatsapp.com
+0.0.0.0 e14.web.whatsapp.com
+0.0.0.0 e15.web.whatsapp.com
+0.0.0.0 e16.web.whatsapp.com
+0.0.0.0 e17.web.whatsapp.com
+0.0.0.0 e18.web.whatsapp.com
+0.0.0.0 e19.web.whatsapp.com
+0.0.0.0 e20.web.whatsapp.com
+0.0.0.0 e21.web.whatsapp.com
+0.0.0.0 e22.web.whatsapp.com
+0.0.0.0 e23.web.whatsapp.com
+0.0.0.0 g.whatsapp.net
+0.0.0.0 media-msp1-1.cdn.whatsapp.net
+0.0.0.0 mmg.whatsapp.net
+0.0.0.0 mmg-fna.whatsapp.net
+0.0.0.0 mmx-ds.cdn.whatsapp.net
+0.0.0.0 mmx-fb.cdn.whatsapp.net
+0.0.0.0 pps.whatsapp.net
+0.0.0.0 scontent.whatsapp.net
+0.0.0.0 static.whatsapp.net
+0.0.0.0 translate.whatsapp.com
+0.0.0.0 w1.web.whatsapp.com
+0.0.0.0 w2.web.whatsapp.com
+0.0.0.0 w3.web.whatsapp.com
+0.0.0.0 w4.web.whatsapp.com
+0.0.0.0 w5.web.whatsapp.com
+0.0.0.0 w6.web.whatsapp.com
+0.0.0.0 w7.web.whatsapp.com
+0.0.0.0 w8.web.whatsapp.com
+0.0.0.0 w9.web.whatsapp.com
+0.0.0.0 whatsapp-cdn-shv-01-atl1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-bom1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-dfw1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-iad3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lax1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lax3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lga1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-mia1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-ord1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-sea1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-sjc2.fbcdn.net
+0.0.0.0 whatsapp-chatd-edge-shv-01-atl3.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-01-mia3.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-01-bom1.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-02-lga3.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-02-mia3.facebook.com
+0.0.0.0 www-cdn.whatsapp.net
+0.0.0.0 (^|\.)whatsapp\.com$
+0.0.0.0 whatsapp.com
+0.0.0.0 www.whatsapp.com
+0.0.0.0 web.whatsapp.com
