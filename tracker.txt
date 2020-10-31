@@ -123,6 +123,7 @@ sb.scorecardresearch.com
 shops.myshopify.com
 static.hotjar.com
 static-v.tawk.to
+0.0.0.0 static.semrush.com
 subscription.omnithrottle.com
 sgcp-hlb.dvgtm.akadns.net
 ssc-cms.33across.com
@@ -150,6 +151,7 @@ vsb115.tawk.to
 www.onetrust.com
 www.moat.com
 www.moatads.com
+0.0.0.0 www.semrush.com
 web.hb.ad.cpe.dotomi.com
 wzrkt.com
 x.bidswitch.net
