@@ -50,6 +50,7 @@ ghs.google.com
 googleadservices.com
 google-analytics.com
 googleanalytics.com
+0.0.0.0  googlescholar.com
 googletagmanager.com
 googletagservices.com
 googlehosted.l.googleusercontent.com
@@ -97,11 +98,13 @@ photosdata-pa.googleapis.com
 0.0.0.0 realtimesupport.clients6.google.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 sb-ssl.google.com
+0.0.0.0 scholar.l.google.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static-doubleclick-net.l.google.com
+0.0.0.0 stun.l.google.com
 #ssl.gstatic.com
 ssl.google-analytics.com
 ssl-google-analytics.l.google.com
@@ -131,6 +134,7 @@ www.google.co.in
 # www.googleapis.com
 www.googletagmanager.com
 www.google.ru
+0.0.0.0 www.scholar.google.com
 
 
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
