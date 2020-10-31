@@ -39,11 +39,12 @@ dns.google
 drive.google.com
 0.0.0.0 docs.google.com
 # fonts.googleapis.com
-firebase.google.com
-firebaseinstallations.googleapis.com
-firebaseremoteconfig.googleapis.com
-firebase-settings.crashlytics.com
-footprints-pa.googleapis.com
+0.0.0.0 firebase.google.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebasestorage.googleapis.com
+0.0.0.0 footprints-pa.googleapis.com
 # 0.0.0.0 fonts.gstatic.com
 ghs.google.com
 googleadservices.com
@@ -63,10 +64,12 @@ instantmessaging-pa-ap.googleapis.com
 instantmessaging-pa.googleapis.com
 imasdk.googleapis.com
 lamssettings-pa.googleapis.com
+0.0.0.0 lens-storage.storage.googleapis.com
 maa03s28-in-f10.1e100.net #messageapp
 maa05s12-in-f10.1e100.net #messageapp
-manifest.googlevideo.com
-mdh-pa.googleapis.com
+0.0.0.0 mdh-pa.googleapis.com
+0.0.0.0 manifest.googlevideo.com
+0.0.0.0 mannequin.storage.googleapis.com
 mtalk.google.com
 ocsp.pki.goog
 ogs.google.com
@@ -104,6 +107,8 @@ ssl.google-analytics.com
 ssl-google-analytics.l.google.com
 s0-2mdn-net.l.google.com
 0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
+0.0.0.0 storage.googleapis.com
 suggestqueries.google.com
 support.google.com
 s0.2mdn.net
