@@ -85,6 +85,10 @@ photosdata-pa.googleapis.com
 0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 play.googleapis.com
+0.0.0.0 plus.google.com     # Google Plus
+0.0.0.0 plus.l.google.com   # Google Plus
+0.0.0.0 plus.sandbox.google.com # Google Plus
+0.0.0.0 plusone.google.com      # Google Plus
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 rcs-acs-airtel-india.jibe.google.com
 0.0.0.0 realtimesupport.clients6.google.com
