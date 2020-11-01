@@ -1,162 +1,161 @@
-1078430-30.chat.api.drift.com
-1-1.chat.api.drift.com
-684d0d3e.akstat.io
-0.0.0.0 ads.us.e-planning.net
-ads.servenobid.com
+0.0.0.0 1078430-30.chat.api.drift.com
+0.0.0.0 1-1.chat.api.drift.com
+0.0.0.0 684d0d3e.akstat.io
+0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads-ap.v.ssp.yahoo.com
 0.0.0.0 ads.adaptv.advertising.com 
-ads.yieldmo.com
+0.0.0.0 ads.yieldmo.com
 0.0.0.0 ad.myinstashot.com
 0.0.0.p ads.mopub.com 
-as-sec.casalemedia.com
-api.daznfeeds.com
-api.permutive.com
-api2.branch.io
-apiv2.moengage.com
-api.drift.com
-api.leanplum.com
-app.adjust.com
-api.hubapi.com
-ap.lijit.com
-ads.us.e-planning.net	
-analytics.ff.avast.com
+0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 api.daznfeeds.com
+0.0.0.0 api.permutive.com
+0.0.0.0 api2.branch.io
+0.0.0.0 apiv2.moengage.com
+0.0.0.0 api.drift.com
+0.0.0.0 api.leanplum.com
+0.0.0.0 app.adjust.com
+0.0.0.0 api.hubapi.com
+0.0.0.0 ap.lijit.com
+0.0.0.0 ads.us.e-planning.net	
+0.0.0.0 analytics.ff.avast.com
 0.0.0.0 app.link
-assets.moat.com
-#a1089.dscd.akamai.net
-a1916.dscr.akamai.net
+0.0.0.0 assets.moat.com
+#0.0.0.0 a1089.dscd.akamai.net
+0.0.0.0 a1916.dscr.akamai.net
 # a1991.dscr.akamai.net
-bam.nr-data.netv
-b.gemini.yahoo.com
-beacon-apac-hkg1.rubiconproject.com
-beacon-perf-hkg1.rubiconproject.net.akadns.net
-better.fyi
-branch.io
-bugsnag.com
-ccleaner.tools.avcdn.net
-cdn.branch.io
-chat.api.drift.com
-c.go-mpulse.net
-c.mgid.com
-cdn.doubleverify.com
-cdn.amplitude.com
-cdn.contentful.com
-# captive.apple.com
-consentcdn.cookiebot.com
-cs.emxdgt.com
-# cs9.wac.phicdn.net
+0.0.0.0 bam.nr-data.netv
+0.0.0.0 b.gemini.yahoo.com
+0.0.0.0 beacon-apac-hkg1.rubiconproject.com
+0.0.0.0 beacon-perf-hkg1.rubiconproject.net.akadns.net
+0.0.0.0 better.fyi
+0.0.0.0 branch.io
+0.0.0.0 bugsnag.com
+0.0.0.0 ccleaner.tools.avcdn.net
+0.0.0.0 cdn.branch.io
+0.0.0.0 chat.api.drift.com
+0.0.0.0 c.go-mpulse.net
+0.0.0.0 c.mgid.com
+0.0.0.0 cdn.doubleverify.com
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 cdn.contentful.com
+# 0.0.0.0 captive.apple.com
+0.0.0.0 consentcdn.cookiebot.com
+0.0.0.0 cs.emxdgt.com
+# 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 data.flurry.com
-d.sni.global.fastly.net
-de.tynt.com
-df231.infusionsoft.com
-distillery.wistia.com
-d228z91au11ukj.cloudfront.net
+0.0.0.0 d.sni.global.fastly.net
+0.0.0.0 de.tynt.com
+0.0.0.0 df231.infusionsoft.com
+0.0.0.0 distillery.wistia.com
+0.0.0.0 d228z91au11ukj.cloudfront.net
 0.0.0.0 e3.adpushup.com
-e8736.e7.akamaiedge.net
-e8937.dscb.akamaiedge.net
-embed-ssl.wistia.com
-embed.tawk.to
-embeds.driftcdn.com
-emupdate.avcdn.net
-engineering.tapad.com
-events.evie.com
-events.split.io
-eus.rubiconproject.com
-fastlane.rubiconproject.com
-forms.hubspot.com
-global.px.quantserve.com
-geo.yahoo.com
-geolocation.daznservices.com
-geo-atsv2.media.g03.yahoodns.net
-g2.gumgum.com
+0.0.0.0 e8736.e7.akamaiedge.net
+0.0.0.0 e8937.dscb.akamaiedge.net
+0.0.0.0 embed-ssl.wistia.com
+0.0.0.0 embed.tawk.to
+0.0.0.0 embeds.driftcdn.com
+0.0.0.0 emupdate.avcdn.net
+0.0.0.0 engineering.tapad.com
+0.0.0.0 events.evie.com
+0.0.0.0 events.split.io
+0.0.0.0 eus.rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 forms.hubspot.com
+0.0.0.0 global.px.quantserve.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 geolocation.daznservices.com
+0.0.0.0 geo-atsv2.media.g03.yahoodns.net
+0.0.0.0 g2.gumgum.com
 0.0.0.0 hbopenbid.pubmatic.com
-img.onesignal.com
-inapps.appsflyer.com
-infusionsoft.com
+0.0.0.0 img.onesignal.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 infusionsoft.com
 0.0.0.0 inshotmaterial.oss-cn-shanghai.aliyuncs.com
-ipac.ctnsnet.com
-ip-info.ff.avast.com
-ib.adnxs.com
-js-agent.newrelic.com
-keap.com
-launches.appsflyer.com
-moat.com
-marketing-909352363.us-west-2.elb.amazonaws.com
+0.0.0.0 ipac.ctnsnet.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 keap.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 moat.com
+0.0.0.0 marketing-909352363.us-west-2.elb.amazonaws.com
 0.0.0.0 m.servedby-buysellads.com
-notify.bugsnag.com
-onesignal.com
-ocsp.sectigo.com
-ocsp.int-x3.letsencrypt.org
-# ocsp.digicert.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 onesignal.com
+0.0.0.0 ocsp.sectigo.com
+0.0.0.0 ocsp.int-x3.letsencrypt.org
+# 0.0.0.0 ocsp.digicert.com
 0.0.0.0 optimized-by.rubiconproject.com
-p.adsymptotic.com
-prebid-server.rubiconproject.com
-presence.api.drift.com 
-prebid-server-perf.rubiconproject.net.akadns.net
-privacyportal.onetrust.com
-pixel.rubiconproject.com
-pixel-eu.rubiconproject.net.akadns.net
-pixel.rubiconproject.net.akadns.net
-ping.chartbeat.net
-pixel.33across.com
-pixel.tapad.com
-pixel.quantserve.com
-pixel-origin.mathtag.com
-pippio.com
-pr-bh.ybp.yahoo.com
-rlv.zcache.com
-rc-ext-geo.rlcdn.com
-rtb.gumgum.com
-rc.rlcdn.com
-rules.quantcount.com
-rubiconcm.digitaleast.mobi
-simage4.pubmatic.com
-script.hotjar.com
-sectigo.com
-server.apxor.com
-ssum-sec.casalemedia.com
-srv.buysellads.com
-secure.trust-provider.com
-settingsfd-geo.trafficmanager.net
-sofia.trustx.org
-secure.sectigo.com
-secure.quantserve.com
-secure-assets.rubiconproject.com
-sessions.bugsnag.com
-sb.scorecardresearch.com
-shops.myshopify.com
-static.hotjar.com
-static-v.tawk.to
+0.0.0.0 p.adsymptotic.com
+0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 presence.api.drift.com 
+0.0.0.0 prebid-server-perf.rubiconproject.net.akadns.net
+0.0.0.0 privacyportal.onetrust.com
+0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
+0.0.0.0 pixel.rubiconproject.net.akadns.net
+0.0.0.0 ping.chartbeat.net
+0.0.0.0 pixel.33across.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 pixel-origin.mathtag.com
+0.0.0.0 pippio.com
+0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 rlv.zcache.com
+0.0.0.0 rc-ext-geo.rlcdn.com
+0.0.0.0 rtb.gumgum.com
+0.0.0.0 rc.rlcdn.com
+0.0.0.0 rules.quantcount.com
+0.0.0.0 rubiconcm.digitaleast.mobi
+0.0.0.0 simage4.pubmatic.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 sectigo.com
+0.0.0.0 server.apxor.com
+0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 srv.buysellads.com
+0.0.0.0 secure.trust-provider.com
+0.0.0.0 settingsfd-geo.trafficmanager.net
+0.0.0.0 sofia.trustx.org
+0.0.0.0 secure.sectigo.com
+0.0.0.0 secure.quantserve.com
+0.0.0.0 secure-assets.rubiconproject.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 shops.myshopify.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 static-v.tawk.to
 0.0.0.0 static.semrush.com
-subscription.omnithrottle.com
-sgcp-hlb.dvgtm.akadns.net
-ssc-cms.33across.com
+0.0.0.0 subscription.omnithrottle.com
+0.0.0.0 sgcp-hlb.dvgtm.akadns.net
+0.0.0.0 ssc-cms.33across.com
 0.0.0.0 surveygizmobeacon.s3.amazonaws.com
-sync.mathtag.com
-tag.1rx.io
-tagged-by.rubiconproject.net.akadns.net
-targeting.api.drift.com
-tawk.to
-telemetry.sdk.inmobi.com
-token.rubiconproject.com
-tls13.taboola.map.fastly.net
-tps20808.doubleverify.com
-tps20801.doubleverify.com
+0.0.0.0 sync.mathtag.com
+0.0.0.0 tag.1rx.io
+0.0.0.0 tagged-by.rubiconproject.net.akadns.net
+0.0.0.0 targeting.api.drift.com
+0.0.0.0 tawk.to
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 token.rubiconproject.com
+0.0.0.0 tls13.taboola.map.fastly.net
+0.0.0.0 tps20808.doubleverify.com
+0.0.0.0 tps20801.doubleverify.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.venatusmedia.com
-trc.taboola.com
-uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
-va.tawk.to
-vars.hotjar.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 va.tawk.to
+0.0.0.0 vars.hotjar.com
 0.0.0.0 vid-io-iad.springserve.com 
 0.0.0.0 video-ads.rubiconproject.com
-vsb115.tawk.to
+0.0.0.0 vsb115.tawk.to
 0.0.0.0 www14.smartadserver.com
-www.onetrust.com
-www.moat.com
-www.moatads.com
+0.0.0.0 www.onetrust.com
+0.0.0.0 www.moat.com
+0.0.0.0 www.moatads.com
 0.0.0.0 www.semrush.com
-web.hb.ad.cpe.dotomi.com
-wzrkt.com
-x.bidswitch.net
-z.moatads.com
+0.0.0.0 web.hb.ad.cpe.dotomi.com
+0.0.0.0 wzrkt.com
+0.0.0.0 x.bidswitch.net
+0.0.0.0 z.moatads.com
