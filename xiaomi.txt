@@ -1,32 +1,32 @@
-# account.huami.com
-# account-us2.huami.com
-# api-mifit-us2.huami.com
-# api-watch-us2.huami.com
-# api-user.huami.com
-# api-user-us2.huami.com
-api-analytics-us.huami.com
-app-analytics-us.huami.com
-# auth-us2.huami.com
-cgi.connect.qq.com
-fe-static.huami.com
-fe-cdn.huami.com
-hm.baidu.com
-idmb.app.chat.global.xiaomi.net
-idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
-idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
-logs.amap.com
-login.sina.com
-login.sina.com.cn
-mpsapi.amap.com
-resolver.msg.global.xiaomi.net
-restapi.amap.com
-sdkconfig.ad.intl.xiaomi.com
-user.huami.com
-upload-cdn.huami.com
-web-analytics-cn.huami.com
-wprd02.is.autonavi.com
+0.0.0.0 account-us2.huami.com
+0.0.0.0 account.huami.com
+0.0.0.0 api-analytics-us.huami.com
+0.0.0.0 api-mifit-us2.huami.com
+0.0.0.0 api-user-us2.huami.com
+0.0.0.0 api-user.huami.com
+0.0.0.0 api-watch-us2.huami.com
+0.0.0.0 app-analytics-us.huami.com
+0.0.0.0 auth-us2.huami.com
+0.0.0.0 cgi.connect.qq.com
+0.0.0.0 fe-cdn.huami.com
+0.0.0.0 fe-static.huami.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb.app.chat.global.xiaomi.net
+0.0.0.0 login.sina.com
+0.0.0.0 login.sina.com.cn
+0.0.0.0 logs.amap.com
+0.0.0.0 mpsapi.amap.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 restapi.amap.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 upload-cdn.huami.com
+0.0.0.0 user.huami.com
+0.0.0.0 web-analytics-cn.huami.com
+0.0.0.0 wprd02.is.autonavi.com
