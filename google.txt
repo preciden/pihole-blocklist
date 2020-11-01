@@ -1,94 +1,94 @@
-0.client-channel.google.com
-6478929.fls.doubleclick.net
-_sips._tcp.in.airtel.rcs.telephony.goog
-aa.google.com
-ajax.googleapis.com
-alt1-mtalk.google.com
-alt2-mtalk.google.com
-alt3-mtalk.google.com
-alt4-mtalk.google.com
-alt5-mtalk.google.com
-alt6-mtalk.google.com
-alt7-mtalk.google.com
-alt8-mtalk.google.com
-adservice.google.co.in
+0.0.0.0 0.client-channel.google.com
+0.0.0.0 6478929.fls.doubleclick.net
+0.0.0.0 _sips._tcp.in.airtel.rcs.telephony.goog
+0.0.0.0 aa.google.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
-ad.doubleclick.net
-android.clients.google.com
-android.googleapis.com
+0.0.0.0 ajax.googleapis.com
+0.0.0.0 alt1-mtalk.google.com
+0.0.0.0 alt2-mtalk.google.com
+0.0.0.0 alt3-mtalk.google.com
+0.0.0.0 alt4-mtalk.google.com
+0.0.0.0 alt5-mtalk.google.com
+0.0.0.0 alt6-mtalk.google.com
+0.0.0.0 alt7-mtalk.google.com
+0.0.0.0 alt8-mtalk.google.com
+0.0.0.0 android.clients.google.com
+0.0.0.0 android.googleapis.com
 0.0.0.0 apis.google.com
-app-measurement.com
-appswaldo-pa.clients6.google.com
-blogger.l.google.com
-businesscalls.googleapis.com
-click.google-analytics.com
-chat-pa.clients6.google.com
-connectivitycheck.gstatic.com
-clients.l.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
+0.0.0.0 app-measurement.com
+0.0.0.0 appswaldo-pa.clients6.google.com
+0.0.0.0 blogger.l.google.com
+0.0.0.0 businesscalls.googleapis.com
+0.0.0.0 chat-pa.clients6.google.com
+0.0.0.0 click.google-analytics.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 clients5.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 clients.l.google.com
 0.0.0.0 clientservices.googleapis.com
-contacts.google.com
-crashlyticsreports-pa.googleapis.com
-cse.google.com
-csi.gstatic.com
-dialercallinfolookup-pa.googleapis.com #phoneapp
-dns.google
-drive.google.com
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 contacts.google.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 cse.google.com
+0.0.0.0 csi.gstatic.com
+0.0.0.0 dialercallinfolookup-pa.googleapis.com #phoneapp
+0.0.0.0 dns.google
 0.0.0.0 docs.google.com
-# fonts.googleapis.com
+0.0.0.0 drive.google.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebase.google.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebasestorage.googleapis.com
-0.0.0.0 footprints-pa.googleapis.com
+# 0.0.0.0 fonts.googleapis.com
 # 0.0.0.0 fonts.gstatic.com
-ghs.google.com
-googleadservices.com
-google-analytics.com
-googleanalytics.com
-0.0.0.0  googlescholar.com
-googletagmanager.com
-googletagservices.com
-googlehosted.l.googleusercontent.com
-# 0.0.0.0 gstaticadssl.l.google.com
-googleads.g.doubleclick.net
-g.cn
-growth-pa.googleapis.com
+0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 g.cn
+0.0.0.0 ghs.google.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 googleanalytics.com
+0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 googlescholar.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 hangouts.google.com
-in.airtel.rcs.telephony.goog
-infinitedata-pa.googleapis.com
-instantmessaging-pa-ap.googleapis.com
-instantmessaging-pa.googleapis.com
-imasdk.googleapis.com
-lamssettings-pa.googleapis.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 in.airtel.rcs.telephony.goog
+0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 instantmessaging-pa-ap.googleapis.com
+0.0.0.0 instantmessaging-pa.googleapis.com
+0.0.0.0 lamssettings-pa.googleapis.com
 0.0.0.0 lens-storage.storage.googleapis.com
-maa03s28-in-f10.1e100.net #messageapp
-maa05s12-in-f10.1e100.net #messageapp
-0.0.0.0 mdh-pa.googleapis.com
+0.0.0.0 maa03s28-in-f10.1e100.net #messageapp
+0.0.0.0 maa05s12-in-f10.1e100.net #messageapp
 0.0.0.0 manifest.googlevideo.com
 0.0.0.0 mannequin.storage.googleapis.com
-mtalk.google.com
-ocsp.pki.goog
-ogs.google.com
-pagead2.googleadservices.com
-pagead2.googlesyndication.com
-pagead46.l.doubleclick.net
+0.0.0.0 mdh-pa.googleapis.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 ocsp.pki.goog
+0.0.0.0 ogs.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
-people-pa.googleapis.com
-people-pa.clients6.google.com
-peoplestackwebexperiments-pa.clients6.google.com
-phonedeviceverification-pa.googleapis.com
-photosdata-pa.googleapis.com
-# photos-ugc.l.googleusercontent.com
+0.0.0.0 people-pa.clients6.google.com
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
+0.0.0.0 phonedeviceverification-pa.googleapis.com
+0.0.0.0 photos-ugc.l.googleusercontent.com
+0.0.0.0 photosdata-pa.googleapis.com
 0.0.0.0 pki-goog.l.google.com
-0.0.0.0 play.google.com
-0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 play-lh.googleusercontent.com
+0.0.0.0 play.google.com
 0.0.0.0 play.googleapis.com
+0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 plus.google.com     # Google Plus
 0.0.0.0 plus.l.google.com   # Google Plus
 0.0.0.0 plus.sandbox.google.com # Google Plus
@@ -96,44 +96,43 @@ photosdata-pa.googleapis.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 rcs-acs-airtel-india.jibe.google.com
 0.0.0.0 realtimesupport.clients6.google.com
+0.0.0.0 s0-2mdn-net.l.google.com
+0.0.0.0 s0.2mdn.net
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 sb-ssl.google.com
 0.0.0.0 scholar.l.google.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 signaler-pa.clients6.google.com
-0.0.0.0 static.doubleclick.net
+0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 ssl.google-analytics.com
+# 0.0.0.0 ssl.gstatic.com
 0.0.0.0 static-doubleclick-net.l.google.com
-0.0.0.0 stun.l.google.com
-#ssl.gstatic.com
-ssl.google-analytics.com
-ssl-google-analytics.l.google.com
-s0-2mdn-net.l.google.com
+0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
 0.0.0.0 storage.googleapis.com
-suggestqueries.google.com
-support.google.com
-s0.2mdn.net
-taskassist-pa.clients6.google.com
-time.android.com
-tpc.googlesyndication.com
-telephonyspamprotect-pa.googleapis.com
-update.googleapis.com
+0.0.0.0 stun.l.google.com
+0.0.0.0 suggestqueries.google.com
+0.0.0.0 support.google.com
+0.0.0.0 taskassist-pa.clients6.google.com
+0.0.0.0 telephonyspamprotect-pa.googleapis.com
+0.0.0.0 time.android.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 update.googleapis.com
+0.0.0.0 verifiedsms-pa.googleapis.com
 0.0.0.0 voledevice-pa.googleapis.com
-verifiedsms-pa.googleapis.com
-www3.l.google.com
-www.gstatic.com
-www.googleadservices.com
+0.0.0.0 www3.l.google.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www-googletagmanager.l.google.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.google.co.in
+0.0.0.0 www.google.com
+0.0.0.0 www.google.ru
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googleapis.com
-www.google-analytics.com
-www-googletagmanager.l.google.com
-www-google-analytics.l.google.com
-www.google.com
-www.google.co.in
-# www.googleapis.com
-www.googletagmanager.com
-www.google.ru
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.gstatic.com
 0.0.0.0 www.scholar.google.com
 
 
