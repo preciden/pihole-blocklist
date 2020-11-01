@@ -216,6 +216,7 @@
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 dns.msftncsi.com
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 dual-a-0001.a-msedge.net
 0.0.0.0 ec.atdmt.com
@@ -421,6 +422,7 @@
 0.0.0.0 watson.ppe.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wd-prod-ss-as-east-2-fe.eastasia.cloudapp.azure.com
+0.0.0.0 wdcp.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
