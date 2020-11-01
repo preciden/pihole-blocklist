@@ -12,6 +12,6 @@
 0.0.0.0 image.airtel.tv
 0.0.0.0 layout.airtel.tv
 0.0.0.0 location.wynk.in
-0.0.0.0 myairtelapp.bsbportal.com
+# 0.0.0.0 myairtelapp.bsbportal.com
 0.0.0.0 stats.wynk.in
 0.0.0.0 www.airtel.in
