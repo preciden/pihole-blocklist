@@ -21,5 +21,3 @@
 0.0.0.0 www.reddit.com
 0.0.0.0 www.redditmedia.com
 0.0.0.0 www.redditstatic.com
-
-
