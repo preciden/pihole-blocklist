@@ -1,17 +1,17 @@
-airtel.editorji.com
-app.airtelbank.com
-# api.airtel.tv
-# assets.airtel.in
-# content.airtel.tv
-# digi-api.airtel.in 
-digianalytics.airtel.in
-events.airtel.tv
-#image.airtel.tv
-#layout.airtel.tv
-# myairtelapp.bsbportal.com
-# www.airtel.in
-ad.wynk.in
-graph.wynk.in
-events.wynk.in
-location.wynk.in
-stats.wynk.in
+0.0.0.0 ad.wynk.in
+0.0.0.0 airtel.editorji.com
+0.0.0.0 api.airtel.tv
+0.0.0.0 app.airtelbank.com
+0.0.0.0 assets.airtel.in
+0.0.0.0 content.airtel.tv
+0.0.0.0 digi-api.airtel.in
+0.0.0.0 digianalytics.airtel.in
+0.0.0.0 events.airtel.tv
+0.0.0.0 events.wynk.in
+0.0.0.0 graph.wynk.in
+0.0.0.0 image.airtel.tv
+0.0.0.0 layout.airtel.tv
+0.0.0.0 location.wynk.in
+0.0.0.0 myairtelapp.bsbportal.com
+0.0.0.0 stats.wynk.in
+0.0.0.0 www.airtel.in
