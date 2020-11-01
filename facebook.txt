@@ -14,6 +14,7 @@
 0.0.0.0 instagram.fist1-3.fna.fbcdn.net
 0.0.0.0 instagram.frpr1-1.fna.fbcdn.net
 0.0.0.0 instagram.fruh6-2.fna.fbcdn.net
+0.0.0.0 instagram.frix7-1.fna.fbcdn.net
 0.0.0.0 instagram.flis8-2.fna.fbcdn.net
 0.0.0.0 instagram.fstu1-1.fna.fbcdn.net
 0.0.0.0 lookaside.facebook.com
