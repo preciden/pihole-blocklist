@@ -1,6 +1,6 @@
-cs515.adn.phicdn.net
-events.gfe.nvidia.com
-gfwsl.geforce.com
-gfe.nvidia.com
-static.nvidiagrid.net
-services.gfe.nvidia.com
+0.0.0.0 cs515.adn.phicdn.net
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 static.nvidiagrid.net
+0.0.0.0 services.gfe.nvidia.com
