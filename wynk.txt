@@ -1,5 +1,0 @@
-ad.wynk.in
-graph.wynk.in
-events.wynk.in
-location.wynk.in
-stats.wynk.in
