@@ -33,7 +33,7 @@
 0.0.0.0 bugsnag.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.mgid.com
-0.0.0.0 captive.apple.com
+# 0.0.0.0 captive.apple.com
 0.0.0.0 ccleaner.tools.avcdn.net
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.branch.io
