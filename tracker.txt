@@ -44,6 +44,7 @@
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 d228z91au11ukj.cloudfront.net
 0.0.0.0 d.sni.global.fastly.net
+0.0.0.0 dacdn.visualwebsiteoptimizer.com
 0.0.0.0 data.flurry.com
 0.0.0.0 de.tynt.com
 0.0.0.0 df231.infusionsoft.com
@@ -116,6 +117,7 @@
 0.0.0.0 secure.sectigo.com
 0.0.0.0 secure.trust-provider.com
 0.0.0.0 server.apxor.com
+0.0.0.0 serverg.apxor.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 settingsfd-geo.trafficmanager.net
 0.0.0.0 sgcp-hlb.dvgtm.akadns.net
