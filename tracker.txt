@@ -40,6 +40,7 @@
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 chat.api.drift.com
 0.0.0.0 consentcdn.cookiebot.com
+0.0.0.0 conversions.appsflyer.com
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 d228z91au11ukj.cloudfront.net
@@ -63,6 +64,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 forms.hubspot.com
 0.0.0.0 g2.gumgum.com
+0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 geo-atsv2.media.g03.yahoodns.net
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geolocation.daznservices.com
