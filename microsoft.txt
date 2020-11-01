@@ -434,4 +434,6 @@
 0.0.0.0 www.msedge.net
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 www.tm.a.prd.aadg.akadns.net
+0.0.0.0 www.tm.a.prd.aadg.trafficmanager.net
 0.0.0.0 www.tm.lg.prod.aadmsa.trafficmanager.net
+
