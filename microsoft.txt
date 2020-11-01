@@ -388,6 +388,7 @@
 0.0.0.0 store-images.microsoft.com
 0.0.0.0 store-images.s-microsoft.com
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+0.0.0.0 substrate.office.com
 0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 teams.events.data.microsoft.com
 0.0.0.0 tele.trafficmanager.net
