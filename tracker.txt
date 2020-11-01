@@ -3,7 +3,6 @@
 0.0.0.0 1078430-30.chat.api.drift.com
 0.0.0.0 a1089.dscd.akamai.net
 0.0.0.0 a1916.dscr.akamai.net
-0.0.0.0 a1991.dscr.akamai.net
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ads-ap.v.ssp.yahoo.com
 0.0.0.0 ads.adaptv.advertising.com
