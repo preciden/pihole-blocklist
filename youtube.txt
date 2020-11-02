@@ -10,4 +10,8 @@
       r4---sn-a5mekner.googlevideo.com
       r4---sn-npoe7n7y.googlevideo.com
       	r4.sn-npoe7n7y.googlevideo.com
+	www.youtube.com
+	m.youtube.com
+	r5---sn-a5m7lnlz.googlevideo.com
+	r5.sn-a5m7lnlz.googlevideo.com
       
