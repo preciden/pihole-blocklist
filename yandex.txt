@@ -6,9 +6,13 @@
 0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 browser.yandex.ru
 0.0.0.0 browser.translate.yandex.net
+0.0.0.0 csp-report.stable.qloud-b.yandex.net
+0.0.0.0 csp.yandex.net
 0.0.0.0 dr.yandex.net
 0.0.0.0 dr2.yandex.net
+0.0.0.0 egress.yandex.net
 0.0.0.0 favicon.yandex.net
+0.0.0.0 maps.yandex.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
@@ -16,5 +20,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 storage.ape.yandex.net
 0.0.0.0 www.yandex.ru
+0.0.0.0 yastatic.net
 0.0.0.0 yandex.com
+0.0.0.0 yandex.eu
 0.0.0.0 yandex.ru
