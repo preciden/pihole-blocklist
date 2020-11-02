@@ -1,11 +1,13 @@
 0.0.0.0 account-us2.huami.com
 0.0.0.0 account.huami.com
+0.0.0.0 account.xiaomi.com
 0.0.0.0 api-analytics-us.huami.com
 0.0.0.0 api-mifit-us2.huami.com
 0.0.0.0 api-user-us2.huami.com
 0.0.0.0 api-user.huami.com
 0.0.0.0 api-watch-us2.huami.com
 0.0.0.0 app-analytics-us.huami.com
+0.0.0.0 api.account.xiaomi.com
 0.0.0.0 auth-us2.huami.com
 0.0.0.0 cgi.connect.qq.com
 0.0.0.0 fe-cdn.huami.com
@@ -23,6 +25,7 @@
 0.0.0.0 login.sina.com.cn
 0.0.0.0 logs.amap.com
 0.0.0.0 mpsapi.amap.com
+0.0.0.0 native.feedback.miui.com
 0.0.0.0 resolver.msg.global.xiaomi.net
 0.0.0.0 restapi.amap.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
