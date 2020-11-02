@@ -23,6 +23,8 @@
 0.0.0.0 app.measurement.com
 0.0.0.0 arc.msn.com
 0.0.0.0 arc.msn.com.nsatc.net
+0.0.0.0 array503.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array509.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array609.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array613.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array804.prod.do.dsp.mp.microsoft.com
