@@ -48,6 +48,7 @@
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firebasestorage.googleapis.com
+0.0.0.0 firestore.googleapis.com
 # 0.0.0.0 fonts.googleapis.com
 # 0.0.0.0 fonts.gstatic.com
 0.0.0.0 footprints-pa.googleapis.com
