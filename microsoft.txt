@@ -362,6 +362,7 @@
 0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 roaming.officeapps.live.com
 0.0.0.0 s-0005.s-msedge.net
 0.0.0.0 schemas.microsoft.akadns.net
