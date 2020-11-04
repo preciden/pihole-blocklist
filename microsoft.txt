@@ -27,6 +27,7 @@
 0.0.0.0 array509.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array609.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array613.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array803.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array804.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array811.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array813.prod.do.dsp.mp.microsoft.com
