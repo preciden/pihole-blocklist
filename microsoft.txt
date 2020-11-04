@@ -36,6 +36,7 @@
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.rad.msn.com
+0.0.0.0 b-ring.msedge.net
 0.0.0.0 bing.com
 0.0.0.0 bing.in
 0.0.0.0 bingads.microsoft.com
@@ -93,6 +94,7 @@
 0.0.0.0 by3301-e.1drv.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.msn.com
+0.0.0.0 c-ring.msedge.net
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cds10.stn.llnw.net
@@ -333,6 +335,7 @@
 0.0.0.0 ic3.events.data.microsoft.com
 0.0.0.0 identity.osi.office.net
 0.0.0.0 in.appcenter.ms
+0.0.0.0 k-ring.msedge.net
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 l-0003.l-msedge.net
 0.0.0.0 l-0005.l-msedge.net
@@ -360,6 +363,7 @@
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preview.msn.com
+0.0.0.0 r.bing.com
 0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
@@ -367,6 +371,7 @@
 0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 roaming.officeapps.live.com
 0.0.0.0 s-0005.s-msedge.net
+0.0.0.0 s-ring.msedge.net
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.flashtalking.com
@@ -383,6 +388,7 @@
 0.0.0.0 sn3301-e.1drv.com
 0.0.0.0 sn3301-g.1drv.com
 0.0.0.0 social.microsoft.com
+0.0.0.0 spo-ring.msedge.net
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 spyneteurope.microsoft.akadns.net
@@ -395,7 +401,9 @@
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 substrate.office.com
 0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 t-ring.msedge.net
 0.0.0.0 teams.events.data.microsoft.com
+0.0.0.0 teams-ring.msedge.net
 0.0.0.0 tele.trafficmanager.net
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telemetry.appex.bing.net
