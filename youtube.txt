@@ -1,9 +1,13 @@
 0.0.0.0 i.ytimg.com
 0.0.0.0 m.youtube.com
+0.0.0.0 r1.sn-ci5gup-g2ge.googlevideo.com
+0.0.0.0 r1---sn-ci5gup-g2ge.googlevideo.com
 0.0.0.0 r2---sn-ci5gup-g2ge.googlevideo.com
 0.0.0.0 r2---sn-cvh7knes.googlevideo.com
 0.0.0.0 r2.sn-ci5gup-g2ge.googlevideo.com
 0.0.0.0 r2.sn-cvh7knes.googlevideo.com
+0.0.0.0 r3.sn-ci5gup-g2ge.googlevideo.com
+0.0.0.0 r3---sn-ci5gup-g2ge.googlevideo.com
 0.0.0.0 r4---sn-a5mekner.googlevideo.com
 0.0.0.0 r4---sn-npoe7n7y.googlevideo.com
 0.0.0.0 r4.sn-a5mekner.googlevideo.com
