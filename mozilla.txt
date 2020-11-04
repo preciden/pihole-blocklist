@@ -6,11 +6,13 @@
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 incoming-telemetry.thunderbird.net
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 locprod2-elb-us-west-2.prod.mozaws.net
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 normandy-cdn.services.mozilla.com
 0.0.0.0 pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
 0.0.0.0 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
+0.0.0.0 prod.detectportal.prod.cloudops.mozgcp.net
 0.0.0.0 prod-tp.sumo.mozit.cloud
 0.0.0.0 prod.data-ingestion.prod.dataops.mozgcp.net
 0.0.0.0 profile.accounts.firefox.com
