@@ -7,6 +7,7 @@
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 completion.amazon.in
 0.0.0.0 completion.amazon.com
+0.0.0.0	completion.amazon.co.uk
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.media-amazon.com
 0.0.0.0 cdn-a.amazon-adsystem.com
