@@ -54,6 +54,7 @@
 # 0.0.0.0 fonts.gstatic.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 g.cn
+0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 ghs.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -83,6 +84,7 @@
 0.0.0.0 maps.googleapis.com
 0.0.0.0 maps.gstatic.com
 0.0.0.0 mdh-pa.googleapis.com
+0.0.0.0 mobilemaps-pa.googleapis.com
 0.0.0.0 mtalk.google.com
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 ogs.google.com
