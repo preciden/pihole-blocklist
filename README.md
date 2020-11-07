@@ -48,6 +48,8 @@ https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/twitter.txt
 
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/whatsapp.txt
 
+https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/xiaomi.txt
+
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/yandex.txt
 
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/youtube.txt
