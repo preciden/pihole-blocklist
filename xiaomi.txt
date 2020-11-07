@@ -29,6 +29,7 @@
 0.0.0.0 resolver.msg.global.xiaomi.net
 0.0.0.0 restapi.amap.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 tracking.intl.miui.com
 0.0.0.0 upload-cdn.huami.com
 0.0.0.0 user.huami.com
 0.0.0.0 web-analytics-cn.huami.com
