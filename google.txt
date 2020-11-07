@@ -40,6 +40,7 @@
 0.0.0.0 cse.google.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com #phoneapp
+0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 dns.google
 0.0.0.0 docs.google.com
 0.0.0.0 drive.google.com
