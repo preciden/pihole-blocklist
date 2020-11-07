@@ -4,6 +4,7 @@
 0.0.0.0 a1089.dscd.akamai.net
 0.0.0.0 a1916.dscr.akamai.net
 0.0.0.0 ad.myinstashot.com
+0.0.0.0 admin.appnext.com
 0.0.0.0 ads-ap.v.ssp.yahoo.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.mopub.com
@@ -38,6 +39,7 @@
 0.0.0.0 ccleaner.tools.avcdn.net
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.amplitude.com
+0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.contentful.com
 0.0.0.0 cdn.doubleverify.com
@@ -71,6 +73,7 @@
 0.0.0.0 geo-atsv2.media.g03.yahoodns.net
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geolocation.daznservices.com
+0.0.0.0 global.appnext.com
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 ib.adnxs.com
@@ -86,6 +89,7 @@
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 marketing-909352363.us-west-2.elb.amazonaws.com
 0.0.0.0 moat.com
+0.0.0.0 mu.appnext.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.int-x3.letsencrypt.org
