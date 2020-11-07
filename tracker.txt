@@ -6,6 +6,8 @@
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ads-ap.v.ssp.yahoo.com
 0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 ads.servebom.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.us.e-planning.net
@@ -34,6 +36,7 @@
 0.0.0.0 c.mgid.com
 # 0.0.0.0 captive.apple.com
 0.0.0.0 ccleaner.tools.avcdn.net
+0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.contentful.com
