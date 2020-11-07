@@ -438,6 +438,7 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wd-prod-ss-as-east-2-fe.eastasia.cloudapp.azure.com
 0.0.0.0 wdcp.microsoft.com
+0.0.0.0 wdcpalt.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
