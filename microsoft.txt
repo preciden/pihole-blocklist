@@ -337,6 +337,8 @@
 0.0.0.0 in.appcenter.ms
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv701.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 l-0003.l-msedge.net
 0.0.0.0 l-0005.l-msedge.net
 0.0.0.0 l-ring.msedge.net
