@@ -42,6 +42,7 @@
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.contentful.com
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 chat.api.drift.com
 0.0.0.0 consent.cookiebot.com
@@ -73,6 +74,7 @@
 0.0.0.0 geo-atsv2.media.g03.yahoodns.net
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geolocation.daznservices.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 global.appnext.com
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 hbopenbid.pubmatic.com
