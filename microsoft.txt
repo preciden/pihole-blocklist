@@ -1,3 +1,4 @@
+0.0.0.0 7a75bade15cbd2faf19418baa7b63a71.clo.footprintdns.com
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
@@ -224,6 +225,8 @@
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 dual-a-0001.a-msedge.net
+0.0.0.0 e961382e7e9f4010c7d6870c5b72bdbb.nrb.footprintdns.com
+0.0.0.0 ebb7ae00485ad1c01fa7ca2abacfa333.clo.footprintdns.com
 0.0.0.0 ec.atdmt.com
 0.0.0.0 ecs.office.com
 0.0.0.0 eu-v10.events.data.microsoft.com
