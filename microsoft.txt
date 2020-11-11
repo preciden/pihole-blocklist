@@ -222,6 +222,7 @@
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 disc501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 download.windowsupdate.com
@@ -341,6 +342,7 @@
 0.0.0.0 identity.osi.office.net
 0.0.0.0 in.appcenter.ms
 0.0.0.0 k-ring.msedge.net
+0.0.0.0 kv501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv701.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
@@ -459,4 +461,3 @@
 0.0.0.0 www.tm.a.prd.aadg.akadns.net
 0.0.0.0 www.tm.a.prd.aadg.trafficmanager.net
 0.0.0.0 www.tm.lg.prod.aadmsa.trafficmanager.net
-
