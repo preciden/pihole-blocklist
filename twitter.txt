@@ -36,6 +36,7 @@
 0.0.0.0 api.twitter.com
 0.0.0.0 caps.twitter.com
 0.0.0.0 cdn.cms-twdigitalassets.com
+0.0.0.0 cdn.syndication.twimg.com
 0.0.0.0 cs491.wac.edgecastcdn.net
 0.0.0.0 cs510.wpc.edgecastcdn.net
 0.0.0.0 cs531.wpc.edgecastcdn.net
