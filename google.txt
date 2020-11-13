@@ -137,6 +137,7 @@
 0.0.0.0 telephonyspamprotect-pa.googleapis.com
 0.0.0.0 time.android.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 translate.googleapis.com
 0.0.0.0 update.googleapis.com
 0.0.0.0 verifiedsms-pa.googleapis.com
 0.0.0.0 voledevice-pa.googleapis.com
