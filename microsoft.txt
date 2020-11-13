@@ -1,3 +1,4 @@
+0.0.0.0 4.bing.com
 0.0.0.0 7a75bade15cbd2faf19418baa7b63a71.clo.footprintdns.com
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
@@ -92,6 +93,7 @@
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.serving-sys.com
+0.0.0.0 business.bing.com
 0.0.0.0 by3301-a.1drv.com
 0.0.0.0 by3301-c.1drv.com
 0.0.0.0 by3301-e.1drv.com
