@@ -17,6 +17,7 @@
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 amer.ng.msg.teams.microsoft.com
 0.0.0.0 analytics-collector-28944298.us-east-1.elb.amazonaws.com
+0.0.0.0 analyticspixel.microsoft.com
 0.0.0.0 apac1.notify.windows.com.akadns.net
 0.0.0.0 apdc4n-log-public-webservice.westindia.cloudapp.azure.com
 0.0.0.0 api.cdp.dsp.mp.microsoft.com.nsatc.net
@@ -216,6 +217,7 @@
 0.0.0.0 corp.sts.microsoft.com
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 cp501.prod.do.dsp.mp.microsoft.com
+0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 cs.dds.microsoft.com
 0.0.0.0 ctldl.windowsupdate.com
@@ -231,6 +233,7 @@
 0.0.0.0 disc501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 disc601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 dual-a-0001.a-msedge.net
@@ -238,6 +241,8 @@
 0.0.0.0 ebb7ae00485ad1c01fa7ca2abacfa333.clo.footprintdns.com
 0.0.0.0 ec.atdmt.com
 0.0.0.0 ecs.office.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 emdl.ws.microsoft.com
 0.0.0.0 eu-v10.events.data.microsoft.com
 0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
@@ -256,6 +261,7 @@
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
+0.0.0.0 go.microsoft.com
 0.0.0.0 graph.microsoft.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h2.msn.com
@@ -364,11 +370,15 @@
 0.0.0.0 login.microsoftonline.com
 0.0.0.0 login.windows.net
 0.0.0.0 m.adnxs.com
+0.0.0.0 mam.manage.microsoft.com
 0.0.0.0 maps.windows.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 moiazureorigin.clo.footprintdns.com
+0.0.0.0 msedge.api.cdp.microsoft.com
+0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 msedge.f.dl.delivery.mp.microsoft.com
 0.0.0.0 msedge.net
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 nav.smartscreen.microsoft.com
@@ -416,6 +426,7 @@
 0.0.0.0 ssw.live.com
 0.0.0.0 store-images.microsoft.com
 0.0.0.0 store-images.s-microsoft.com
+0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 substrate.office.com
 0.0.0.0 survey.watson.microsoft.com
@@ -431,6 +442,7 @@
 0.0.0.0 teredo.ipv6.microsoft.com
 0.0.0.0 test.activity.windows.com
 0.0.0.0 time.windows.com
+0.0.0.0 tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 uif.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
 0.0.0.0 us-api.asm.skype.com
