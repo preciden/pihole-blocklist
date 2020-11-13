@@ -229,6 +229,7 @@
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 disc501.prod.do.dsp.mp.microsoft.com
+0.0.0.0 disc601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 download.windowsupdate.com
