@@ -27,6 +27,7 @@
 0.0.0.0 blogger.l.google.com
 0.0.0.0 businesscalls.googleapis.com
 0.0.0.0 chat-pa.clients6.google.com
+0.0.0.0 chrome.cloudflare-dns.com
 0.0.0.0 click.google-analytics.com
 0.0.0.0 clients3.google.com
 0.0.0.0 clients4.google.com
