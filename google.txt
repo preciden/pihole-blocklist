@@ -35,6 +35,7 @@
 0.0.0.0 clients6.google.com
 0.0.0.0 clients.l.google.com
 0.0.0.0 clientservices.googleapis.com
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 contacts.google.com
 0.0.0.0 content-autofill.googleapis.com
@@ -72,6 +73,7 @@
 0.0.0.0 growth-pa.googleapis.com
 # 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 hangouts.google.com
+0.0.0.0 id.google.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 in.airtel.rcs.telephony.goog
 0.0.0.0 infinitedata-pa.googleapis.com
@@ -130,6 +132,7 @@
 # 0.0.0.0 ssl.gstatic.com
 0.0.0.0 static-doubleclick-net.l.google.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
 0.0.0.0 storage.googleapis.com
