@@ -4,5 +4,7 @@
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 gfwsl.geforce.com
 0.0.0.0 gfe.nvidia.com
+0.0.0.0 nvidia.tt.omtrdc.net
+0.0.0.0 ota.nvidia.com
 0.0.0.0 static.nvidiagrid.net
 0.0.0.0 services.gfe.nvidia.com
