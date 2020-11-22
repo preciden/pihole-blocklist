@@ -53,6 +53,7 @@
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 chat.api.drift.com
 0.0.0.0 cm.adgrx.com
+0.0.0.0 consensu.org
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 conversions.appsflyer.com
@@ -135,6 +136,7 @@
 0.0.0.0 presence.api.drift.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 privacyportal.onetrust.com
+0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 rc-ext-geo.rlcdn.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rlv.zcache.com
@@ -174,6 +176,7 @@
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 tawk.to
 0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 test.quantcast.mgr.consensu.org
 0.0.0.0 tls13.taboola.map.fastly.net
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tps20801.leverify.com
