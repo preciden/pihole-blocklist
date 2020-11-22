@@ -63,6 +63,7 @@
 0.0.0.0 ghs.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google.co.in
+0.0.0.0 google.com
 0.0.0.0 google.ru
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
