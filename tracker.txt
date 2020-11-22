@@ -40,7 +40,9 @@
 0.0.0.0 bugsnag.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.mgid.com
+0.0.0.0 c.statcounter.com
 0.0.0.0 c1.adform.net
+0.0.0.0 c5.zedo.com
 # 0.0.0.0 captive.apple.com
 0.0.0.0 ccleaner.tools.avcdn.net
 0.0.0.0 cdn.adsafeprotected.com
@@ -51,6 +53,9 @@
 0.0.0.0 cdn.contentful.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.doubleverify.com
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 certify.alexametrics.com
+0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 chat.api.drift.com
 0.0.0.0 cm.adgrx.com
 0.0.0.0 consensu.org
@@ -96,6 +101,7 @@
 0.0.0.0 ih.adscale.de
 0.0.0.0 img.onesignal.com
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 info.adspruce.com
 0.0.0.0 infusionsoft.com
 0.0.0.0 inshotmaterial.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 insight.adsrvr.org
@@ -137,6 +143,7 @@
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 privacyportal.onetrust.com
 0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 queue.adspruce.com
 0.0.0.0 rc-ext-geo.rlcdn.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rlv.zcache.com
@@ -146,6 +153,7 @@
 0.0.0.0 rules.quantcount.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 script.hotjar.com
+0.0.0.0 sdk.adspruce.com
 0.0.0.0 sectigo.com
 0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 secure.quantserve.com
@@ -181,6 +189,7 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tps20801.leverify.com
 0.0.0.0 tps20808.doubleverify.com
+0.0.0.0 track.adspruce.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 trc.taboola.com
@@ -189,6 +198,7 @@
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vid-io-iad.springserve.com
 0.0.0.0 video-ads.rubiconproject.com
+0.0.0.0 vod.adspruce.com
 0.0.0.0 vsb115.tawk.to
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 www14.smartadserver.com
@@ -196,6 +206,7 @@
 0.0.0.0 www.moatads.com
 0.0.0.0 www.onetrust.com
 0.0.0.0 www.semrush.com
+0.0.0.0 www.statcounter.com
 0.0.0.0 wzrkt.com
 0.0.0.0 x.bidswitch.net
 0.0.0.0 z.moatads.com
