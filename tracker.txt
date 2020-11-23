@@ -116,6 +116,7 @@
 0.0.0.0 match.rundsp.com
 0.0.0.0 marketing-909352363.us-west-2.elb.amazonaws.com
 0.0.0.0 moat.com
+0.0.0.0 mgr.consensu.org
 0.0.0.0 mu.appnext.com
 0.0.0.0 mug.criteo.com
 0.0.0.0 notify.bugsnag.com
