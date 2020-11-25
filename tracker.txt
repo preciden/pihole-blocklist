@@ -182,6 +182,7 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 static-v.tawk.to
+0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.semrush.com
 0.0.0.0 subscription.omnithrottle.com
