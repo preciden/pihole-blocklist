@@ -63,6 +63,7 @@
 0.0.0.0 consensu.org
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consentcdn.cookiebot.com
+0.0.0.0 contextual.media.net
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.emxdgt.com
@@ -114,14 +115,17 @@
 0.0.0.0 jsc.mgid.com
 0.0.0.0 keap.com
 0.0.0.0 launches.appsflyer.com
+0.0.0.0 lg3.media.net
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.rundsp.com
 0.0.0.0 marketing-909352363.us-west-2.elb.amazonaws.com
+0.0.0.0 media.net
 0.0.0.0 moat.com
 0.0.0.0 mgr.consensu.org
 0.0.0.0 mu.appnext.com
 0.0.0.0 mug.criteo.com
+0.0.0.0 navvy.media.net
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.int-x3.letsencrypt.org
@@ -209,6 +213,7 @@
 0.0.0.0 vsb115.tawk.to
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 www14.smartadserver.com
+0.0.0.0 www.media.net
 0.0.0.0 www.moat.com
 0.0.0.0 www.moatads.com
 0.0.0.0 www.onetrust.com
