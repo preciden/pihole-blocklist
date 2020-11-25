@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/adobe.txt
 
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/airtel.txt
 
+https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/alibaba.txt
+
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/amazon.txt
 
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/duckduckgo.txt
