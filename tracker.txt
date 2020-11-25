@@ -53,11 +53,13 @@
 0.0.0.0 cdn.contentful.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.doubleverify.com
+0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 chat.api.drift.com
 0.0.0.0 cm.adgrx.com
+0.0.0.0 cm.mgid.com
 0.0.0.0 consensu.org
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consentcdn.cookiebot.com
@@ -109,6 +111,7 @@
 0.0.0.0 ipac.ctnsnet.com
 0.0.0.0 jp-u.openx.net
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 jsc.mgid.com
 0.0.0.0 keap.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 m.servedby-buysellads.com
@@ -152,6 +155,7 @@
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rubiconcm.digitaleast.mobi
 0.0.0.0 rules.quantcount.com
+0.0.0.0 s-img.mgid.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 sdk.adspruce.com
@@ -162,6 +166,7 @@
 0.0.0.0 secure.trust-provider.com
 0.0.0.0 server.apxor.com
 0.0.0.0 serverg.apxor.com
+0.0.0.0 servicer.mgid.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 settingsfd-geo.trafficmanager.net
 0.0.0.0 sgcp-hlb.dvgtm.akadns.net
