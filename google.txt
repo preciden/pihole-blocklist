@@ -18,6 +18,7 @@
 0.0.0.0 android.googleapis.com
 0.0.0.0 apis.google.com
 0.0.0.0 app-measurement.com
+0.0.0.0 apps.google.com
 0.0.0.0 appswaldo-pa.clients6.google.com
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
@@ -93,6 +94,7 @@
 0.0.0.0 maps.googleapis.com
 0.0.0.0 maps.gstatic.com
 0.0.0.0 mdh-pa.googleapis.com
+0.0.0.0 meet.google.com
 0.0.0.0 mobilemaps-pa.googleapis.com
 0.0.0.0 mtalk.google.com
 0.0.0.0 ocsp.pki.goog
