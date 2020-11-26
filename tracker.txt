@@ -24,6 +24,7 @@
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.daznfeeds.com
 0.0.0.0 api.drift.com
+0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.hubapi.com
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.permutive.com
@@ -77,6 +78,7 @@
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 d.sni.global.fastly.net
 0.0.0.0 dacdn.visualwebsiteoptimizer.com
+0.0.0.0 data.ad-score.com
 0.0.0.0 data.flurry.com
 0.0.0.0 de.tynt.com
 0.0.0.0 delivery.adrecover.com
@@ -125,6 +127,7 @@
 0.0.0.0 ipac.ctnsnet.com
 0.0.0.0 jp-u.openx.net
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 js.ad-score.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 keap.com
 0.0.0.0 launches.appsflyer.com
@@ -148,6 +151,7 @@
 0.0.0.0 onesignal.com
 0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 ow.pubmatic.com
+0.0.0.0 p2.fwpixel.com
 0.0.0.0 p.ads.mopub.com
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 ping.chartbeat.net
@@ -163,6 +167,7 @@
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-server-perf.rubiconproject.net.akadns.net
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid.adsparc.com
@@ -173,6 +178,7 @@
 0.0.0.0 pushad.adsparc.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 queue.adspruce.com
+0.0.0.0 r1.fwpixel.com
 0.0.0.0 rc-ext-geo.rlcdn.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rlv.zcache.com
