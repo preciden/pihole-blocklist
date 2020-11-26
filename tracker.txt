@@ -5,6 +5,7 @@
 0.0.0.0 a1089.dscd.akamai.net
 0.0.0.0 a1916.dscr.akamai.net
 0.0.0.0 ad.myinstashot.com
+0.0.0.0 ad.turn.com
 0.0.0.0 admin.appnext.com
 0.0.0.0 adpushup-d.openx.net
 0.0.0.0 ads-ap.v.ssp.yahoo.com
@@ -112,6 +113,7 @@
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 global.appnext.com
 0.0.0.0 global.px.quantserve.com
+0.0.0.0 grid.bidswitch.net
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 heap.io
@@ -121,6 +123,8 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ih.adscale.de
 0.0.0.0 images.taboola.com
+0.0.0.0 image2.pubmatic.com
+0.0.0.0	image8.pubmatic.com
 0.0.0.0 img.onesignal.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 info.adspruce.com
@@ -163,6 +167,7 @@
 0.0.0.0 pippio.com
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
 0.0.0.0 pixel-origin.mathtag.com
+0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.33across.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.onaudience.com
@@ -209,7 +214,8 @@
 0.0.0.0 settingsfd-geo.trafficmanager.net
 0.0.0.0 sgcp-hlb.dvgtm.akadns.net
 0.0.0.0 shops.myshopify.com
-0.0.0.0 simage4ubmatic.com
+0.0.0.0 simage2.pubmatic.com
+0.0.0.0 simage4.pubmatic.com
 0.0.0.0 sofia.trustx.org
 0.0.0.0 srv.buysellads.com
 0.0.0.0 ssc-cms.33across.com
