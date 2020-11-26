@@ -51,6 +51,7 @@
 0.0.0.0 dns.google
 0.0.0.0 docs.google.com
 0.0.0.0 drive.google.com
+0.0.0.0 ff.doubleclick.net
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebase.google.com
 0.0.0.0 firebaseinstallations.googleapis.com
