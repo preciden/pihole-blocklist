@@ -106,6 +106,7 @@
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 heap.io
 0.0.0.0 heapanalytics.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 htlb.casalemedia.com
