@@ -1,6 +1,8 @@
 0.0.0.0 ads.linkedin.com
 0.0.0.0 dms.licdn.com
+0.0.0.0 licdn.com
 0.0.0.0 linkedin.com
+0.0.0.0 linkedin.custhelp.com
 0.0.0.0 lnkd.in
 0.0.0.0 media.licdn.com
 0.0.0.0 media-exp1.licdn.com
