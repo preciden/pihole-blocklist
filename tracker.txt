@@ -66,6 +66,7 @@
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.onesignal.com
+0.0.0.0 cdn.paddle.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
