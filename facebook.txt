@@ -23,6 +23,8 @@
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 scontent-amt2-1.cdninstagram.com
+0.0.0.0 scontent-bom1-1.cdninstagram.com
+0.0.0.0 scontent-bom1-2.cdninstagram.com
 0.0.0.0 scontent-gig2-1.cdninstagram.com
 0.0.0.0 scontent-gru1-1.cdninstagram.com
 0.0.0.0 scontent-ssn1-1.cdninstagram.com
