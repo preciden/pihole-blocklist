@@ -214,6 +214,7 @@
 0.0.0.0 ch3302-c.1drv.com
 0.0.0.0 ch3302-e.1drv.com
 0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 clarity.microsoft.com
 0.0.0.0 client.wns.windows.com
 0.0.0.0 compatexchange1.trafficmanager.net
 0.0.0.0 continuum.dds.microsoft.com
