@@ -90,6 +90,7 @@
 0.0.0.0 engineering.tapad.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 events.bouncex.net
+0.0.0.0 events.cdnwidget.com
 0.0.0.0 events.evie.com
 0.0.0.0 events.split.io
 0.0.0.0 fastlane.rubiconproject.com
@@ -104,6 +105,7 @@
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 heapanalytics.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ib.adnxs.com
@@ -228,7 +230,7 @@
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 www.media.net
-0.0.0.0 www.moat.com
+0.0.0.0 www.moat.comevents.cdnwidget.com
 0.0.0.0 www.moatads.com
 0.0.0.0 www.onetrust.com
 0.0.0.0 www.semrush.com
