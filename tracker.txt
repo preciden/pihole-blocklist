@@ -44,6 +44,7 @@
 0.0.0.0 better.fyi
 0.0.0.0 branch.io
 0.0.0.0 bugsnag.com
+0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.mgid.com
 0.0.0.0 c.statcounter.com
@@ -245,6 +246,7 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 unbounce.com
 0.0.0.0 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 va.tawk.to
