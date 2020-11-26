@@ -95,7 +95,9 @@
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 df231.infusionsoft.com
 0.0.0.0 distillery.wistia.com
+0.0.0.0 dps.jp.cinarra.com
 0.0.0.0 dsp.adfarm1.adition.com
+0.0.0.0 dsum.casalemedia.com
 0.0.0.0 e3.adpushup.com
 0.0.0.0 e8736.e7.akamaiedge.net
 0.0.0.0 e8937.dscb.akamaiedge.net
