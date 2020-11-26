@@ -126,6 +126,7 @@
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 sb-ssl.google.com
 0.0.0.0 scholar.l.google.com
+0.0.0.0 scone-pa.clients6.google.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 signaler-pa.clients6.google.com
