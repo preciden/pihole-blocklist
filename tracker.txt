@@ -69,6 +69,7 @@
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.paddle.com
+0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 certify.alexametrics.com
@@ -111,6 +112,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 forms.hubspot.com
 0.0.0.0 g2.gumgum.com
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 geo-atsv2.media.g03.yahoodns.net
 0.0.0.0 geo.yahoo.com
@@ -138,6 +140,7 @@
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipac.ctnsnet.com
+0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 jp-u.openx.net
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.ad-score.com
@@ -224,6 +227,7 @@
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 sofia.trustx.org
 0.0.0.0 srv.buysellads.com
+0.0.0.0 srv-2020-11-26-18.pixel.parsely.com
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 ssp.behave.com
 0.0.0.0 ssum-sec.casalemedia.com
@@ -258,6 +262,7 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 udc.yahoo.com
 0.0.0.0 unbounce.com
 0.0.0.0 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 ups.analytics.yahoo.com
