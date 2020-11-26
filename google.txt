@@ -99,6 +99,7 @@
 0.0.0.0 meet.google.com
 0.0.0.0 mobilemaps-pa.googleapis.com
 0.0.0.0 mtalk.google.com
+0.0.0.0 news.google.com
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 ogs.google.com
 0.0.0.0 pagead2.googleadservices.com
