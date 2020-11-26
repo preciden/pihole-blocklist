@@ -31,6 +31,7 @@
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.permutive.com
 0.0.0.0 apiv2.moengage.com
+0.0.0.0	api.vuukle.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 app.link
@@ -64,10 +65,12 @@
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.paddle.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 cdn.vuukle.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 chat.api.drift.com
@@ -79,6 +82,7 @@
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 contextual.media.net
 0.0.0.0 conversions.appsflyer.com
+0.0.0.0 cpm.adsolut.in
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 d.sni.global.fastly.net
@@ -201,6 +205,7 @@
 0.0.0.0 rules.quantcount.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0	sbp.izooto.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 sdk.adspruce.com
 0.0.0.0 sectigo.com
