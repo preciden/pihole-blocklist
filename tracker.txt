@@ -57,6 +57,7 @@
 0.0.0.0 cdn.contentful.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.doubleverify.com
+0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.taboola.com
