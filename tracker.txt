@@ -14,6 +14,7 @@
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.stickyadstv.com
+0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.us.e-planning.net
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yieldmo.com
@@ -129,6 +130,7 @@
 0.0.0.0 lg3.media.net
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 match.adsby.bidtheatre.com
+0.0.0.0 match.adsrvr.org
 0.0.0.0 match.rundsp.com
 0.0.0.0 marketing-909352363.us-west-2.elb.amazonaws.com
 0.0.0.0 media.net
@@ -152,6 +154,8 @@
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
 0.0.0.0 pixel-origin.mathtag.com
 0.0.0.0 pixel.33across.com
+0.0.0.0 pixel.advertising.com
+0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.net.akadns.net
@@ -160,9 +164,12 @@
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 prebid-server-perf.rubiconproject.net.akadns.net
 0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 prebid.adsparc.com
 0.0.0.0 presence.api.drift.com
+0.0.0.0 prg8.smartadserver.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 privacyportal.onetrust.com
+0.0.0.0 pushad.adsparc.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 queue.adspruce.com
 0.0.0.0 rc-ext-geo.rlcdn.com
@@ -171,6 +178,7 @@
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rubiconcm.digitaleast.mobi
+0.0.0.0 rudy.adsnative.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 sb.scorecardresearch.com
@@ -204,6 +212,7 @@
 0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 sync.teads.tv
 0.0.0.0 t.pubmatic.com
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.bounceexchange.com
@@ -223,6 +232,7 @@
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 va.tawk.to
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vid-io-iad.springserve.com
