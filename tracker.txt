@@ -42,6 +42,7 @@
 0.0.0.0 c.mgid.com
 0.0.0.0 c.statcounter.com
 0.0.0.0 c1.adform.net
+0.0.0.0 c2.taboola.com
 0.0.0.0 c5.zedo.com
 # 0.0.0.0 captive.apple.com
 0.0.0.0 ccleaner.tools.avcdn.net
@@ -55,6 +56,7 @@
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.onesignal.com
+0.0.0.0 cdn.taboola.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 chat.api.drift.com
@@ -102,6 +104,7 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ih.adscale.de
+0.0.0.0 images.taboola.com
 0.0.0.0 img.onesignal.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 info.adspruce.com
@@ -127,6 +130,7 @@
 0.0.0.0 mug.criteo.com
 0.0.0.0 navvy.media.net
 0.0.0.0 notify.bugsnag.com
+0.0.0.0 nr.taboola.com
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.int-x3.letsencrypt.org
 0.0.0.0 ocsp.sectigo.com
