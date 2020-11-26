@@ -5,6 +5,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
+0.0.0.0 adssettings.google.com
 0.0.0.0 ajax.googleapis.com
 0.0.0.0 alt1-mtalk.google.com
 0.0.0.0 alt2-mtalk.google.com
@@ -102,6 +103,7 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 people-pa.googleapis.com
