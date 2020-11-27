@@ -72,6 +72,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
 # 0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 googleoptimize.com
 0.0.0.0 googlescholar.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
@@ -169,3 +170,4 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.scholar.google.com
+0.0.0.0 www.googleoptimize.com
