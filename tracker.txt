@@ -95,6 +95,7 @@
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 df231.infusionsoft.com
 0.0.0.0 distillery.wistia.com
+0.0.0.0 dmp.truoptik.com
 0.0.0.0 dps.jp.cinarra.com
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsum.casalemedia.com
@@ -151,6 +152,7 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 lg3.media.net
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 mab.chartbeat.com
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.rundsp.com
@@ -173,6 +175,7 @@
 0.0.0.0 p2.fwpixel.com
 0.0.0.0 p.ads.mopub.com
 0.0.0.0 p.adsymptotic.com
+0.0.0.0 pdev.chartbeat.net
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pippio.com
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
@@ -234,6 +237,8 @@
 0.0.0.0 ssp.behave.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 static-v.tawk.to
+0.0.0.0	static2.chartbeat.com
+0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.semrush.com
