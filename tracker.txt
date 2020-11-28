@@ -187,6 +187,7 @@
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pippio.com
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
+0.0.0.0	pixel-eu.rubiconproject.com
 0.0.0.0 pixel-origin.mathtag.com
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.33across.com
