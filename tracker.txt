@@ -21,6 +21,7 @@
 0.0.0.0 ads.us.e-planning.net
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yieldmo.com
+0.0.0.0 adx.adform.net
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.vdo.ai
@@ -66,6 +67,7 @@
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.branch.io
+0.0.0.0	cdn.carbonads.com
 0.0.0.0 cdn.contentful.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.doubleverify.com
@@ -100,6 +102,7 @@
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 df231.infusionsoft.com
 0.0.0.0 distillery.wistia.com
+0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.truoptik.com
 0.0.0.0 dps.jp.cinarra.com
 0.0.0.0 dsp.adfarm1.adition.com
@@ -143,6 +146,8 @@
 0.0.0.0 ih.adscale.de
 0.0.0.0 images.taboola.com
 0.0.0.0 image2.pubmatic.com
+0.0.0.0 image6.pubmatic.com
+0.0.0.0 image7.pubmatic.com
 0.0.0.0	image8.pubmatic.com
 0.0.0.0 img.onesignal.com
 0.0.0.0 inapps.appsflyer.com
@@ -248,6 +253,7 @@
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 sofia.trustx.org
 0.0.0.0 srv.buysellads.com
+0.0.0.0	srv.carbonads.net
 0.0.0.0 srv-2020-11-26-18.pixel.parsely.com
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 ssp.behave.com
@@ -285,7 +291,10 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tps20801.leverify.com
 0.0.0.0 tps20808.doubleverify.com
+0.0.0.0 track.adform.net
+0.0.0.0	track.adformnet.akadns.net
 0.0.0.0 track.adspruce.com
+0.0.0.0 track-eu.adformnet.akadns.net
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0	track.vdo.ai
