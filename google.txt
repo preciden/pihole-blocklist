@@ -3,6 +3,7 @@
 0.0.0.0 6478929.fls.doubleclick.net
 0.0.0.0 _sips._tcp.in.airtel.rcs.telephony.goog
 0.0.0.0 aa.google.com
+0.0.0.0 accounts.google.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
