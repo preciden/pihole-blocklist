@@ -265,6 +265,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.semrush.com
 0.0.0.0 stats.merriam-webster.com
+0.0.0.0 stats.wp.com
 0.0.0.0 subscription.omnithrottle.com
 0.0.0.0 survey.survicate.com
 0.0.0.0 surveygizmobeacon.s3.amazonaws.com
