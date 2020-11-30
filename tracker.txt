@@ -220,6 +220,7 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 queue.adspruce.com
 0.0.0.0 r1.fwpixel.com
+0.0.0.0 r.remarketingpixel.com
 0.0.0.0 rc-ext-geo.rlcdn.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rlv.zcache.com
