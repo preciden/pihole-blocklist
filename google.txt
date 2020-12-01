@@ -28,6 +28,7 @@
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
+0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 blogger.l.google.com
 0.0.0.0 businesscalls.googleapis.com
 0.0.0.0 chat-pa.clients6.google.com
@@ -64,6 +65,7 @@
 # 0.0.0.0 fonts.gstatic.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 g.cn
+0.0.0.0 g.doubleclick.net
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 ghs.google.com
 0.0.0.0 google-analytics.com
