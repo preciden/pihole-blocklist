@@ -12,6 +12,7 @@
 0.0.0.0 dr2.yandex.net
 0.0.0.0 egress.yandex.net
 0.0.0.0 favicon.yandex.net
+0.0.0.0 in.zen.yandex.com
 0.0.0.0 maps.yandex.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mobileproxy.passport.yandex.net
@@ -19,6 +20,7 @@
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 sba.yandex.net
+0.0.0.0	sec.api.browser.yandex.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 storage.ape.yandex.net
 0.0.0.0 www.yandex.ru
@@ -26,3 +28,5 @@
 0.0.0.0 yandex.com
 0.0.0.0 yandex.eu
 0.0.0.0 yandex.ru
+0.0.0.0 zen.yandex.com
+0.0.0.0 zen.s3.yandex.net
