@@ -48,6 +48,7 @@
 0.0.0.0 beacon-apac-hkg1.rubiconproject.com
 0.0.0.0 beacon-perf-hkg1.rubiconproject.net.akadns.net
 0.0.0.0 better.fyi
+0.0.0.0 bidder.criteo.com
 0.0.0.0	bidder.rtk.io
 0.0.0.0 branch.io
 0.0.0.0 bugsnag.com
@@ -263,6 +264,7 @@
 0.0.0.0	static2.chartbeat.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cloudflareinsights.com
+0.0.0.0 static.criteo.net
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.semrush.com
 0.0.0.0 stats.merriam-webster.com
