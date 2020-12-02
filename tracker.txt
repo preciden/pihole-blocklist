@@ -287,7 +287,9 @@
 0.0.0.0	targeting.vdo.ai
 0.0.0.0 tawk.to
 0.0.0.0 telemetry.art19.com
+0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 telemetry-prod-1054754349.us-east-1.elb.amazonaws.com
 0.0.0.0 test.quantcast.mgr.consensu.org
 0.0.0.0 thor.rtk.io
 0.0.0.0 tls13.taboola.map.fastly.net
