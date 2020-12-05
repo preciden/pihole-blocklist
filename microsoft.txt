@@ -28,7 +28,11 @@
 0.0.0.0 arc.msn.com.nsatc.net
 0.0.0.0 array501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array503.prod.do.dsp.mp.microsoft.com
+0.0.0.0	array504.prod.do.dsp.mp.microsoft.com
+0.0.0.0	array505.prod.do.dsp.mp.microsoft.com
+0.0.0.0	array506.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array507.prod.do.dsp.mp.microsoft.com
+0.0.0.0	array508.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array509.prod.do.dsp.mp.microsoft.com
 0.0.0.0	array510.prod.do.dsp.mp.microsoft.com
 0.0.0.0	array511.prod.do.dsp.mp.microsoft.com
