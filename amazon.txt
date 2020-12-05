@@ -3,6 +3,7 @@
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon.in
+0.0.0.0	aax-us-east.amazon-adsystem.com
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 assoc-eu.associates-amazon.com
 0.0.0.0 cloudfront-labs.amazonaws.com
@@ -14,6 +15,7 @@
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 endpoint.prod.eu-west-1.forester.a2z.com
 0.0.0.0 fls-na.amazon.com
+0.0.0.0	fls-na.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon.co.jp
 0.0.0.0 fls-eu.amazon.in
@@ -25,6 +27,9 @@
 0.0.0.0 unagi.amazon.co.jp
 0.0.0.0 unagi.amazon.in
 0.0.0.0	vaes.amazon-adsystem.com
+0.0.0.0	wms-na.amazon-adsystem.com
+0.0.0.0	ws-na.amazon-adsystem.com
 0.0.0.0 www.amazon.in
 0.0.0.0 www.amazon.co.jp
 0.0.0.0 www.amazon.com
+0.0.0.0	z-na.amazon-adsystem.com
