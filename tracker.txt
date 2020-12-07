@@ -139,6 +139,7 @@
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 h250p-y3urn.ads.tremorhub.com
 0.0.0.0 heap.io
 0.0.0.0 heapanalytics.com
 0.0.0.0 hbopenbid.pubmatic.com
