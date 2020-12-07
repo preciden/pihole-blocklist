@@ -266,6 +266,7 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 ssp.behave.com
 0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 static-v.tawk.to
 0.0.0.0	static2.chartbeat.com
 0.0.0.0 static.chartbeat.com
