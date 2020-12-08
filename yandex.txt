@@ -18,6 +18,7 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mobileproxy.passport.yandex.net
 0.0.0.0 offline-search.yandex.net
+0.0.0.0 passport.yandex.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 sba.yandex.net
