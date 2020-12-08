@@ -50,6 +50,8 @@ https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/twitch.txt
 
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/twitter.txt
 
+https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/ubuntu.txt
+
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/whatsapp.txt
 
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/xiaomi.txt
