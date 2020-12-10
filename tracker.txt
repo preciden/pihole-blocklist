@@ -188,6 +188,7 @@
 0.0.0.0 ocsp.int-x3.letsencrypt.org
 0.0.0.0 ocsp.sectigo.com
 0.0.0.0 onesignal.com
+0.0.0.0 onetag-sys.com
 0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 p2.fwpixel.com
