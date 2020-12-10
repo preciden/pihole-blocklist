@@ -306,6 +306,7 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tps20801.leverify.com
 0.0.0.0 tps20808.doubleverify.com
+0.0.0.0 track1.aniview.com
 0.0.0.0 track.adform.net
 0.0.0.0	track.adformnet.akadns.net
 0.0.0.0 track.adspruce.com
