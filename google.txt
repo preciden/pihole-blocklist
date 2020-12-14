@@ -41,6 +41,7 @@
 0.0.0.0 beacons2.gcp.gvt2.com
 0.0.0.0 beacons3.gcp.gvt2.com
 0.0.0.0 beacons4.gcp.gvt2.com 
+0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
