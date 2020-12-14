@@ -1,6 +1,7 @@
 0.0.0.0 a1293.dspd.akamai.net
 0.0.0.0 a122.dscd.akamai.net
 0.0.0.0 adobecorp.sc.omtrdc.net
+0.0.0.0 adobedtm.com
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 armmf.adobe.com
