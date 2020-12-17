@@ -5,6 +5,7 @@
 0.0.0.0 aax-eu.amazon.in
 0.0.0.0	aax-us-east.amazon-adsystem.com
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
+0.0.0.0 api.amazon.in
 0.0.0.0 assoc-eu.associates-amazon.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 completion.amazon.in
@@ -20,6 +21,8 @@
 0.0.0.0 fls-fe.amazon.co.jp
 0.0.0.0 fls-eu.amazon.in
 0.0.0.0 m.media-amazon.com
+0.0.0.0 mads-eu.amazon.com
+0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 unagi-eu.amazon.com
