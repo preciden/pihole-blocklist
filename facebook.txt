@@ -4,6 +4,7 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge-chat.instagram.com
+0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
@@ -23,6 +24,7 @@
 0.0.0.0 instagram.ftbs5-2.fna.fbcdn.net
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 m.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 scontent-amt2-1.cdninstagram.com
 0.0.0.0 scontent-bom1-1.cdninstagram.com
 0.0.0.0 scontent-bom1-1.xx.fbcdn.net
