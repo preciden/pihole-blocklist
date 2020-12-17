@@ -1,5 +1,6 @@
 0.0.0.0 atlas.c10r.facebook.com
 0.0.0.0 b.i.instagram.com
+0.0.0.0 cdn.fbsbx.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge-chat.instagram.com
