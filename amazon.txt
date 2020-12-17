@@ -14,6 +14,8 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.media-amazon.com
 0.0.0.0 cdn-a.amazon-adsystem.com
+0.0.0.0 device-metrics-us-1.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 endpoint.prod.eu-west-1.forester.a2z.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0	fls-na.amazon-adsystem.com
