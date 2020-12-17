@@ -14,6 +14,7 @@
 0.0.0.0 instagram.fbom3-2.fna.fbcdn.net
 0.0.0.0 instagram.fiev22-2.fna.fbcdn.net
 0.0.0.0 instagram.fist1-3.fna.fbcdn.net
+0.0.0.0 instagram.fjdo11-1.fna.fbcdn.net
 0.0.0.0 instagram.flis8-2.fna.fbcdn.net
 0.0.0.0 instagram.fphx1-3.fna.fbcdn.net
 0.0.0.0 instagram.frix7-1.fna.fbcdn.net
