@@ -24,6 +24,8 @@
 0.0.0.0 m.facebook.com
 0.0.0.0 scontent-amt2-1.cdninstagram.com
 0.0.0.0 scontent-bom1-1.cdninstagram.com
+0.0.0.0 scontent-bom1-1.xx.fbcdn.net
+0.0.0.0 scontent-bom1-2.xx.fbcdn.net
 0.0.0.0 scontent-bom1-2.cdninstagram.com
 0.0.0.0 scontent-gig2-1.cdninstagram.com
 0.0.0.0 scontent-gru1-1.cdninstagram.com
