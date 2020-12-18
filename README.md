@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/github.txt
 
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/google.txt
 
+https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/hotstar.txt
+
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/jio.txt
 
 https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/lenovo.txt
