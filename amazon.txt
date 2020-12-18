@@ -28,6 +28,7 @@
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 snpe-tflite-prod.s3.ap-south-1.amazonaws.com
 0.0.0.0 unagi-eu.amazon.com
 0.0.0.0 unagi-fe.amazon.com
 0.0.0.0 unagi.amazon.co.jp
