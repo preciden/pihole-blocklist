@@ -152,6 +152,7 @@
 0.0.0.0 image7.pubmatic.com
 0.0.0.0	image8.pubmatic.com
 0.0.0.0 img.onesignal.com
+0.0.0.0 impression.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 info.adspruce.com
 0.0.0.0 infusionsoft.com
@@ -230,6 +231,7 @@
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 rc-ext-geo.rlcdn.com
 0.0.0.0 rc.rlcdn.com
+0.0.0.0 register.appsflyer.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 rlv.zcache.com
 0.0.0.0 rtb.gumgum.com
