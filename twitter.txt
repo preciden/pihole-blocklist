@@ -47,8 +47,10 @@
 0.0.0.0 e6449.dsca.akamaiedge.net
 0.0.0.0 e14372.cj.akamaiedge.net
 0.0.0.0 fonts.twitter.com
+0.0.0.0 global.glbtls.t.co
 0.0.0.0 help.twitter.com
 0.0.0.0 mobile.twitter.com
+0.0.0.0 na.glbtls.t.co
 0.0.0.0 pbs.twimg.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 platform.twitter.map.fastly.net
