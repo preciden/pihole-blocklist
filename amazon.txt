@@ -29,6 +29,7 @@
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 ocsp.sca1b.amazontrust.com
+0.0.0.0 primevideo.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 snpe-tflite-prod.s3.ap-south-1.amazonaws.com
 0.0.0.0 unagi-eu.amazon.com
@@ -41,4 +42,5 @@
 0.0.0.0 www.amazon.in
 0.0.0.0 www.amazon.co.jp
 0.0.0.0 www.amazon.com
+0.0.0.0 www.primevideo.com
 0.0.0.0	z-na.amazon-adsystem.com
