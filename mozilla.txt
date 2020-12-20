@@ -1,9 +1,9 @@
-0.0.0.0 api.accounts.firefox.com
-0.0.0.0 aus5.mozilla.org
-0.0.0.0 autopush.prod.mozaws.net
+# 0.0.0.0 api.accounts.firefox.com
+# 0.0.0.0 aus5.mozilla.org
+# 0.0.0.0 autopush.prod.mozaws.net
 0.0.0.0 classify-client.services.mozilla.com
-0.0.0.0 content-signature-2.cdn.mozilla.net
-0.0.0.0 detectportal.firefox.com
+# 0.0.0.0 content-signature-2.cdn.mozilla.net
+# 0.0.0.0 detectportal.firefox.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 incoming-telemetry.thunderbird.net
 0.0.0.0 incoming.telemetry.mozilla.org
@@ -14,14 +14,14 @@
 0.0.0.0 pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
 0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
 0.0.0.0 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
-0.0.0.0 prod.detectportal.prod.cloudops.mozgcp.net
-0.0.0.0 prod-tp.sumo.mozit.cloud
-0.0.0.0 prod.data-ingestion.prod.dataops.mozgcp.net
-0.0.0.0 profile.accounts.firefox.com
-0.0.0.0 push.services.mozilla.com
-0.0.0.0 shavar.prod.mozaws.net
-0.0.0.0 shavar.services.mozilla.com
-0.0.0.0 snippets.cdn.mozilla.net
-0.0.0.0 sync-1-us-west1-g.sync.services.mozilla.com
+# 0.0.0.0 prod.detectportal.prod.cloudops.mozgcp.net
+# 0.0.0.0 prod-tp.sumo.mozit.cloud
+# 0.0.0.0 prod.data-ingestion.prod.dataops.mozgcp.net
+# 0.0.0.0 profile.accounts.firefox.com
+# 0.0.0.0 push.services.mozilla.com
+# 0.0.0.0 shavar.prod.mozaws.net
+# 0.0.0.0 shavar.services.mozilla.com
+# 0.0.0.0 snippets.cdn.mozilla.net
+# 0.0.0.0 sync-1-us-west1-g.sync.services.mozilla.com
 0.0.0.0 token.r53-2.services.mozilla.com
 0.0.0.0 token.services.mozilla.com
