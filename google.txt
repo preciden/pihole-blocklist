@@ -73,6 +73,8 @@
 0.0.0.0 docs.google.com
 0.0.0.0 drive.google.com
 0.0.0.0 ee7430e150d80180270c15f8d1a03a41.safeframe.googlesyndication.com
+0.0.0.0 encrypted-tbn0.gstatic.com
+0.0.0.0 encrypted-tbn2.gstatic.com
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebase.google.com
