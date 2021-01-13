@@ -3,6 +3,8 @@
 0.0.0.0 abs.twimg.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 analytics.twitter.com
+0.0.0.0 api-0-4-0.twitter.com
+0.0.0.0 api-0-4-1.twitter.com
 0.0.0.0 api-0-4-2.twitter.com
 0.0.0.0 api-0-4-3.twitter.com
 0.0.0.0 api-0-4-4.twitter.com
@@ -24,6 +26,8 @@
 0.0.0.0 api-32-0-0.twitter.com
 0.0.0.0 api-33-0-0.twitter.com
 0.0.0.0 api-34-0-0.twitter.com
+0.0.0.0 api-35-0-0.twitter.com
+0.0.0.0 api-36-0-0.twitter.com
 0.0.0.0 api-37-0-0.twitter.com
 0.0.0.0 api-38-0-0.twitter.com
 0.0.0.0 api-39-0-0.twitter.com
