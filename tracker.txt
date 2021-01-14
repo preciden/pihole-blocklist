@@ -5,6 +5,7 @@
 0.0.0.0	a.vdo.ai
 0.0.0.0 a1089.dscd.akamai.net
 0.0.0.0 a1916.dscr.akamai.net
+0.0.0.0 ad-delivery.net
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ad.turn.com
 0.0.0.0 admin.appnext.com
