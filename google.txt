@@ -53,6 +53,8 @@
 0.0.0.0 chrome.cloudflare-dns.com
 0.0.0.0 chrome.google.com
 0.0.0.0 click.google-analytics.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients2.google.com
 0.0.0.0 clients3.google.com
 0.0.0.0 clients4.google.com
 0.0.0.0 clients5.google.com
