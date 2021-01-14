@@ -4,7 +4,10 @@
 0.0.0.0 3573281.fls.doubleclick.net
 0.0.0.0 36078e8f4859caf1d258a82e98ecc760.safeframe.googlesyndication.com
 0.0.0.0 4b7c3099c89fc1973c8434bfdd238cc9.safeframe.googlesyndication.com
+0.0.0.0 58373cd1ce40085e504bf17c501e83f6.safeframe.googlesyndication.com
+0.0.0.0 60209db7c6128a918ee13ca99e144d99.safeframe.googlesyndication.com
 0.0.0.0 62854570126cfc8c3aeb538d57c1fef6.safeframe.googlesyndication.com
+0.0.0.0 6312e7f74ce377577b1a68b62c66a5c4.safeframe.googlesyndication.com
 0.0.0.0 6478929.fls.doubleclick.net
 0.0.0.0 6817ad478aa7fab2b2d8da2fb959ddaa.safeframe.googlesyndication.com
 0.0.0.0 792850120fdd95c67d80ffc495b0cbb9.safeframe.googlesyndication.com
@@ -35,6 +38,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 apps.google.com
 0.0.0.0 appswaldo-pa.clients6.google.com
+0.0.0.0 b2e939ecce93c02c6f9ec933a89e9bd5.safeframe.googlesyndication.com
 0.0.0.0 b5a97fa335290ed57e3effee1591a147.safeframe.googlesyndication.com
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
@@ -75,9 +79,13 @@
 0.0.0.0 dns.google
 0.0.0.0 docs.google.com
 0.0.0.0 drive.google.com
+0.0.0.0 e2ea18da48a21f3a5e0d169f62429f93.safeframe.googlesyndication.com
+0.0.0.0 e54ea9883ae93d2b0519f78163db3eb8.safeframe.googlesyndication.com
+0.0.0.0 e795655f64fd73cdbfd55d2536e239ba.safeframe.googlesyndication.com
 0.0.0.0 ee7430e150d80180270c15f8d1a03a41.safeframe.googlesyndication.com
 0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 fd7097463a9b9028713d4d0eb933434b.safeframe.googlesyndication.com
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebase.google.com
