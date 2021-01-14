@@ -14,6 +14,7 @@
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0	adserver-us.adtech.advertising.com
