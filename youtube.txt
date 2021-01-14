@@ -1,5 +1,6 @@
 0.0.0.0 accounts.youtube.com
 0.0.0.0 i.ytimg.com
+0.0.0.0	img.youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 r1.sn-ci5gup-g2ge.googlevideo.com
 0.0.0.0 r1---sn-ci5gup-g2ge.googlevideo.com
