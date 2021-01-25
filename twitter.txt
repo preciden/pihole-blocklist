@@ -62,6 +62,7 @@
 0.0.0.0 prod-ec-eu-central-1.video.pscp.tv
 0.0.0.0 prod-fastly-ap-northeast-1.video.pscp.tv
 0.0.0.0 prod-fastly-eu-central-1.video.pscp.tv
+0.0.0.0 prod-fastly-ap-south-1.video.pscp.tv
 0.0.0.0 proxsee.pscp.tv
 0.0.0.0 s.twitter.com
 0.0.0.0 static.ads-twitter.com
