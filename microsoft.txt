@@ -249,6 +249,7 @@
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dlassets-ssl.xboxlive.com
 0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dns.msftncsi.com
 # 0.0.0.0 download.windowsupdate.com
 0.0.0.0 dual-a-0001.a-msedge.net
@@ -483,6 +484,7 @@
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 watson.*.microsoft.com
 0.0.0.0 watson.live.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.ppe.telemetry.microsoft.com
