@@ -68,6 +68,7 @@
 0.0.0.0 s.twitter.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 t.co
 0.0.0.0 ton.twimg.com
 0.0.0.0 tpop-api.twitter.com
 0.0.0.0 twimg.com
