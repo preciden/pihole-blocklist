@@ -25,6 +25,7 @@
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 adx.adform.net
+0.0.0.0 alfred.wru.ai
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.vdo.ai
