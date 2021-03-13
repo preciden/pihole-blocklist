@@ -1,3 +1,6 @@
+0.0.0.0 api.twitch.tv
+0.0.0.0 gql.twitch.tv
+0.0.0.0 h2.twitch.map.fastly.net
 0.0.0.0 irc-ws.chat.twitch.tv
 0.0.0.0 p.twitchcdn.net
 0.0.0.0 pubsub-edge.twitch.tv
@@ -5,4 +8,5 @@
 0.0.0.0 static.twitchcdn.net
 0.0.0.0 twitch.amazon.com
 0.0.0.0 twitch.map.fastly.net
+0.0.0.0 usher.ttvnw.net
 0.0.0.0 www.twitch.tv
