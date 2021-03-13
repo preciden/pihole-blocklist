@@ -407,6 +407,7 @@
 0.0.0.0 nav.smartscreen.microsoft.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 ntp.msn.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 ocws.officeapps.live.com
 0.0.0.0 odc.officeapps.live.com
