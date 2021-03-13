@@ -1,2 +1,8 @@
+0.0.0.0 irc-ws.chat.twitch.tv
+0.0.0.0 p.twitchcdn.net
+0.0.0.0 pubsub-edge.twitch.tv
 0.0.0.0 spade.twitch.tv
+0.0.0.0 static.twitchcdn.net
 0.0.0.0 twitch.amazon.com
+0.0.0.0 twitch.map.fastly.net
+0.0.0.0 www.twitch.tv
