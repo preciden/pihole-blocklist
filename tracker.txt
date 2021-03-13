@@ -128,6 +128,7 @@
 0.0.0.0 events.evie.com
 0.0.0.0 events.split.io
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 fl.adpxl.co
 0.0.0.0 forms.hubspot.com
 0.0.0.0 g2.gumgum.com
 0.0.0.0 ganon.yahoo.com
@@ -135,7 +136,7 @@
 0.0.0.0 geo-atsv2.media.g03.yahoodns.net
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geolocation.daznservices.com
-0.0.0.0 geolocation.onetrust.comv
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0	ghb1.adtelligent.com
 0.0.0.0 ghb2.adtelligent.com
 0.0.0.0	ghb.adtelligent.com
@@ -242,6 +243,7 @@
 0.0.0.0 rc-ext-geo.rlcdn.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 register.appsflyer.com
+0.0.0.0 reload.getsentry.net
 0.0.0.0 remarketingpixel.com
 0.0.0.0 rlv.zcache.com
 0.0.0.0 rtb.gumgum.com
