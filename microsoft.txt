@@ -247,9 +247,10 @@
 0.0.0.0 disc501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 disc601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 dlassets-ssl.xboxlive.com
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 dns.msftncsi.com
-0.0.0.0 download.windowsupdate.com
+# 0.0.0.0 download.windowsupdate.com
 0.0.0.0 dual-a-0001.a-msedge.net
 0.0.0.0 e961382e7e9f4010c7d6870c5b72bdbb.nrb.footprintdns.com
 0.0.0.0 ebb7ae00485ad1c01fa7ca2abacfa333.clo.footprintdns.com
@@ -263,9 +264,9 @@
 0.0.0.0 eu.vortex.data.microsoft.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 evoke-windowsservices-tas.msedge.net
-0.0.0.0 fe2cr.update.microsoft.com
-0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
-0.0.0.0 fe3cr.delivery.mp.microsoft.com
+# 0.0.0.0 fe2cr.update.microsoft.com
+# 0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+# 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 flex.msn.com
 0.0.0.0 footprintdns.com
 0.0.0.0 fp.msedge.net
@@ -427,7 +428,7 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 sg2p.wns.windows.com
-0.0.0.0 slscr.update.microsoft.com
+# 0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0 sn3301-c.1drv.com
 0.0.0.0 sn3301-e.1drv.com
@@ -458,6 +459,7 @@
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 teredo.ipv6.microsoft.com
 0.0.0.0 test.activity.windows.com
+0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 time.windows.com
 0.0.0.0 tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 uif.microsoft.com
