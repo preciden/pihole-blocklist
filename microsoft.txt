@@ -462,8 +462,10 @@
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 time.windows.com
 0.0.0.0 tlu.dl.delivery.mp.microsoft.com
+# 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 uif.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
+# 0.0.0.0 *.update.microsoft.com
 0.0.0.0 us-api.asm.skype.com
 0.0.0.0 us-v10.events.data.microsoft.com
 0.0.0.0 us-v20.events.data.microsoft.com
