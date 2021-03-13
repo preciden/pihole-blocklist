@@ -5,6 +5,7 @@
 0.0.0.0	a.vdo.ai
 0.0.0.0 a1089.dscd.akamai.net
 0.0.0.0 a1916.dscr.akamai.net
+0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ad.turn.com
@@ -45,6 +46,7 @@
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 assets.bounceexchange.com
 0.0.0.0 assets.moat.com
+0.0.0.0 b2cdn.automatad.com
 0.0.0.0 b.gemini.yahoo.com
 0.0.0.0 bam.nr-data.netv
 0.0.0.0 beacon-apac-hkg1.rubiconproject.com
@@ -53,6 +55,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0	bidder.rtk.io
 0.0.0.0 branch.io
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bugsnag.com
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0	bucket.rtk.io
@@ -138,6 +141,7 @@
 0.0.0.0	ghb.adtelligent.com
 0.0.0.0 global.appnext.com
 0.0.0.0 global.px.quantserve.com
+0.0.0.0 go.automatad.com
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 gum.criteo.com
@@ -187,6 +191,7 @@
 0.0.0.0 mu.appnext.com
 0.0.0.0 mug.criteo.com
 0.0.0.0 navvy.media.net
+0.0.0.0 nep.advangelists.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 ocsp.digicert.com
@@ -226,6 +231,7 @@
 0.0.0.0 prg8.smartadserver.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 privacyportal.onetrust.com
+0.0.0.0 prod.appnexus.map.fastly.net
 0.0.0.0 pulsepoint-match.dotomi.com
 0.0.0.0 pushad.adsparc.com
 0.0.0.0 px.moatads.com
