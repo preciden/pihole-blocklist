@@ -57,6 +57,7 @@
 0.0.0.0 mmx-ds.cdn.whatsapp.net
 0.0.0.0 mmx-fb.cdn.whatsapp.net
 0.0.0.0 pps.whatsapp.net
+0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 scontent.whatsapp.net
 0.0.0.0 static.whatsapp.net
 0.0.0.0 translate.whatsapp.com
