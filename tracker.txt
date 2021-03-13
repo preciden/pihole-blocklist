@@ -193,6 +193,7 @@
 0.0.0.0 mb.moatads.com
 0.0.0.0 media.net
 0.0.0.0 moat.com
+0.0.0.0 moengage.com
 0.0.0.0 moengagewebsdk.imgix.net
 0.0.0.0 mgr.consensu.org
 0.0.0.0 mu.appnext.com
