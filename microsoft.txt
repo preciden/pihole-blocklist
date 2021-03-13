@@ -406,6 +406,7 @@
 0.0.0.0 odc.officeapps.live.com
 0.0.0.0 odinvzc.azureedge.net
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
+0.0.0.0 *.pipe.aria.microsoft.com
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preview.msn.com
 0.0.0.0 prod-collecticon.outlookmobile.com
