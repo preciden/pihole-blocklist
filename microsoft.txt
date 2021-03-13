@@ -23,6 +23,7 @@
 0.0.0.0 api.cdp.dsp.mp.microsoft.com.nsatc.net
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.diagnostics.office.com
+0.0.0.0 api.msn.com
 0.0.0.0 app.measurement.com
 0.0.0.0 arc.msn.com
 0.0.0.0 arc.msn.com.nsatc.net
@@ -106,6 +107,7 @@
 0.0.0.0 bn4sch101123202.wns.windows.com
 0.0.0.0 bn4sch102110124.wns.windows.com
 0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 business.bing.com
