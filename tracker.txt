@@ -34,6 +34,7 @@
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.daznfeeds.com
 0.0.0.0 api.drift.com
+0.0.0.0 api.factors.ai
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.hubapi.com
 0.0.0.0 api.leanplum.com
@@ -41,6 +42,7 @@
 0.0.0.0 apiv2.moengage.com
 0.0.0.0	api.vuukle.com
 0.0.0.0 app.adjust.com
+0.0.0.0 app.factors.ai
 0.0.0.0 app.hubspot.com
 0.0.0.0 app.link
 0.0.0.0 app-log.adpushup.com
@@ -82,6 +84,7 @@
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.mgid.com
+0.0.0.0 cdn.moengage.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.paddle.com
 0.0.0.0 cdn.parsely.com
@@ -190,6 +193,7 @@
 0.0.0.0 mb.moatads.com
 0.0.0.0 media.net
 0.0.0.0 moat.com
+0.0.0.0 moengagewebsdk.imgix.net
 0.0.0.0 mgr.consensu.org
 0.0.0.0 mu.appnext.com
 0.0.0.0 mug.criteo.com
@@ -262,6 +266,7 @@
 0.0.0.0	sbp.izooto.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 sdk.adspruce.com
+0.0.0.0 sdk-01.moengage.com
 0.0.0.0 sectigo.com
 0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 secure.quantserve.com
@@ -344,6 +349,7 @@
 0.0.0.0 vdoai-d.openx.net
 0.0.0.0 vsb115.tawk.to
 0.0.0.0 web.hb.ad.cpe.dotomi.com
+0.0.0.0 websdk.moengage.com
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 www.appsflyer.com
 0.0.0.0 www.dianomi.com
