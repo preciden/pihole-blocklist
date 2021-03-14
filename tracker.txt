@@ -51,6 +51,7 @@
 0.0.0.0 assets.moat.com
 0.0.0.0 b2cdn.automatad.com
 0.0.0.0 b.gemini.yahoo.com
+0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bam.nr-data.netv
 0.0.0.0 beacon-apac-hkg1.rubiconproject.com
 0.0.0.0 beacon-perf-hkg1.rubiconproject.net.akadns.net
@@ -75,6 +76,7 @@
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 cdn.appnext.com
+0.0.0.0 cdn.automatad.com
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.branch.io
 0.0.0.0	cdn.carbonads.com
@@ -89,6 +91,7 @@
 0.0.0.0 cdn.paddle.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
@@ -132,6 +135,7 @@
 0.0.0.0 events.cdnwidget.com
 0.0.0.0 events.evie.com
 0.0.0.0 events.split.io
+0.0.0.0 experience.tinypass.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fl.adpxl.co
 0.0.0.0 forms.hubspot.com
@@ -266,6 +270,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0	sbp.izooto.com
 0.0.0.0 script.hotjar.com
+0.0.0.0 scorecardresearch.com
 0.0.0.0 sdk.adspruce.com
 0.0.0.0 sdk-01.moengage.com
 0.0.0.0 sectigo.com
@@ -323,6 +328,7 @@
 0.0.0.0 telemetry-prod-1054754349.us-east-1.elb.amazonaws.com
 0.0.0.0 test.quantcast.mgr.consensu.org
 0.0.0.0 thor.rtk.io
+0.0.0.0 tinypass.com
 0.0.0.0 tls13.taboola.map.fastly.net
 0.0.0.0 tlx.3lift.com
 0.0.0.0 token.rubiconproject.com
