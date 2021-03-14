@@ -102,8 +102,10 @@
 0.0.0.0 consensu.org
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consentcdn.cookiebot.com
+0.0.0.0 console.vertoz.com
 0.0.0.0 contextual.media.net
 0.0.0.0 conversions.appsflyer.com
+0.0.0.0 cookie.vrtzads.com
 0.0.0.0 cpm.adsolut.in
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.emxdgt.com
@@ -350,10 +352,12 @@
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 va.tawk.to
 0.0.0.0 vars.hotjar.com
+0.0.0.0 vertoz.com
 0.0.0.0 vid-io-iad.springserve.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 vod.adspruce.com
 0.0.0.0 vdoai-d.openx.net
+0.0.0.0 vrtzads.com
 0.0.0.0 vsb115.tawk.to
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 websdk.moengage.com
