@@ -63,6 +63,7 @@
 0.0.0.0 bl3301-a.1drv.com
 0.0.0.0 bl3301-c.1drv.com
 0.0.0.0 bl3301-g.1drv.com
+0.0.0.0 bn1305.settings.live.net
 0.0.0.0 bn2b-cor001.api.p001.1drv.com
 0.0.0.0 bn2b-cor002.api.p001.1drv.com
 0.0.0.0 bn2b-cor003.api.p001.1drv.com
@@ -376,6 +377,7 @@
 0.0.0.0 identity.osi.office.net
 0.0.0.0 in.appcenter.ms
 0.0.0.0 inference.location.live.net
+0.0.0.0 ipv6.msftconnecttest.com
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 kv501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
@@ -436,6 +438,7 @@
 0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
+0.0.0.0 settings.live.net
 0.0.0.0 sg2p.wns.windows.com
 # 0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 *.smartscreen.microsoft.com
