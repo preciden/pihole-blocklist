@@ -158,6 +158,7 @@
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 h250p-y3urn.ads.tremorhub.com
+0.0.0.0 hb.vntsm.com
 0.0.0.0 heap.io
 0.0.0.0 heapanalytics.com
 0.0.0.0 hbopenbid.pubmatic.com
@@ -271,6 +272,7 @@
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s.adtelli.com
 0.0.0.0	s.vdo.ai
+0.0.0.0 s.yimg.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0	sbp.izooto.com
 0.0.0.0 script.hotjar.com
