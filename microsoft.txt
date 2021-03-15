@@ -1,3 +1,5 @@
+# 0.0.0.0 11.au.download.windowsupdate.com
+# 0.0.0.0 2.au.download.windowsupdate.com
 0.0.0.0 4.bing.com
 0.0.0.0 7a75bade15cbd2faf19418baa7b63a71.clo.footprintdns.com
 0.0.0.0 a.ads1.msn.com
