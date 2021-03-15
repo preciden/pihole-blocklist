@@ -163,6 +163,7 @@
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 id.sharedid.org
 0.0.0.0 ih.adscale.de
 0.0.0.0 images.taboola.com
 0.0.0.0 image2.pubmatic.com
@@ -204,6 +205,7 @@
 0.0.0.0 mgr.consensu.org
 0.0.0.0 mu.appnext.com
 0.0.0.0 mug.criteo.com
+0.0.0.0 my.rtmark.net
 0.0.0.0 navvy.media.net
 0.0.0.0 nep.advangelists.com
 0.0.0.0 notify.bugsnag.com
