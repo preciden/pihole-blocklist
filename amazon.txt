@@ -6,6 +6,7 @@
 0.0.0.0	aax-us-east.amazon-adsystem.com
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 api.amazon.in
+0.0.0.0 appx.transient.amazon.in
 0.0.0.0 arcus-uswest.amazon.com
 0.0.0.0 assoc-eu.associates-amazon.com
 0.0.0.0 cloudfront-labs.amazonaws.com
