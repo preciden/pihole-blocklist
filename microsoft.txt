@@ -1,5 +1,5 @@
-# 0.0.0.0 11.au.download.windowsupdate.com
-# 0.0.0.0 2.au.download.windowsupdate.com
+0.0.0.0 11.au.download.windowsupdate.com
+0.0.0.0 2.au.download.windowsupdate.com
 0.0.0.0 4.bing.com
 0.0.0.0 7a75bade15cbd2faf19418baa7b63a71.clo.footprintdns.com
 0.0.0.0 a.ads1.msn.com
@@ -260,7 +260,7 @@
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dns.msftncsi.com
-# 0.0.0.0 download.windowsupdate.com
+0.0.0.0 download.windowsupdate.com
 0.0.0.0 dual-a-0001.a-msedge.net
 0.0.0.0 e961382e7e9f4010c7d6870c5b72bdbb.nrb.footprintdns.com
 0.0.0.0 ebb7ae00485ad1c01fa7ca2abacfa333.clo.footprintdns.com
@@ -397,7 +397,7 @@
 0.0.0.0 licensingphone.mp.microsoft.com
 0.0.0.0 live.rads.msn.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
-# 0.0.0.0 login.live.com
+0.0.0.0 login.live.com
 0.0.0.0 login.microsoftonline.com
 0.0.0.0 login.windows.net
 0.0.0.0 m.adnxs.com
