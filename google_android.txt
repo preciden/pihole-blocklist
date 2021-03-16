@@ -9,3 +9,4 @@
 0.0.0.0 play.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.googleapis.com
