@@ -421,7 +421,7 @@
 0.0.0.0 odc.officeapps.live.com
 0.0.0.0 odinvzc.azureedge.net
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
-0.0.0.0 *.pipe.aria.microsoft.com
+0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preview.msn.com
 0.0.0.0 prod-collecticon.outlookmobile.com
@@ -445,8 +445,8 @@
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settings.live.net
 0.0.0.0 sg2p.wns.windows.com
-# 0.0.0.0 slscr.update.microsoft.com
-0.0.0.0 *.smartscreen.microsoft.com
+0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 smartscreen.microsoft.com
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0 sn3301-c.1drv.com
 0.0.0.0 sn3301-e.1drv.com
@@ -480,10 +480,10 @@
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 time.windows.com
 0.0.0.0 tlu.dl.delivery.mp.microsoft.com
-# 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 uif.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
-# 0.0.0.0 *.update.microsoft.com
+0.0.0.0 update.microsoft.com
 0.0.0.0 us-api.asm.skype.com
 0.0.0.0 us-v10.events.data.microsoft.com
 0.0.0.0 us-v20.events.data.microsoft.com
@@ -500,7 +500,6 @@
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 watson.*.microsoft.com
 0.0.0.0 watson.live.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.ppe.telemetry.microsoft.com
