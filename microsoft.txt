@@ -394,6 +394,7 @@
 0.0.0.0 l-ring.msedge.net
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 licensingphone.mp.microsoft.com
 0.0.0.0 live.rads.msn.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
 # 0.0.0.0 login.live.com
