@@ -70,6 +70,7 @@
 0.0.0.0 bl3301-c.1drv.com
 0.0.0.0 bl3301-g.1drv.com
 0.0.0.0 bn1305.settings.live.net
+0.0.0.0 bn1305.storage.live.com
 0.0.0.0 bn2b-cor001.api.p001.1drv.com
 0.0.0.0 bn2b-cor002.api.p001.1drv.com
 0.0.0.0 bn2b-cor003.api.p001.1drv.com
