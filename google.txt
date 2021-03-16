@@ -88,6 +88,7 @@
 0.0.0.0 ee7430e150d80180270c15f8d1a03a41.safeframe.googlesyndication.com
 0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 fd7097463a9b9028713d4d0eb933434b.safeframe.googlesyndication.com
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 firebase-settings.crashlytics.com
