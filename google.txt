@@ -126,6 +126,7 @@
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 instantmessaging-pa-ap.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
+0.0.0.0 kidsmanagement-pa.googleapis.com
 0.0.0.0 lamssettings-pa.googleapis.com
 0.0.0.0 lens-pa.googleapis.com
 0.0.0.0 lens-storage.storage.googleapis.com
