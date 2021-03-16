@@ -18,6 +18,7 @@
 0.0.0.0 aa.google.com
 0.0.0.0 accounts.google.com
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
