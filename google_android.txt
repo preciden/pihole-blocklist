@@ -7,6 +7,7 @@
 0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 history.google.com
 0.0.0.0 in.airtel.rcs.telephony.goog
 0.0.0.0 kidsmanagement-pa.googleapis.com
@@ -20,3 +21,4 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 www.googleapis.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagmanager.com
