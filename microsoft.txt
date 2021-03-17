@@ -502,6 +502,7 @@
 0.0.0.0 uif.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
 0.0.0.0 update.microsoft.com
+0.0.0.0 urlp.sfbassets.com
 0.0.0.0 us-api.asm.skype.com
 0.0.0.0 us-v10.events.data.microsoft.com
 0.0.0.0 us-v20.events.data.microsoft.com
