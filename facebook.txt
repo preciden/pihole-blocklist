@@ -9,6 +9,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 i.instagram.com
+0.0.0.0 instagram.com
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 instagram.fbeg7-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom3-2.fna.fbcdn.net
