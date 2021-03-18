@@ -113,14 +113,14 @@
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
-# 0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 googlescholar.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 growth-pa.googleapis.com
-# 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 hangouts.google.com
 0.0.0.0 history.google.com
 0.0.0.0 id.google.com
@@ -133,6 +133,8 @@
 0.0.0.0 lamssettings-pa.googleapis.com
 0.0.0.0 lens-pa.googleapis.com
 0.0.0.0 lens-storage.storage.googleapis.com
+0.0.0.0 lh3.google.com
+0.0.0.0 lh3.googleusercontent.com
 0.0.0.0 maa03s28-in-f10.1e100.net #messageapp
 0.0.0.0 maa05s12-in-f10.1e100.net #messageapp
 0.0.0.0 manifest.googlevideo.com
