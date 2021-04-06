@@ -347,6 +347,7 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0	track.vdo.ai
+0.0.0.0 tracker.raspberrypi.org
 0.0.0.0 trc.taboola.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 unbounce.com
