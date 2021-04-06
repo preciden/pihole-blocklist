@@ -51,6 +51,7 @@
 0.0.0.0 faq.whatsapp.com
 0.0.0.0 g.whatsapp.net
 0.0.0.0 media-bom1-2.cdn.whatsapp.net
+0.0.0.0 media.fidr4-1.fna.whatsapp.net
 0.0.0.0 media-msp1-1.cdn.whatsapp.net
 0.0.0.0 mmg-fna.whatsapp.net
 0.0.0.0 mmg.whatsapp.net
