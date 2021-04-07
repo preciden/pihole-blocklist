@@ -219,6 +219,7 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googleapis.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.scholar.google.com
 0.0.0.0 www.googleoptimize.com
