@@ -24,3 +24,4 @@
 0.0.0.0 www.googleapis.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
