@@ -14,6 +14,7 @@
 0.0.0.0 in.airtel.rcs.telephony.goog
 0.0.0.0 kidsmanagement-pa.googleapis.com
 0.0.0.0 lens-pa.googleapis.com
+0.0.0.0 metric.gstatic.com
 0.0.0.0 mtalk.google.com
 0.0.0.0 myactivity.google.com
 0.0.0.0 pagead2.googlesyndication.com
