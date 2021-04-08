@@ -127,6 +127,8 @@
 0.0.0.0 by3301-c.1drv.com
 0.0.0.0 by3301-e.1drv.com
 0.0.0.0 c.atdmt.com
+0.0.0.0 c.bing.ms
+0.0.0.0 c.clarity.ms
 0.0.0.0 c.msn.com
 0.0.0.0 c-msn-com-nsatc.trafficmanager.net
 0.0.0.0 c-ring.msedge.net
