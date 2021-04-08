@@ -1,12 +1,14 @@
 0.0.0.0 1-1.chat.api.drift.com
 0.0.0.0 684d0d3e.akstat.io
 0.0.0.0 1078430-30.chat.api.drift.com
+0.0.0.0 a.ad.gt
 0.0.0.0 a.teads.tv
 0.0.0.0	a.vdo.ai
 0.0.0.0 a1089.dscd.akamai.net
 0.0.0.0 a1916.dscr.akamai.net
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad-delivery.net
+0.0.0.0 ad.gt
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ad.turn.com
 0.0.0.0 admin.appnext.com
@@ -164,6 +166,7 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 id.sharedid.org
+0.0.0.0 ids.ad.gt
 0.0.0.0 ih.adscale.de
 0.0.0.0 images.taboola.com
 0.0.0.0 image2.pubmatic.com
@@ -217,11 +220,13 @@
 0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 p2.fwpixel.com
+0.0.0.0 p.ad.gt
 0.0.0.0 p.ads.mopub.com
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 pdev.chartbeat.net
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pippio.com
+0.0.0.0 pixels.ad.gt
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
 0.0.0.0	pixel-eu.rubiconproject.com
 0.0.0.0 pixel-origin.mathtag.com
