@@ -248,6 +248,8 @@
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 cp501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 cp701.prod.do.dsp.mp.microsoft.com
+0.0.0.0 cp801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 cs.dds.microsoft.com
 0.0.0.0 ctldl.windowsupdate.com
