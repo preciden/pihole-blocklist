@@ -176,6 +176,7 @@
 0.0.0.0 img.onesignal.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 indexww.com
 0.0.0.0 info.adspruce.com
 0.0.0.0 infusionsoft.com
 0.0.0.0 inshotmaterial.oss-cn-shanghai.aliyuncs.com
@@ -186,6 +187,7 @@
 0.0.0.0 jita.rtk.io
 0.0.0.0 jp-u.openx.net
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.ad-score.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 keap.com
