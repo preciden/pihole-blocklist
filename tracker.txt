@@ -173,6 +173,7 @@
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 image7.pubmatic.com
 0.0.0.0	image8.pubmatic.com
+0.0.0.0 img.img-taboola.com
 0.0.0.0 img.onesignal.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
