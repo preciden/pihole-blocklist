@@ -146,6 +146,7 @@
 0.0.0.0 maps.gstatic.com
 0.0.0.0 mdh-pa.googleapis.com
 0.0.0.0 meet.google.com
+0.0.0.0 metric.gstatic.com
 0.0.0.0 mobilemaps-pa.googleapis.com
 0.0.0.0 mtalk.google.com
 0.0.0.0 myactivity.google.com
