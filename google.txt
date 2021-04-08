@@ -33,6 +33,7 @@
 0.0.0.0 alt7-mtalk.google.com
 0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 admin.google.com
+0.0.0.0 ajax.googleapis.com
 0.0.0.0 android.clients.google.com
 0.0.0.0 android.googleapis.com
 0.0.0.0 apis.google.com
@@ -97,8 +98,8 @@
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firebasestorage.googleapis.com
 0.0.0.0 firestore.googleapis.com
-# 0.0.0.0 fonts.googleapis.com
-# 0.0.0.0 fonts.gstatic.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g.cn
@@ -120,6 +121,7 @@
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 gstatic.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 hangouts.google.com
 0.0.0.0 history.google.com
