@@ -385,3 +385,4 @@
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x.yieldlift.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zem.outbrainimg.com
