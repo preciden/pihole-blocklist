@@ -241,6 +241,7 @@
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 clarity.microsoft.com
 0.0.0.0 client.wns.windows.com
+0.0.0.0 collections.mp.microsoft.com
 0.0.0.0 compatexchange1.trafficmanager.net
 0.0.0.0 config.edge.skype.com
 0.0.0.0 continuum.dds.microsoft.com
