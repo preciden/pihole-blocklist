@@ -38,8 +38,6 @@
 0.0.0.0 scontent-bom1-1.xx.fbcdn.net
 0.0.0.0 scontent-bom1-2.xx.fbcdn.net
 0.0.0.0 scontent-bom1-2.cdninstagram.com
-0.0.0.0 scontent.fbho1-1.fna.fbcdn.net
-0.0.0.0 scontent.fbho1-2.fna.fbcdn.net
 0.0.0.0 scontent-gig2-1.cdninstagram.com
 0.0.0.0 scontent-gru1-1.cdninstagram.com
 0.0.0.0 scontent-lim1-1.cdninstagram.com
@@ -48,6 +46,7 @@
 0.0.0.0 scontent-vie1-1.cdninstagram.com
 0.0.0.0 scontent.cdninstagram.com
 0.0.0.0 scontent.fbho1-1.fna.fbcdn.net
+0.0.0.0 scontent.fbho1-2.fna.fbcdn.net
 0.0.0.0 scontent.frpr1-1.fna.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 star-mini.c10r.facebook.com
