@@ -11,6 +11,8 @@
 0.0.0.0 ad.gt
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 ad.turn.com
+0.0.0.0 adgebra.co.in
+0.0.0.0 adgebra.in
 0.0.0.0 admin.appnext.com
 0.0.0.0 adpushup-d.openx.net
 0.0.0.0 ads-ap.v.ssp.yahoo.com
@@ -74,6 +76,7 @@
 0.0.0.0 c5.zedo.com
 # 0.0.0.0 captive.apple.com
 0.0.0.0 ccleaner.tools.avcdn.net
+0.0.0.0 cdn.adgebra.in
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.ampproject.org
@@ -187,6 +190,7 @@
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipac.ctnsnet.com
+0.0.0.0 ircdn.adgebra.in
 0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 jita.rtk.io
 0.0.0.0 jp-u.openx.net
