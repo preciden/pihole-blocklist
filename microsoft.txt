@@ -481,6 +481,7 @@
 0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 srtb.msn.com
 0.0.0.0 ssw.live.com
 0.0.0.0 statics.teams.cdn.office.net
 0.0.0.0 store-images.microsoft.com
