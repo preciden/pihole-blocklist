@@ -2,6 +2,7 @@
 0.0.0.0 abs-zero.twimg.com
 0.0.0.0 abs.twimg.com
 0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads.twitter.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api-0-4-0.twitter.com
 0.0.0.0 api-0-4-1.twitter.com
