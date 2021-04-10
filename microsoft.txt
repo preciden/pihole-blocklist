@@ -394,6 +394,7 @@
 0.0.0.0 i-sn3p-cor001.api.p001.1drv.com
 0.0.0.0 ic3.events.data.microsoft.com
 0.0.0.0 identity.osi.office.net
+0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 in.appcenter.ms
 0.0.0.0 inference.location.live.net
 0.0.0.0 ipv6.msftconnecttest.com
