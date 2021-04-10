@@ -94,6 +94,7 @@
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.tinypass.com
+0.0.0.0 cdn.tynt.com
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
@@ -166,6 +167,7 @@
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 ic.tynt.com
 0.0.0.0 id.sharedid.org
 0.0.0.0 ids.ad.gt
 0.0.0.0 ih.adscale.de
@@ -282,6 +284,7 @@
 0.0.0.0 s.yimg.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0	sbp.izooto.com
+0.0.0.0 sc.tynt.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sdk.adspruce.com
@@ -358,6 +361,7 @@
 0.0.0.0	track.vdo.ai
 0.0.0.0 tracker.raspberrypi.org
 0.0.0.0 trc.taboola.com
+0.0.0.0 tynt.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 unbounce.com
 0.0.0.0 uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com
