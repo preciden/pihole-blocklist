@@ -1,5 +1,6 @@
 0.0.0.0 ads.linkedin.com
 0.0.0.0 dms.licdn.com
+0.0.0.0 in.linkedin.com
 0.0.0.0 licdn.com
 0.0.0.0 linkedin.com
 0.0.0.0 linkedin.custhelp.com
@@ -7,6 +8,7 @@
 0.0.0.0 media.licdn.com
 0.0.0.0 media-exp1.licdn.com
 0.0.0.0 platform.linkedin.com
+0.0.0.0 pop-edc2.mix.linkedin.com
 0.0.0.0 pop-esg3.mix.linkedin.com
 0.0.0.0 pop-esv5.mix.linkedin.com
 0.0.0.0 px.ads.linkedin.com
