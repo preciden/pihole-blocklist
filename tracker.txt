@@ -101,6 +101,7 @@
 0.0.0.0 cm.adgrx.com
 0.0.0.0 cm.mgid.com
 0.0.0.0 cmp.teads.mgr.consensu.org
+0.0.0.0 commercial.daznservices.com
 0.0.0.0 consensu.org
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consentcdn.cookiebot.com
