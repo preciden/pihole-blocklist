@@ -21,11 +21,13 @@
 0.0.0.0 offline-search.yandex.net
 0.0.0.0 passport.yandex.com
 0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 resize.yandex.net 
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 sba.yandex.net
 0.0.0.0	sec.api.browser.yandex.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 storage.ape.yandex.net
+0.0.0.0 weather.tap.yandex.ru 
 0.0.0.0 www.yandex.ru
 0.0.0.0 yastatic.net
 0.0.0.0 yandex.com
