@@ -54,6 +54,7 @@
 0.0.0.0 fonts.twitter.com
 0.0.0.0 global.glbtls.t.co
 0.0.0.0 help.twitter.com
+0.0.0.0 m.twitter.com
 0.0.0.0 mobile.twitter.com
 0.0.0.0 na.glbtls.t.co
 0.0.0.0 pbs.twimg.com
