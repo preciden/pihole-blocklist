@@ -67,6 +67,7 @@
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.rad.msn.com
 0.0.0.0 b-ring.msedge.net
+0.0.0.0 bat.bing.com
 0.0.0.0 bing.com
 0.0.0.0 bing.in
 0.0.0.0 bingads.microsoft.com
