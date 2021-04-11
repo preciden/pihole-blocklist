@@ -441,6 +441,8 @@
 0.0.0.0 ocws.officeapps.live.com
 0.0.0.0 odc.officeapps.live.com
 0.0.0.0 odinvzc.azureedge.net
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 office15client.microsoft.com
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 outlook.live.com
