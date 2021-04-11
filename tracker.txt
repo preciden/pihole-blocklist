@@ -358,6 +358,7 @@
 0.0.0.0 tls13.taboola.map.fastly.net
 0.0.0.0 tlx.3lift.com
 0.0.0.0 token.rubiconproject.com
+0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 tps20801.leverify.com
 0.0.0.0 tps20808.doubleverify.com
 0.0.0.0 tr.blismedia.com
