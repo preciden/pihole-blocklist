@@ -5,6 +5,7 @@
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.config.skype.com
 0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 activity.windows.com
@@ -258,6 +259,7 @@
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 cxcs.microsoft.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
+0.0.0.0 d.docs.live.net
 0.0.0.0 da.xboxservices.com
 0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
