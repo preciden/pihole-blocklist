@@ -25,6 +25,7 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 verifiedsms-pa.googleapis.com
 0.0.0.0 www.googleapis.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googlesyndication.com
