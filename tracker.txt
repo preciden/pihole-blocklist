@@ -67,6 +67,7 @@
 0.0.0.0 bugsnag.com
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0	bucket.rtk.io
+0.0.0.0 c.aaxads.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.mgid.com
 0.0.0.0 c.statcounter.com
@@ -199,6 +200,10 @@
 0.0.0.0 js.ad-score.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 keap.com
+0.0.0.0 l.aaxads.com
+0.0.0.0 l1.aaxads.com
+0.0.0.0 l2.aaxads.com
+0.0.0.0 l3.aaxads.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 lg3.media.net
 0.0.0.0 m.servedby-buysellads.com
@@ -382,6 +387,7 @@
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 websdk.moengage.com
 0.0.0.0 www14.smartadserver.com
+0.0.0.0 www.aaxdetect.com
 0.0.0.0 www.appsflyer.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.media.net
