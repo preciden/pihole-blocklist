@@ -444,6 +444,7 @@
 0.0.0.0 officeclient.microsoft.com
 0.0.0.0 office15client.microsoft.com
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
+0.0.0.0 oneclient.sfx.ms
 0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 outlook.live.com
 0.0.0.0 outlook.office365.com
