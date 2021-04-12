@@ -9,5 +9,6 @@
 0.0.0.0 static.twitchcdn.net
 0.0.0.0 twitch.amazon.com
 0.0.0.0 twitch.map.fastly.net
+0.0.0.0 twitch.prod.entry.video-ads.a2z.com
 0.0.0.0 usher.ttvnw.net
 0.0.0.0 www.twitch.tv
