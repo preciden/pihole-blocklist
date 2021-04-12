@@ -8,6 +8,7 @@
 0.0.0.0 dialercallinfolookup-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 googleads.g.doubleclick.net 
 0.0.0.0 googlesyndication.com
 0.0.0.0 history.google.com
