@@ -1,7 +1,5 @@
 0.0.0.0 _sips._tcp.in.airtel.rcs.telephony.goog
 0.0.0.0 ad.doubleclick.net
-0.0.0.0 android.clients.google.com
-0.0.0.0 android.googleapis.com
 0.0.0.0 app-measurement.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons3.gvt2.com
@@ -16,10 +14,7 @@
 0.0.0.0 lens-pa.googleapis.com
 0.0.0.0 metric.gstatic.com
 0.0.0.0 mtalk.google.com
-0.0.0.0 myactivity.google.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 play.googleapis.com
-0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ssl.google-analytics.com
