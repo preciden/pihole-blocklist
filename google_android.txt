@@ -3,6 +3,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons3.gvt2.com
+0.0.0.0 businesscalls.googleapis.com 
 0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
