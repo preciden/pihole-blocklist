@@ -20,6 +20,7 @@
 0.0.0.0 mobileproxy.passport.yandex.net
 0.0.0.0 offline-search.yandex.net
 0.0.0.0 passport.yandex.com
+0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 resize.yandex.net 
 0.0.0.0 rosenberg.appmetrica.yandex.net
