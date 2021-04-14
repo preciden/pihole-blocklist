@@ -392,6 +392,7 @@
 0.0.0.0 vsb115.tawk.to
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 websdk.moengage.com
+0.0.0.0 www8.smartadserver.com
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 www.aaxdetect.com
 0.0.0.0 www.appsflyer.com
