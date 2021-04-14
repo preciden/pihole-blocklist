@@ -38,6 +38,7 @@
 0.0.0.0 msh.amazon.co.uk
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 primevideo.com
+0.0.0.0 prod.entry.video-ads.a2z.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 snpe-tflite-prod.s3.ap-south-1.amazonaws.com
 0.0.0.0 traffic.alexa.com
