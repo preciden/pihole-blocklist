@@ -33,6 +33,7 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.vdo.ai
+0.0.0.0 antenna.ayads.co
 0.0.0.0 ap.lijit.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api.bounceexchange.com
@@ -155,6 +156,7 @@
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geolocation.daznservices.com
 0.0.0.0 geolocation.onetrust.com
+0.0.0.0 geoworker.ayads.co
 0.0.0.0	ghb1.adtelligent.com
 0.0.0.0 ghb2.adtelligent.com
 0.0.0.0	ghb.adtelligent.com
@@ -233,6 +235,7 @@
 0.0.0.0 ocsp.sectigo.com
 0.0.0.0 onesignal.com
 0.0.0.0 onetag-sys.com
+0.0.0.0 optchk.ayads.co
 0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 p2.fwpixel.com
@@ -292,6 +295,7 @@
 0.0.0.0 s.adtelli.com
 0.0.0.0	s.vdo.ai
 0.0.0.0 s.yimg.com
+0.0.0.0 sac.ayads.co
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0	sbp.izooto.com
 0.0.0.0 sc.tynt.com
