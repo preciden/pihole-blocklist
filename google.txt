@@ -57,6 +57,7 @@
 0.0.0.0 blogger.l.google.com
 0.0.0.0 businesscalls.googleapis.com
 0.0.0.0 c127a92b3a20c5842e8a534f7ff62e51.safeframe.googlesyndication.com
+0.0.0.0 calendarpushsubscription-pa.googleapis.com
 0.0.0.0 chat-pa.clients6.google.com
 0.0.0.0 chrome.cloudflare-dns.com
 0.0.0.0 chrome.google.com
@@ -81,6 +82,7 @@
 0.0.0.0 d0b27c5563fb1b59b816b26af7e7cc75.safeframe.googlesyndication.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com #phoneapp
 0.0.0.0 digitalassetlinks.googleapis.com
+0.0.0.0 dl.google.com 
 0.0.0.0 dns.google
 0.0.0.0 docs.google.com
 0.0.0.0 drive.google.com
