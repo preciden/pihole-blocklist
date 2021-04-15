@@ -32,6 +32,7 @@
 0.0.0.0 alfred.wru.ai
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.newscred.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.vdo.ai
 0.0.0.0 antenna.ayads.co
 0.0.0.0 ap.lijit.com
@@ -106,6 +107,7 @@
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 chat.api.drift.com
 0.0.0.0 cm.adgrx.com
+0.0.0.0 cm.lentainform.com
 0.0.0.0 cm.mgid.com
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 commercial.daznservices.com
@@ -303,6 +305,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0	sbp.izooto.com
 0.0.0.0 sc.tynt.com
+0.0.0.0 script.anura.io
 0.0.0.0 script.hotjar.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sdk.adspruce.com
@@ -340,6 +343,7 @@
 0.0.0.0 static.semrush.com
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.wp.com
+0.0.0.0 stun.anura.io
 0.0.0.0 subscription.omnithrottle.com
 0.0.0.0 success.qualtrics.com
 0.0.0.0 survey.survicate.com
