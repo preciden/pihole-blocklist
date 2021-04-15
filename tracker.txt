@@ -295,6 +295,7 @@
 0.0.0.0	s2s.rtk.io
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s.adtelli.com
+0.0.0.0 s.go-mpulse.net
 0.0.0.0	s.vdo.ai
 0.0.0.0 s.yimg.com
 0.0.0.0 sac.ayads.co
