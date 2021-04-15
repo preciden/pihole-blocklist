@@ -125,6 +125,7 @@
 0.0.0.0 data.flurry.com
 0.0.0.0 de.tynt.com
 0.0.0.0 delivery.adrecover.com
+0.0.0.0 depart.trinitymedia.ai
 0.0.0.0 df231.infusionsoft.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dmp.adform.net
@@ -381,6 +382,7 @@
 0.0.0.0	track.vdo.ai
 0.0.0.0 tracker.raspberrypi.org
 0.0.0.0 trc.taboola.com
+0.0.0.0 trinitymedia.ai
 0.0.0.0 tynt.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 unbounce.com
@@ -388,6 +390,7 @@
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 va.tawk.to
 0.0.0.0 vars.hotjar.com
+0.0.0.0 vd.trinitymedia.ai
 0.0.0.0 vertoz.com
 0.0.0.0 vid-io-iad.springserve.com
 0.0.0.0 video-ads.rubiconproject.com
@@ -402,6 +405,7 @@
 0.0.0.0 www-api.qualtrics.com
 0.0.0.0 www.aaxdetect.com
 0.0.0.0 www.appsflyer.com
+0.0.0.0 www.clarity.ms
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.media.net
 0.0.0.0 www.moat.comevents.cdnwidget.com
