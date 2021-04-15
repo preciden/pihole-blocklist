@@ -92,6 +92,7 @@
 0.0.0.0 ee7430e150d80180270c15f8d1a03a41.safeframe.googlesyndication.com
 0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 encrypted-vtbn3.gstatic.com
 0.0.0.0 espresso-pa.clients6.google.com
 0.0.0.0 fd7097463a9b9028713d4d0eb933434b.safeframe.googlesyndication.com
 0.0.0.0 ff.doubleclick.net
@@ -127,6 +128,7 @@
 0.0.0.0 gstatic.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 hangouts.google.com
+0.0.0.0 hi7gtpkzxvd2sjr62gu7rwyooisakaqbgakjakbztekjt6coc35q-c2r.metric.gstatic.com
 0.0.0.0 history.google.com
 0.0.0.0 id.google.com
 0.0.0.0 imasdk.googleapis.com
@@ -140,6 +142,7 @@
 0.0.0.0 lens-storage.storage.googleapis.com
 0.0.0.0 lh3.google.com
 0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 lh2.l.google.com
 0.0.0.0 maa03s28-in-f10.1e100.net #messageapp
 0.0.0.0 maa05s12-in-f10.1e100.net #messageapp
 0.0.0.0 manifest.googlevideo.com
