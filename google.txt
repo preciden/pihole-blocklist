@@ -80,6 +80,7 @@
 0.0.0.0 cse.google.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 d0b27c5563fb1b59b816b26af7e7cc75.safeframe.googlesyndication.com
+0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com #phoneapp
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 dl.google.com 
