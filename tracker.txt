@@ -172,6 +172,7 @@
 0.0.0.0 global.appnext.com
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 go.automatad.com
+0.0.0.0 go.ezodn.com
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 gum.criteo.com
