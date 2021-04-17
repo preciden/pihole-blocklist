@@ -41,6 +41,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 apps.google.com
 0.0.0.0 appswaldo-pa.clients6.google.com
+0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 b2e939ecce93c02c6f9ec933a89e9bd5.safeframe.googlesyndication.com
 0.0.0.0 b5a97fa335290ed57e3effee1591a147.safeframe.googlesyndication.com
 0.0.0.0 beacons2.gvt2.com
