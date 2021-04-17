@@ -553,6 +553,7 @@
 0.0.0.0 wdcpalt.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 win10-trt.msedge.net
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 win1710.ipv6.microsoft.com
