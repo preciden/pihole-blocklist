@@ -69,6 +69,7 @@
 0.0.0.0 bugsnag.com
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0	bucket.rtk.io
+0.0.0.0 buy-ap.piano.io
 0.0.0.0 c.aaxads.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.mgid.com
@@ -79,6 +80,7 @@
 0.0.0.0 c5.zedo.com
 0.0.0.0 captive.apple.com
 0.0.0.0 ccleaner.tools.avcdn.net
+0.0.0.0 cdn-ap.piano.io
 0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 cdn.adgebra.in
 0.0.0.0 cdn.adsafeprotected.com
@@ -135,6 +137,7 @@
 0.0.0.0 dps.jp.cinarra.com
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsum.casalemedia.com
+0.0.0.0 experience-ap.piano.io
 0.0.0.0 e3.adpushup.com
 0.0.0.0 e8736.e7.akamaiedge.net
 0.0.0.0 e8937.dscb.akamaiedge.net
