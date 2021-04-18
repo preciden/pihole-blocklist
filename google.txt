@@ -1,11 +1,13 @@
 0.0.0.0 0.client-channel.google.com
 0.0.0.0 0431778e02e3f18eede9aad7884236ed.safeframe.googlesyndication.com
+0.0.0.0 1a3c24acf972911416459390d0738668.safeframe.googlesyndication.com
 0.0.0.0 11e052fadd25f66d0870547ed8a59a85.safeframe.googlesyndication.com
 0.0.0.0 3573281.fls.doubleclick.net
 0.0.0.0 36078e8f4859caf1d258a82e98ecc760.safeframe.googlesyndication.com
 0.0.0.0 4b7c3099c89fc1973c8434bfdd238cc9.safeframe.googlesyndication.com
 0.0.0.0 58373cd1ce40085e504bf17c501e83f6.safeframe.googlesyndication.com
-0.0.0.0 58c0625375c086e19ae8dab571649033.safeframe.googlesyndication.com 
+0.0.0.0 58c0625375c086e19ae8dab571649033.safeframe.googlesyndication.com
+0.0.0.0 6a0874e62d4b1a2a9dfdb7f776254f48.safeframe.googlesyndication.com
 0.0.0.0 60209db7c6128a918ee13ca99e144d99.safeframe.googlesyndication.com
 0.0.0.0 62854570126cfc8c3aeb538d57c1fef6.safeframe.googlesyndication.com
 0.0.0.0 6312e7f74ce377577b1a68b62c66a5c4.safeframe.googlesyndication.com
@@ -59,6 +61,7 @@
 0.0.0.0 blogger.l.google.com
 0.0.0.0 businesscalls.googleapis.com
 0.0.0.0 c127a92b3a20c5842e8a534f7ff62e51.safeframe.googlesyndication.com
+0.0.0.0 c4884e4a5321d0ebd20dee07b02aa3dc.safeframe.googlesyndication.com
 0.0.0.0 calendarpushsubscription-pa.googleapis.com
 0.0.0.0 chat-pa.clients6.google.com
 0.0.0.0 chrome.cloudflare-dns.com
