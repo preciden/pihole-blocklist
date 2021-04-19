@@ -55,13 +55,21 @@
 0.0.0.0 array615.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array616.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array617.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array802.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array803.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array804.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array805.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array806.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array807.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array808.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array809.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array810.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array811.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array812.prod.do.dsp.mp.microsoft.com
 0.0.0.0 array813.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array814.prod.do.dsp.mp.microsoft.com
+0.0.0.0 array815.prod.do.dsp.mp.microsoft.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 assets.msn.com
 # 0.0.0.0 au.download.windowsupdate.com
