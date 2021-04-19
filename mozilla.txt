@@ -22,6 +22,7 @@
 # 0.0.0.0 shavar.prod.mozaws.net
 # 0.0.0.0 shavar.services.mozilla.com
 # 0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 socorro-collector.services.mozilla.com
 # 0.0.0.0 sync-1-us-west1-g.sync.services.mozilla.com
 # 0.0.0.0 token.r53-2.services.mozilla.com
 # 0.0.0.0 token.services.mozilla.com
