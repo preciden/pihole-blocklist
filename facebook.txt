@@ -1711,6 +1711,7 @@
 0.0.0.0 z-p4-rupload.facebook.com
 0.0.0.0 z-p4-upload.facebook.com
 0.0.0.0 z-p4.facebook.com
+0.0.0.0 z-p42-instagram.c10r.facebook.com
 0.0.0.0 z-upload.facebook.com
 0.0.0.0 z.facebook.com
 0.0.0.0 zero.beta.facebook.com
