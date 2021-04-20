@@ -9,6 +9,7 @@
 0.0.0.0 api-user.huami.com
 0.0.0.0 api-watch-us2.huami.com
 0.0.0.0 app-analytics-us.huami.com
+0.0.0.0 app.chat.global.xiaomi.net
 0.0.0.0 api.account.xiaomi.com
 0.0.0.0 auth-us2.huami.com
 0.0.0.0 cgi.connect.qq.com
