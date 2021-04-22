@@ -241,6 +241,7 @@
 0.0.0.0 nep.advangelists.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nr.taboola.com
+0.0.0.0 o400018.ingest.sentry.io
 0.0.0.0 ocsp.int-x3.letsencrypt.org
 0.0.0.0 ocsp.sectigo.com
 0.0.0.0 onesignal.com
